@@ -1,27 +1,41 @@
 {
-  "last_updated": "2026-03-28T07:05:15Z",
+  "last_updated": "2026-03-28T07:53:04Z",
   "data": {
     "top_stories": [
       {
+        "id": "CBMixwFBVV95cUxOM19pWlpvNmdoOFZ5dGIwUjV5M2E1dWlSNi1OQjR5d0pwS0liVWhuUUxFaXl3WE10YWE1elBOYVR5VHZMSmJsU1NINzQ5aFpHZlZZaWlDYTdyS0J5eUdZVXoyLThXVU9TbkRlbW5qVzA1OHRfMk4xa1FSUWxWSklQV3lHS2tqaThhblUzOFRGcmJHZ3ZOZHJQcGNkV3RBSDFfSkJkUjZ4TmcwRjg3c25kVElad3VtU1RtdXRRazhLcHBCWHZHTzhj",
+        "title": "Gen Z Ditches TV for TikTok & Search: Pew's Shocking News Shift Hits North America Hard",
+        "source": "AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM19pWlpvNmdoOFZ5dGIwUjV5M2E1dWlSNi1OQjR5d0pwS0liVWhuUUxFaXl3WE10YWE1elBOYVR5VHZMSmJsU1NINzQ5aFpHZlZZaWlDYTdyS0J5eUdZVXoyLThXVU9TbkRlbW5qVzA1OHRfMk4xa1FSUWxWSklQV3lHS2tqaThhblUzOFRGcmJHZ3ZOZHJQcGNkV3RBSDFfSkJkUjZ4TmcwRjg3c25kVElad3VtU1RtdXRRazhLcHBCWHZHTzhj?oc=5",
+        "timestamp": 1774681173
+      },
+      {
         "id": "CBMiwwFBVV95cUxPdDRKRm02YW96M3JHVW5BcGFkMUdlMEJTS3lCUnVwcHFvRmZqcHg0YWJOZXpHLWFUZHJaekJUbFhTd0c5cXZESHpWdkZiMmdOdy0xWnJVa0tWazdaYXdVMDRPbTZtT2xnNUplSkxyOHRCTlBlZFZOamdJQzl6VVB4RjJBYzhaNm43Z3hPeXp0WjlObG84WkMycjJWYUozaTlfNFJNZWI3RDNkc2xOUzlEUnhiblBESHVaVEdCRzJWWGQ0MTQ",
         "title": "Gen Z's Wild News Flip: 18-29s in North America Ditch TV for TikTok – Pew's Fresh Bombshell",
-        "source": "ad-hoc-news.de",
+        "source": "AD HOC NEWS",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDRKRm02YW96M3JHVW5BcGFkMUdlMEJTS3lCUnVwcHFvRmZqcHg0YWJOZXpHLWFUZHJaekJUbFhTd0c5cXZESHpWdkZiMmdOdy0xWnJVa0tWazdaYXdVMDRPbTZtT2xnNUplSkxyOHRCTlBlZFZOamdJQzl6VVB4RjJBYzhaNm43Z3hPeXp0WjlObG84WkMycjJWYUozaTlfNFJNZWI3RDNkc2xOUzlEUnhiblBESHVaVEdCRzJWWGQ0MTQ?oc=5",
         "timestamp": 1774676735
       },
       {
-        "id": "CBMiwwFBVV95cUxQMDlvcUNDUVU4dnV4ZnBPM2hwOUdEV2RaYjNUWUJjZUltd0ZLZkl1UkF1SFhjY1BsSFVBQjhONDlTTVF6TXM1dkp0OElRM0dOZzNiVC1UV0VIU1hOR3l3T1pnYzhUYkdpRExFVkdfOG4zQ25qaFIxZUlNZDhscFBPWHdvSEktblV0WEtpZXRvdFNKMUY4aEdpZ251TkFTZjZHYjVVNGp4bFZTQzJhcjlaT1RheEI1dFh3TzRLc1V5RzZmNTA",
-        "title": "Gen Z's Wild News Flip: 18-29s in North America Ditch TV for TikTok – Here's Why It Hits Pop Cultu",
-        "source": "ad-hoc-news.de",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDlvcUNDUVU4dnV4ZnBPM2hwOUdEV2RaYjNUWUJjZUltd0ZLZkl1UkF1SFhjY1BsSFVBQjhONDlTTVF6TXM1dkp0OElRM0dOZzNiVC1UV0VIU1hOR3l3T1pnYzhUYkdpRExFVkdfOG4zQ25qaFIxZUlNZDhscFBPWHdvSEktblV0WEtpZXRvdFNKMUY4aEdpZ251TkFTZjZHYjVVNGp4bFZTQzJhcjlaT1RheEI1dFh3TzRLc1V5RzZmNTA?oc=5",
-        "timestamp": 1774673891
+        "id": "CBMi4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGY9IB4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGYw",
+        "title": "Gypsy Rose Blanchard, her controversial TikTok, and the backlash explained | Hindustan Times",
+        "source": "Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGY9IB4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGYw?oc=5",
+        "timestamp": 1774675010
       },
       {
-        "id": "CBMiygFBVV95cUxQeG5MZ1dWaEdiTXdxdTFRTHVlVFhhNVR1bnJ1Nl9DSFFhSlRrZEZaTjJBWVVqNUdmejNrcFBWbEJSbWR2N1ljeUhtbHE1SmVEOHVUUXAzLUZiR1dHdDF4dFItTHhPb19kMWRDUFNJa2l6R01PSk5QT0pmRm4tWkVJMGk1elByNHhGdjR0SE1lblphU3dzV1FIb0xqbW51OWpZZ0dMQUpGQmotVDF6UmpyOFlGLU81VXp3NVljOGRqY08ydkZtUm1OdHZB",
-        "title": "Why IVE Still Captivates North American Fans in 2026: The Ultimate Guide to Their Enduring Appeal",
-        "source": "ad-hoc-news.de",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeG5MZ1dWaEdiTXdxdTFRTHVlVFhhNVR1bnJ1Nl9DSFFhSlRrZEZaTjJBWVVqNUdmejNrcFBWbEJSbWR2N1ljeUhtbHE1SmVEOHVUUXAzLUZiR1dHdDF4dFItTHhPb19kMWRDUFNJa2l6R01PSk5QT0pmRm4tWkVJMGk1elByNHhGdjR0SE1lblphU3dzV1FIb0xqbW51OWpZZ0dMQUpGQmotVDF6UmpyOFlGLU81VXp3NVljOGRqY08ydkZtUm1OdHZB?oc=5",
-        "timestamp": 1774673633
+        "id": "CBMitwFBVV95cUxORXJRMFAzbDFSOWljUnZuMWJNS3dueUIxeHFKWlBqazZCNF9rOVpjVmM2NG5HNmVPNUwzNkJXbjdoWGV2ZlRiNzNxX0hrcHdXa21NTzdpdmJNekxjbFBtbnh5eVdjRnBNOF81cDhYLTFtY1F0WjQ1SFdGWDVPT3AySGdSWWdkQVByMlZxM2R4eXFpNGlXZnNleDZwcF9QWjZoLWtkbXp5UUVRejlwX1luZG1tRXF5bjQ",
+        "title": "Laguna Beach' Cast Do Viral JENNIE 'Dracula' TikTok Trend",
+        "source": "National Today",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORXJRMFAzbDFSOWljUnZuMWJNS3dueUIxeHFKWlBqazZCNF9rOVpjVmM2NG5HNmVPNUwzNkJXbjdoWGV2ZlRiNzNxX0hrcHdXa21NTzdpdmJNekxjbFBtbnh5eVdjRnBNOF81cDhYLTFtY1F0WjQ1SFdGWDVPT3AySGdSWWdkQVByMlZxM2R4eXFpNGlXZnNleDZwcF9QWjZoLWtkbXp5UUVRejlwX1luZG1tRXF5bjQ?oc=5",
+        "timestamp": 1774674934
+      },
+      {
+        "id": "CBMiwwFBVV95cUxQMDlvcUNDUVU4dnV4ZnBPM2hwOUdEV2RaYjNUWUJjZUltd0ZLZkl1UkF1SFhjY1BsSFVBQjhONDlTTVF6TXM1dkp0OElRM0dOZzNiVC1UV0VIU1hOR3l3T1pnYzhUYkdpRExFVkdfOG4zQ25qaFIxZUlNZDhscFBPWHdvSEktblV0WEtpZXRvdFNKMUY4aEdpZ251TkFTZjZHYjVVNGp4bFZTQzJhcjlaT1RheEI1dFh3TzRLc1V5RzZmNTA",
+        "title": "Gen Z's Wild News Flip: 18-29s in North America Ditch TV for TikTok – Here's Why It Hits Pop Cultu",
+        "source": "AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDlvcUNDUVU4dnV4ZnBPM2hwOUdEV2RaYjNUWUJjZUltd0ZLZkl1UkF1SFhjY1BsSFVBQjhONDlTTVF6TXM1dkp0OElRM0dOZzNiVC1UV0VIU1hOR3l3T1pnYzhUYkdpRExFVkdfOG4zQ25qaFIxZUlNZDhscFBPWHdvSEktblV0WEtpZXRvdFNKMUY4aEdpZ251TkFTZjZHYjVVNGp4bFZTQzJhcjlaT1RheEI1dFh3TzRLc1V5RzZmNTA?oc=5",
+        "timestamp": 1774673891
       },
       {
         "id": "CBMilgFBVV95cUxQWGlrdkxXeEtpeHpOQXVGT1JPbUVfWGE4WExMUXd1WlRrYUgyZ2dHa21LVDRUOXJsWE5PaFZaN1JweGpMVnhFVWIxNXg0Z3FNMzJPT3ZFeS1RRzVpSWRqNlN2bzkwNmhMdFV5ckZMLWRUTWV0Tm96elI2Tk1ZN2hYb3JsV3RvYU1TNi02cE9kTTZMTVVRWWc",
@@ -47,7 +61,7 @@
       {
         "id": "CBMixwFBVV95cUxPYkRkWFpaQWctMXpXclhqVWFsbmVyV2ZMTjdpRjdtdmw5SWViczNLelA2WHN0YTdkZTBsNTRHY3F4Z2VZclZqQnpHV2ZCZlpINUMtODBVOFBHanIxbW5vbkt5ZExjTEYwQ1E1cnBjT3h1R0h3S2hBZHZmZ3hTaEZUeFhKODZrV3NqdTRJZUxpZUVKR29nOXJhTkJIb2h6SEVlaTJUZjRRSFhtcV8xY3hrUExXNzNIcjJlVVVmNDdGZXFzZ0FlR08w",
         "title": "Gen Z Ditches TV for TikTok: How 18-29s in North America Are Rewriting News – And Why Artists Like",
-        "source": "ad-hoc-news.de",
+        "source": "AD HOC NEWS",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkRkWFpaQWctMXpXclhqVWFsbmVyV2ZMTjdpRjdtdmw5SWViczNLelA2WHN0YTdkZTBsNTRHY3F4Z2VZclZqQnpHV2ZCZlpINUMtODBVOFBHanIxbW5vbkt5ZExjTEYwQ1E1cnBjT3h1R0h3S2hBZHZmZ3hTaEZUeFhKODZrV3NqdTRJZUxpZUVKR29nOXJhTkJIb2h6SEVlaTJUZjRRSFhtcV8xY3hrUExXNzNIcjJlVVVmNDdGZXFzZ0FlR08w?oc=5",
         "timestamp": 1774645778
       },
@@ -57,13 +71,6 @@
         "source": "Complex",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LZWJuRWRvN1dnczE5end1TDFWNGFrQVVWb19sZEtvVjM1SVN5UmR4aXc5eGhKWlJxZkNLV0hPajJKZy1HTldScmdsR0pxRVIyTEVQTkFsV0YxOVF6cXVwVGdETVNYNHZpSk5VTW1nQl9vc2F0cnA5Tk53?oc=5",
         "timestamp": 1774641374
-      },
-      {
-        "id": "CBMixwFBVV95cUxOQ09BLW5MWWFsamw1N0V2dm1uazFJMHRXT1hSVmlZeWFpb2l4ZFo4cUNsTUgtNlRTMGNydzRMdk9jbkNNYl9zLXRIaVdIVFBtXzRnZXEzTk9ONkpkdE5adTJYNFVRc3JqUnMtNlFRZ1pnbGo1MFAxVmtEQUdrWDB1QWVTX3JSaDVwbGJrNGVfclRweXVqd2pBbkc2Tmh3RkxSSzRENmQ4MWE4YzBQbFI3VGUwdEc4QWF1TXVKVHR2VXcyT2FOb3NR",
-        "title": "Gen Z Ditches TV for TikTok and Search: Pew's Shocking News Shift Hits North America Hard",
-        "source": "ad-hoc-news.de",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ09BLW5MWWFsamw1N0V2dm1uazFJMHRXT1hSVmlZeWFpb2l4ZFo4cUNsTUgtNlRTMGNydzRMdk9jbkNNYl9zLXRIaVdIVFBtXzRnZXEzTk9ONkpkdE5adTJYNFVRc3JqUnMtNlFRZ1pnbGo1MFAxVmtEQUdrWDB1QWVTX3JSaDVwbGJrNGVfclRweXVqd2pBbkc2Tmh3RkxSSzRENmQ4MWE4YzBQbFI3VGUwdEc4QWF1TXVKVHR2VXcyT2FOb3NR?oc=5",
-        "timestamp": 1774634811
       },
       {
         "id": "CBMijwFBVV95cUxQZmpRWHNOS3NJZDJ5alFQdkxoaUJockw0c3owNzZFNklwQVVuSjFjdldJQVJYWkM5dC1qNkQ3QzJVNjVtTHMyUEZlNVRnNTliZktienRGUEwxakI4eEtjRFFLV3V4U3ltVlVsZ0MxY2xkaVQwd25YZzYxYy1vTVVOYkFkS0IwbDE4TWlzRXk3MA",
@@ -78,13 +85,6 @@
         "source": "Complex",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORVJDRUpzSW5UVFp5YmtCWWxBemp5ZXpHU1hkR3ozalRZMHltTXZhUXNUZWpkcDZGZHZZRldpQVR6MHAwQzR1bnhYYTladzdibGJMTU9MelROeWJRRXFia2h3dWNEMEFXaENIYVVMdE9BT01RdXNzckQ4VXNwaUQzOVl5NFg4N3NFWFJ3aS00cFM5eENweVhEQ19EMDUwQQ?oc=5",
         "timestamp": 1774629682
-      },
-      {
-        "id": "CBMiwAFBVV95cUxQOHlPbXl5RlU2ZktnM0Q5R3ptLWR4V2pmd2NCOTNEWFplZDZ3VWJRa2RKaVRfcDlHM1dWVVdOZi1YdVBXUWtpdXBPakkyZHhaSHdRWDFxN1RXMlItZmo5UExUYmtHZlVVUzBjc3ZmNi1VUDdzZFFoYnhkMkRZS085ZUtDZ2pkNFN5d2RvZDRGVW84Q0ZONVFZQjhHQ090S3RVNVhIQ18ybGtYS2lFSWQ0Sy1xU212OHlMT0xPY1B1dFA",
-        "title": "Why {ARTIST_NAME} Still Resonates with North American Fans in 2026",
-        "source": "ad-hoc-news.de",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOHlPbXl5RlU2ZktnM0Q5R3ptLWR4V2pmd2NCOTNEWFplZDZ3VWJRa2RKaVRfcDlHM1dWVVdOZi1YdVBXUWtpdXBPakkyZHhaSHdRWDFxN1RXMlItZmo5UExUYmtHZlVVUzBjc3ZmNi1VUDdzZFFoYnhkMkRZS085ZUtDZ2pkNFN5d2RvZDRGVW84Q0ZONVFZQjhHQ090S3RVNVhIQ18ybGtYS2lFSWQ0Sy1xU212OHlMT0xPY1B1dFA?oc=5",
-        "timestamp": 1774625856
       },
       {
         "id": "CBMimgFBVV95cUxQZ2JKbkk0T01NRk9aa05xejdUSVBkdmZ0TWhhZ2I4OFU4N04yMkVvZC1sNlgxdlJtd3gyeFJHVy01V3RicERTSWx2ZXlGWGkxQ3dTQkRhbzJDQ0ttb3lBcVdnSXY2U0FmY0JIeV9ZenV2TVFCVFhVcnNHc2dQM3Q3R3NQMGJ0N0I2akw5YzVVTFJMWnduUGJQS0xn",
@@ -110,13 +110,6 @@
     ],
     "us_trending": [
       {
-        "id": "CBMi4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGY9IB4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGYw",
-        "title": "Gypsy Rose Blanchard, her controversial TikTok, and the backlash explained | Hindustan Times",
-        "source": "Hindustan Times",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGY9IB4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGYw?oc=5",
-        "timestamp": 1774675010
-      },
-      {
         "id": "CBMitgFBVV95cUxQek5rbUZkT0tfRFhiZmQ1cms2REd5enlRZU04N1pEdk1lb0xVYXU5S2NaeUpvNnI1M0JuNUhPYmhyRzN1R09OTk9RWml3RVppWENpcnhDVHIwUEdKaUpwdE5QckktUlVsUWd1WkdqTnZhem1vRnU1alZmT09iQS1UbjlOcnZfOUQ3UlhiX3dUeDFuRzZieE8zdnNfYzRRbFRPWnZLclFSa3VVRVk2czRHSE9vaVg5Zw",
         "title": "IRAN WAR: Week 4 — Trump Points To Progress As Combat Continues | TRENDING",
         "source": "The Hill",
@@ -126,7 +119,7 @@
       {
         "id": "CBMioAFBVV95cUxPb1NUSkFhejlpTURxMk1HelR6V3kxS1VOWnAtTDJudUxwa1c1VmpDcU10QjMyXzJZRUdQMFZFZVRjS3IwazlPaWlzVk95dmdPU2c5Nl9xeTRmZE9PS2hrQk8zUFVyXzM4VEwtWFdlTnpieTRzeURER1Bzb19NUkJoOVA1a0V1c0VtS3VQRF9PWFhFLWthYjljbkhuVHk3X3dq",
         "title": "Revealed: Top 10 U.S. Counties Where Home Prices Plummeted up to $525,000 in One Year",
-        "source": "realtor.com",
+        "source": "Realtor.com",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1NUSkFhejlpTURxMk1HelR6V3kxS1VOWnAtTDJudUxwa1c1VmpDcU10QjMyXzJZRUdQMFZFZVRjS3IwazlPaWlzVk95dmdPU2c5Nl9xeTRmZE9PS2hrQk8zUFVyXzM4VEwtWFdlTnpieTRzeURER1Bzb19NUkJoOVA1a0V1c0VtS3VQRF9PWFhFLWthYjljbkhuVHk3X3dq?oc=5",
         "timestamp": 1774645797
       },
@@ -136,13 +129,6 @@
         "source": "Investing News Network",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5",
         "timestamp": 1774645500
-      },
-      {
-        "id": "CBMiUkFVX3lxTE5xc1ZETzNSQnR0UnducUtIRUtmTWRocmN3a0hNeUJFZC02VDJIa3NaTmVhZmVyTHB5LVNyWWJoU1g5dzRGQmFncjBUeU1KRUNfc2c",
-        "title": "Tech Weekly: Contradictory Peace Signals Whipsaw Markets",
-        "source": "Investing News Network",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xc1ZETzNSQnR0UnducUtIRUtmTWRocmN3a0hNeUJFZC02VDJIa3NaTmVhZmVyTHB5LVNyWWJoU1g5dzRGQmFncjBUeU1KRUNfc2c?oc=5",
-        "timestamp": 1774644123
       },
       {
         "id": "CBMipwFBVV95cUxQbHVMWVBQcE1hejlZaHZzNmVGVkEtU0x2WUJzNGl4T2VOd0V0MElPajJoQjZYdXppNC1ma3E2allTZDNPZmFsZ09IZFFZUGRwdGRHRnFfNEtVNnFMRDdXT0NBcVA2RTVmOFdZTG9nZ1dLb1o2eWhtUnZRNno3TEhhU2pNNXR3eXNSbVBVOVVWNTdKcW1zWFU0RWpwTTBsbzlrVUsxd1IzWQ",
@@ -187,11 +173,18 @@
         "timestamp": 1774633527
       },
       {
-        "id": "CBMinwFBVV95cUxNbzlPTDBpRDlMNnNSRjBhN3pSanNhcnIxSjBnTGVxUHdEMmpGaEpzWlU3OEtuOUVvUmg1V1FqWVZsRVZobGp5aGFVeC1RM3RiREhjcWZ1bVZCMVd4WUdkc0hFZHgya1JrQktHRWlUUlhLREFxcEdQZFhyTVczRkFINEFrNTlpX2loNTJjeXVKeW9wdmhZSEVyNDI5MXVmTmc",
-        "title": "US travelers heading to popular destination must give over phone and computer passwords under new rules",
-        "source": "UNILAD",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbzlPTDBpRDlMNnNSRjBhN3pSanNhcnIxSjBnTGVxUHdEMmpGaEpzWlU3OEtuOUVvUmg1V1FqWVZsRVZobGp5aGFVeC1RM3RiREhjcWZ1bVZCMVd4WUdkc0hFZHgya1JrQktHRWlUUlhLREFxcEdQZFhyTVczRkFINEFrNTlpX2loNTJjeXVKeW9wdmhZSEVyNDI5MXVmTmc?oc=5",
-        "timestamp": 1774627887
+        "id": "CBMiuwFBVV95cUxNRXRyanlEdjZiWTg3bjhNcVJfdTlNTHFaZURiNnZ5cVNla1NUMjdvQUsyZ0U1empPVVByUUxRZlR6dUxJZUxhNEN1ZGN5M1c0bUU2M1RqdXZseS1hREdYbC1ZUUVHN2Q2YlNldmZKeGY5eXFFa1ZTclNsc1JaQWlJUmZFa211cDI2bE8wSGtWVXFVRllJYmphaUd5a0hNRDhrVjhuSVNQWnFDNnlTSVZTSXFDQVU5cTNyMnI4",
+        "title": "Israelis question Lebanon war as opposition grows",
+        "source": "Al Jazeera",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXRyanlEdjZiWTg3bjhNcVJfdTlNTHFaZURiNnZ5cVNla1NUMjdvQUsyZ0U1empPVVByUUxRZlR6dUxJZUxhNEN1ZGN5M1c0bUU2M1RqdXZseS1hREdYbC1ZUUVHN2Q2YlNldmZKeGY5eXFFa1ZTclNsc1JaQWlJUmZFa211cDI2bE8wSGtWVXFVRllJYmphaUd5a0hNRDhrVjhuSVNQWnFDNnlTSVZTSXFDQVU5cTNyMnI4?oc=5",
+        "timestamp": 1774632913
+      },
+      {
+        "id": "CBMingFBVV95cUxQZWZHei1XUmU1S0FYbm1PSS1qM0hXOG9PTFJZLWtWQ2ZZbThFbFVJaGtzTGhkVWN1ckxkTnl1d3NSVjRjRTJqMndpS2JzMVp3Q1I2ZlJlVXdEMEtJdkRlM3lfbHpKNXVFNFliazFxMkl3NTlnQUJJTTJEYXJiVTZjeU95V0ZfQnhMSkdTWXRPZERHQjhBT1VlVVpzczhZZw",
+        "title": "Emily Ratajkowski Just Wore the Heel Trend Carrying Over From Winter to Spring",
+        "source": "Who What Wear",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWZHei1XUmU1S0FYbm1PSS1qM0hXOG9PTFJZLWtWQ2ZZbThFbFVJaGtzTGhkVWN1ckxkTnl1d3NSVjRjRTJqMndpS2JzMVp3Q1I2ZlJlVXdEMEtJdkRlM3lfbHpKNXVFNFliazFxMkl3NTlnQUJJTTJEYXJiVTZjeU95V0ZfQnhMSkdTWXRPZERHQjhBT1VlVVpzczhZZw?oc=5",
+        "timestamp": 1774630466
       },
       {
         "id": "CBMiY0FVX3lxTE53WnpvYnZOTnVhazlUZDlHVEpnMGVueVg1ZmVuemNpZW9KeDVfM0xYMi1aZ1JneDJuR1BzWkhIdVp5OG9UQVR1RXp5MUR6U29qOVNlRnVMbFJWR3I0T2UtWVZCY9IBY0FVX3lxTE53WnpvYnZOTnVhazlUZDlHVEpnMGVueVg1ZmVuemNpZW9KeDVfM0xYMi1aZ1JneDJuR1BzWkhIdVp5OG9UQVR1RXp5MUR6U29qOVNlRnVMbFJWR3I0T2UtWVZCYw",
@@ -206,6 +199,13 @@
         "source": "The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMGFacTQ2SXM2MlFHaFU4d2trRVFKMnVMdlk5SVl3eHJ0WnY2dGk1VDBuZXUtdkhxUEtQaFNqYnJ5c2tsVEt6Mzl6MmFqTWhhS2tVWGFJc0U2cm1hQ2x0RHJwQllKNjItLVVWVlZZdXlvb2wwamEtZVdGZDRXazJCT1VVOURLdzNTcWp3dzBUNHE2dExUeHJlRw?oc=5",
         "timestamp": 1774612800
+      },
+      {
+        "id": "CBMirwFBVV95cUxQZ0c3V3JkeVFHcEJOdW1xWmJnRkVLN2lCck9KVGdhSTE4RExqOHpFOGpXdl96aHN5cklTYV8wR29jal9pYjg3YV9DU2tSamZnT3o0ckQ1NU9CNmpOMnVoNml4N3haYmd2N09sbWFRd1ZGb0JQT1QzZTFxSHdrdGpCMWFYMkdwYXBacUhSZi02RjAzeTFyTTJkVWVDWjBYTGFmQWQ5eWRVelM5ZmlEUmY00gG0AUFVX3lxTE1kTUlPWXNkYnBYVGE2NDVudTVKYkc3VkdzNWxfTHdiVVVzeEhMNDdtSkZEdExVbDdPSE9xSXg0VVBBX3hfYk9USHhsd185MVR3ZjRmWHlxTmw1eXoxbjBxSVlqNXVQaklYT2FPbjd1T3dfbGI4dUpvOUx6MVk3dVRNRndtSG5NWnNHTDgzdlJjMXhzM2hLYVJlV0xkd0g4dEt2MUhQMUVIeGpMOG00NF9tRkMtaQ",
+        "title": "Trader Joe’s recall: Over 3M pounds of popular food product added",
+        "source": "NewsNation",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0c3V3JkeVFHcEJOdW1xWmJnRkVLN2lCck9KVGdhSTE4RExqOHpFOGpXdl96aHN5cklTYV8wR29jal9pYjg3YV9DU2tSamZnT3o0ckQ1NU9CNmpOMnVoNml4N3haYmd2N09sbWFRd1ZGb0JQT1QzZTFxSHdrdGpCMWFYMkdwYXBacUhSZi02RjAzeTFyTTJkVWVDWjBYTGFmQWQ5eWRVelM5ZmlEUmY00gG0AUFVX3lxTE1kTUlPWXNkYnBYVGE2NDVudTVKYkc3VkdzNWxfTHdiVVVzeEhMNDdtSkZEdExVbDdPSE9xSXg0VVBBX3hfYk9USHhsd185MVR3ZjRmWHlxTmw1eXoxbjBxSVlqNXVQaklYT2FPbjd1T3dfbGI4dUpvOUx6MVk3dVRNRndtSG5NWnNHTDgzdlJjMXhzM2hLYVJlV0xkd0g4dEt2MUhQMUVIeGpMOG00NF9tRkMtaQ?oc=5",
+        "timestamp": 1774611850
       },
       {
         "id": "CBMicEFVX3lxTE96eFRtR1g5NG15VmJxdk9GX3B1V1FJdWRDdkJPb1pHMWk3d2pwMV81WFBURlJxaHRadVZTWUFKR1VSc21KX1lyVTUxa2NSa05nRmxUU1FRb1hFVWNvc2hDZ25YYUQ0Y09jMzNhLTZuWGk",
@@ -224,6 +224,13 @@
         "timestamp": 1774659397
       },
       {
+        "id": "CBMid0FVX3lxTE0wQjZRMzRJWTVWWVh3WVdjSjBqYnJLaTBoOU5wZmtxMTkxWmk0ZzVwOFpZN01SVy1MU25LUGdscE9yV0JVTkpHX2thbXNjeVJIYzJ6R29sMzh3TVpmM3JzekRTQXhBY2lJRURPbER2ZnVwbUJNYzBR",
+        "title": "Everyone with good taste is already wearing these trousers – they'll 100% sell out by April",
+        "source": "graziadaily.co.uk",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wQjZRMzRJWTVWWVh3WVdjSjBqYnJLaTBoOU5wZmtxMTkxWmk0ZzVwOFpZN01SVy1MU25LUGdscE9yV0JVTkpHX2thbXNjeVJIYzJ6R29sMzh3TVpmM3JzekRTQXhBY2lJRURPbER2ZnVwbUJNYzBR?oc=5",
+        "timestamp": 1774648863
+      },
+      {
         "id": "CBMihAFBVV95cUxNQi1iZ1VBTk8tYUFnNTgxaTNJb0N6cUl3M2xJM3hacUdkQk84Ri0yTzk2OEdFTDFYRllTelNTWDhSNVdGQk5ZTVIyLUR3emZUeG5TOGR2anhHQmE5MVppOU54R2FJQTJ6Y0wxeEgtWGl5VEplTEc5Q2lZdy1WeHFJbVQzRE4",
         "title": "50 best movies to watch on Netflix right now",
         "source": "Radio Times",
@@ -231,30 +238,30 @@
         "timestamp": 1774648757
       },
       {
-        "id": "CBMiOkFVX3lxTE15a0pnSlVXbUxWSnZ1Ul9mT1RkekpRYms2djM0QVlJTm5HaUQxLTlyZ1NXZkg2Vk10N0E",
-        "title": "Share Prices, Stock Quotes, Charts, Trade History, Share Chat, Financial News - London South East",
-        "source": "London South East",
-        "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE15a0pnSlVXbUxWSnZ1Ul9mT1RkekpRYms2djM0QVlJTm5HaUQxLTlyZ1NXZkg2Vk10N0E?oc=5",
-        "timestamp": 1774646974
-      },
-      {
-        "id": "CBMiTkFVX3lxTE5HZlhDdTkybWF5STh1NlNqRFlkNDZLdVd2T0ZhRXNpY2dDWEdiY3Z2cVBQVVNMVFA5Vzk4Q0lMSnpFUkF6WkRSNFo0TXhUZw",
-        "title": "News",
+        "id": "CBMiUkFVX3lxTFB4ZjBialBSTkFxdmZkWUdIaXBpWGRST3dJMlVBT2YxR2FOQ0x5Q3JKOW9yODdyaXF1eUlBN1JjR0Ria1RHNVNFdXVtZG00R2FxSEE",
+        "title": "Culture",
         "source": "The Independent",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HZlhDdTkybWF5STh1NlNqRFlkNDZLdVd2T0ZhRXNpY2dDWEdiY3Z2cVBQVVNMVFA5Vzk4Q0lMSnpFUkF6WkRSNFo0TXhUZw?oc=5",
-        "timestamp": 1774644180
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4ZjBialBSTkFxdmZkWUdIaXBpWGRST3dJMlVBT2YxR2FOQ0x5Q3JKOW9yODdyaXF1eUlBN1JjR0Ria1RHNVNFdXVtZG00R2FxSEE?oc=5",
+        "timestamp": 1774645380
       },
       {
         "id": "CBMimwFBVV95cUxOUUFGSWsxV2Fka0VaY1hsUlkzR0VlaXFpSjJ4OS0xQjFBWXJvM2Qtc1RSRk1ydjB2bllTc3l3Vkc3VFdZeWVpUnpKaXE2VHJWeWZhNlRYc29GM3cwTlE2QUtVWEV4enUteU9uVzBHa3R3V1dqV3llQmgtVXVwZFY0RU9mSTFpTkY4ZkljSHk5VVJ0cXlXOW5YamM1MNIBoAFBVV95cUxNRXdTVUxWb0YzbFR6b2M3TVZsRjJqSEh6cnhEWlFrMzhRa255OU9JMlhhWVh3V19NajViUVJ5QWU2YlQ2MFhlMUlUbHlrVWQ5cWtVYnd2WU13Y3ZJZzVLd3ZRRnhLcXMtY3FPb0N6RWZkNXhXT2pfNHBUUy1QZFFCNUljQkVQSjNrcTFjaERtT3Y5TDk2TFZYSGc3ZHBYWGow",
         "title": "UK Finance 2026: J.P. Morgan, Bitget, Digital Assets Trends",
-        "source": "bitget.com",
+        "source": "Bitget",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUFGSWsxV2Fka0VaY1hsUlkzR0VlaXFpSjJ4OS0xQjFBWXJvM2Qtc1RSRk1ydjB2bllTc3l3Vkc3VFdZeWVpUnpKaXE2VHJWeWZhNlRYc29GM3cwTlE2QUtVWEV4enUteU9uVzBHa3R3V1dqV3llQmgtVXVwZFY0RU9mSTFpTkY4ZkljSHk5VVJ0cXlXOW5YamM1MNIBoAFBVV95cUxNRXdTVUxWb0YzbFR6b2M3TVZsRjJqSEh6cnhEWlFrMzhRa255OU9JMlhhWVh3V19NajViUVJ5QWU2YlQ2MFhlMUlUbHlrVWQ5cWtVYnd2WU13Y3ZJZzVLd3ZRRnhLcXMtY3FPb0N6RWZkNXhXT2pfNHBUUy1QZFFCNUljQkVQSjNrcTFjaERtT3Y5TDk2TFZYSGc3ZHBYWGow?oc=5",
         "timestamp": 1774642364
       },
       {
+        "id": "CBMi7wFBVV95cUxQeDBBYkN0Z0E3M2lHWFVieWg0Um5DWFBEZGwwTC1TYVlNWFBIOVpVNHVpUEF0dGFHbkM2SVp0Q0hSaDVlc0ktUjJ1WlJSa2pLWWhJUEdDZkc0dEtrdDU1cHlyamZoU01jTnhoMDBzSU1VZWFjNmdmZ0F3ZnJRaW5XSVAybkt3NW5tWUNYZUcwWFBENDcxUldONERPcmVCaXFtZnM2VUMtb2VoTE8xRUdmY3NSY19ta1FzLUtlMDByQnZnUE0zR0pfc0VxZU5xeVo1VGhybnQ4YTVPWnRGVWNfNmRQWFVpQjJ4REJQVkFrWQ",
+        "title": "UK Foreign Office Issues Urgent ‘No-Go’ Travel Warning for Popular Tourist Hotspots Amid Regional Conflict (2026)",
+        "source": "Travel And Tour World",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeDBBYkN0Z0E3M2lHWFVieWg0Um5DWFBEZGwwTC1TYVlNWFBIOVpVNHVpUEF0dGFHbkM2SVp0Q0hSaDVlc0ktUjJ1WlJSa2pLWWhJUEdDZkc0dEtrdDU1cHlyamZoU01jTnhoMDBzSU1VZWFjNmdmZ0F3ZnJRaW5XSVAybkt3NW5tWUNYZUcwWFBENDcxUldONERPcmVCaXFtZnM2VUMtb2VoTE8xRUdmY3NSY19ta1FzLUtlMDByQnZnUE0zR0pfc0VxZU5xeVo1VGhybnQ4YTVPWnRGVWNfNmRQWFVpQjJ4REJQVkFrWQ?oc=5",
+        "timestamp": 1774641499
+      },
+      {
         "id": "CBMickFVX3lxTE9RQmk5NGNXd2FoNDBkenBBUmJhZTExUFF0NDAyZ1hrcG9MR0FNc3lxRHdWTWlHQXhEVVlYZ0R1enJnZDlFNy1reThZNkw0Y2plQXdiLU1rVERoUGlSSkdrT3lfQU1aa042TTBsTHc3eXlidw",
         "title": "Best NFL betting sites for UK players in the 2025/26 season",
-        "source": "talksport.com",
+        "source": "talkSPORT",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RQmk5NGNXd2FoNDBkenBBUmJhZTExUFF0NDAyZ1hrcG9MR0FNc3lxRHdWTWlHQXhEVVlYZ0R1enJnZDlFNy1reThZNkw0Y2plQXdiLU1rVERoUGlSSkdrT3lfQU1aa042TTBsTHc3eXlidw?oc=5",
         "timestamp": 1774620822
       },
@@ -266,25 +273,11 @@
         "timestamp": 1774616953
       },
       {
-        "id": "CBMidkFVX3lxTE9CZ2VveW5PczYycG5BeWt0V09IcERfcUlEbjJkTTR3TjJNYW91NEJNNFB6QTI3Q1B0T1hlTUFwMThEMDdBNkxZQkVBN24yTGtTU0xPVXRGNlNiQXNDLWcwV084ZW1wQjliZGF1SUxnZXpXc3pFeVE",
-        "title": "This is my secret hack for all-day lip liner - and no, it isn't permanent make-up",
-        "source": "Grazia Daily UK",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CZ2VveW5PczYycG5BeWt0V09IcERfcUlEbjJkTTR3TjJNYW91NEJNNFB6QTI3Q1B0T1hlTUFwMThEMDdBNkxZQkVBN24yTGtTU0xPVXRGNlNiQXNDLWcwV084ZW1wQjliZGF1SUxnZXpXc3pFeVE?oc=5",
-        "timestamp": 1774614491
-      },
-      {
         "id": "CBMinwFBVV95cUxPQkt4a0NYLVV5SEtLeVdpREFCZmpHY290VE1aaDM2OHhtZ1FsdHlHNlpqY1lNSDVmeDJqaGM0VXZjUTZGSGVFbl9XVVhCSTdER0FsLUtGN3hPSGZnSGlxQ2pzcF9uRjQ0UE0wOE9rZ05TZ3VIbE1yc1J1dTJ0Nmd2QUI4MTktTGx5NHNWSmxWU1pPT2hUNWlvcDFxbnZkQ2M",
         "title": "Airbnb reveals the ultimate UK stays perfect for a book-worm escape",
         "source": "Airbnb Newsroom",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQkt4a0NYLVV5SEtLeVdpREFCZmpHY290VE1aaDM2OHhtZ1FsdHlHNlpqY1lNSDVmeDJqaGM0VXZjUTZGSGVFbl9XVVhCSTdER0FsLUtGN3hPSGZnSGlxQ2pzcF9uRjQ0UE0wOE9rZ05TZ3VIbE1yc1J1dTJ0Nmd2QUI4MTktTGx5NHNWSmxWU1pPT2hUNWlvcDFxbnZkQ2M?oc=5",
         "timestamp": 1774613542
-      },
-      {
-        "id": "CBMimwFBVV95cUxQYVliQ2ZOUjA0NzVXVmI4TThBNWxpMUlvS05OZlRibVFZS3BaVWtQY3k0OWZjOUpEdnUyZzdJLWZ1UHJpY2pYeElXaWJodzlqb1ZkTE9NS0RNRXdETnY0UWJGaklNZm9Ia29QTFd3b0daQXZ6U0tzallxekktT3pPbi12S253cUNuZWJhMV9SQlpTV1RGRUxuVTBxcw",
-        "title": "The ‘Hawaii of Europe’ Is Getting More Flights From the UK",
-        "source": "Time Out Worldwide",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYVliQ2ZOUjA0NzVXVmI4TThBNWxpMUlvS05OZlRibVFZS3BaVWtQY3k0OWZjOUpEdnUyZzdJLWZ1UHJpY2pYeElXaWJodzlqb1ZkTE9NS0RNRXdETnY0UWJGaklNZm9Ia29QTFd3b0daQXZ6U0tzallxekktT3pPbi12S253cUNuZWJhMV9SQlpTV1RGRUxuVTBxcw?oc=5",
-        "timestamp": 1774612742
       },
       {
         "id": "CBMivgFBVV95cUxQSUFsenpxa3dNaV8zOWNWOG1BS2lpTDlMSnJFeldBVzJvSHF5THZSdUkya2ZraDQ0b3JVUTcyeExjSjRfVDRzejRoeE9manMzR3Y4dHN6eXJhSlFhTUNobzJ1ODZUUjIwbDVPVU1haXY4bUU1Y0xFdXdJRHZUV0RtUUcwQkRGbWlfaVZLcTZvOEk0OEh5d0o0LWRpcHhkNFNFeWdRUWdlTFJzNzIzclBaVHpYYmFzampFS1ViMENB",
@@ -294,11 +287,11 @@
         "timestamp": 1774611685
       },
       {
-        "id": "CBMirwFBVV95cUxPRWEtazZVTTFUVDB1N3pDbkdkYjRqcHdKaHFnZmJET2dQblZlY1V5YUFlcXZPQ2p1ZXNYQVhDSVZjMmlSS2Y1T2R6Y21MbHgyZlp2cldrVDFwVFhuamRDMnhfVkFqOE1aRThHMVlWZTB3OURZeXhxWWVBaXo4OWpRZmNVZGxoUXoxNVctUmJ0ZDFsbUR0UXhPdTdMM3ZseTlUZXdpN3RWcXlsNG5VMFBr",
-        "title": "Legal insight How a decision on the UK's longest indoor ski slope upended the centralisation trend",
-        "source": "The Planner Magazine",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRWEtazZVTTFUVDB1N3pDbkdkYjRqcHdKaHFnZmJET2dQblZlY1V5YUFlcXZPQ2p1ZXNYQVhDSVZjMmlSS2Y1T2R6Y21MbHgyZlp2cldrVDFwVFhuamRDMnhfVkFqOE1aRThHMVlWZTB3OURZeXhxWWVBaXo4OWpRZmNVZGxoUXoxNVctUmJ0ZDFsbUR0UXhPdTdMM3ZseTlUZXdpN3RWcXlsNG5VMFBr?oc=5",
-        "timestamp": 1774608730
+        "id": "CBMi6gFBVV95cUxPTkNIMGlRTnVjX0RJNUlwZWNhNDhpeEc4WUJ1c256Mm8tNjNXczdlbDlkcEtmOWVNdXVodkpWNXdDNDRoMXlEUGtGMjFoS3hlV1cxRTVWWVFnVXROc3RESUxyVEljc0FRV3FONkJJa2FDOFBVZUJDQXRVTmlNVXFkTEVvTnhtaUItcVlYX00ycGpvN0RjTnB2MVI4MFJPQWFyY2t4bHZsaEc2Vm9jakN3R3VsNDU5Z250VVV3UGpiQ2Q2TUhRb2Yyb2FZU0ZReUE0N1h5MFd2ZU9tNUtnWm1lc3FVNHU5NVVFQUE",
+        "title": "Lapland UK Ascot 2026: Check Dates, Ticket Sale Details, Prices & How to Book This Magical Christmas Experience",
+        "source": "The Sunday Guardian",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTkNIMGlRTnVjX0RJNUlwZWNhNDhpeEc4WUJ1c256Mm8tNjNXczdlbDlkcEtmOWVNdXVodkpWNXdDNDRoMXlEUGtGMjFoS3hlV1cxRTVWWVFnVXROc3RESUxyVEljc0FRV3FONkJJa2FDOFBVZUJDQXRVTmlNVXFkTEVvTnhtaUItcVlYX00ycGpvN0RjTnB2MVI4MFJPQWFyY2t4bHZsaEc2Vm9jakN3R3VsNDU5Z250VVV3UGpiQ2Q2TUhRb2Yyb2FZU0ZReUE0N1h5MFd2ZU9tNUtnWm1lc3FVNHU5NVVFQUE?oc=5",
+        "timestamp": 1774608674
       },
       {
         "id": "CBMingFBVV95cUxPTmo1akFlRVpQSVBPOVdOTGJtdVlOOTVJbzg1MWpZVmtqNktXWnZYU3RDelo5NWFfQmFGMFFHeDhiTU1nWVJSLUc2VmxwQWZua0VxeTctdjZUY2FEY2ZJM3g4dnpxdWNvRnpHWndWVHNacHZ5ZDhYaUhkSXJncUdmVTN1ZmNZVjlnU2VWZG9FUlJQakZiUTAzZXF3Tkw3Zw",
@@ -306,6 +299,13 @@
         "source": "Installer Online",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTmo1akFlRVpQSVBPOVdOTGJtdVlOOTVJbzg1MWpZVmtqNktXWnZYU3RDelo5NWFfQmFGMFFHeDhiTU1nWVJSLUc2VmxwQWZua0VxeTctdjZUY2FEY2ZJM3g4dnpxdWNvRnpHWndWVHNacHZ5ZDhYaUhkSXJncUdmVTN1ZmNZVjlnU2VWZG9FUlJQakZiUTAzZXF3Tkw3Zw?oc=5",
         "timestamp": 1774608423
+      },
+      {
+        "id": "CBMicEFVX3lxTE96eFRtR1g5NG15VmJxdk9GX3B1V1FJdWRDdkJPb1pHMWk3d2pwMV81WFBURlJxaHRadVZTWUFKR1VSc21KX1lyVTUxa2NSa05nRmxUU1FRb1hFVWNvc2hDZ25YYUQ0Y09jMzNhLTZuWGk",
+        "title": "The Vogue Business Beauty Trend Tracker",
+        "source": "Vogue",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96eFRtR1g5NG15VmJxdk9GX3B1V1FJdWRDdkJPb1pHMWk3d2pwMV81WFBURlJxaHRadVZTWUFKR1VSc21KX1lyVTUxa2NSa05nRmxUU1FRb1hFVWNvc2hDZ25YYUQ0Y09jMzNhLTZuWGk?oc=5",
+        "timestamp": 1774607400
       },
       {
         "id": "CBMimwFBVV95cUxOLUpLMkNjZkRDWG4yM2tad09vR1dLZEVLcThDc1ljU2J4eDBhMWN5cXlmQlJJNWFrLVJiTGtHTnc4eXplWTR5UTQ1UlRRQ0pOa0tfWTBzU3dQTWdNVS02WjJxb2c4ZjVBckN0QkhtWDVrNjhRSTRrWHRXODJFR2RNak5OMUpKZURWd0EzU3p6cWcyVXZWQjVKVGVLcw",
@@ -324,6 +324,20 @@
     ],
     "tiktok": [
       {
+        "id": "CBMixwFBVV95cUxQbXp2MThoa3R5OU1Kc0IwQTRLRDIweWQ3eE9KRWNidWlkVXZ0eHVyc2dlMldGTThDcDNiQXE2WENyQkZMRFIyQS1iUXpydTBkVTZvVU1fbjViMVBkMlpMV0tDeThOMFF1UUU3OEM0dGNfb3VIYjZLaXh2cEJtTElfVkZRRUZFSEY0T2pKeW0yWWV1VGgwX3dhOERwZFRVbDB1ZkF5TUpkaW1WTFhxQjA4QVFWYmtOZ3ZfVHlaSTVxZHNna084SEZR",
+        "title": "The Shocking Shift: How Gen Z Ditches TV for TikTok and Search – Why IVE Fans in North America Are",
+        "source": "AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbXp2MThoa3R5OU1Kc0IwQTRLRDIweWQ3eE9KRWNidWlkVXZ0eHVyc2dlMldGTThDcDNiQXE2WENyQkZMRFIyQS1iUXpydTBkVTZvVU1fbjViMVBkMlpMV0tDeThOMFF1UUU3OEM0dGNfb3VIYjZLaXh2cEJtTElfVkZRRUZFSEY0T2pKeW0yWWV1VGgwX3dhOERwZFRVbDB1ZkF5TUpkaW1WTFhxQjA4QVFWYmtOZ3ZfVHlaSTVxZHNna084SEZR?oc=5",
+        "timestamp": 1774681820
+      },
+      {
+        "id": "CBMitwFBVV95cUxORXJRMFAzbDFSOWljUnZuMWJNS3dueUIxeHFKWlBqazZCNF9rOVpjVmM2NG5HNmVPNUwzNkJXbjdoWGV2ZlRiNzNxX0hrcHdXa21NTzdpdmJNekxjbFBtbnh5eVdjRnBNOF81cDhYLTFtY1F0WjQ1SFdGWDVPT3AySGdSWWdkQVByMlZxM2R4eXFpNGlXZnNleDZwcF9QWjZoLWtkbXp5UUVRejlwX1luZG1tRXF5bjQ",
+        "title": "Laguna Beach' Cast Do Viral JENNIE 'Dracula' TikTok Trend",
+        "source": "National Today",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORXJRMFAzbDFSOWljUnZuMWJNS3dueUIxeHFKWlBqazZCNF9rOVpjVmM2NG5HNmVPNUwzNkJXbjdoWGV2ZlRiNzNxX0hrcHdXa21NTzdpdmJNekxjbFBtbnh5eVdjRnBNOF81cDhYLTFtY1F0WjQ1SFdGWDVPT3AySGdSWWdkQVByMlZxM2R4eXFpNGlXZnNleDZwcF9QWjZoLWtkbXp5UUVRejlwX1luZG1tRXF5bjQ?oc=5",
+        "timestamp": 1774674934
+      },
+      {
         "id": "CBMilgFBVV95cUxQWGlrdkxXeEtpeHpOQXVGT1JPbUVfWGE4WExMUXd1WlRrYUgyZ2dHa21LVDRUOXJsWE5PaFZaN1JweGpMVnhFVWIxNXg0Z3FNMzJPT3ZFeS1RRzVpSWRqNlN2bzkwNmhMdFV5ckZMLWRUTWV0Tm96elI2Tk1ZN2hYb3JsV3RvYU1TNi02cE9kTTZMTVVRWWc",
         "title": "Most Viral TikTok EDM & Electronic Tracks of 2026 So Far",
         "source": "EDM Sauce",
@@ -338,11 +352,18 @@
         "timestamp": 1774659376
       },
       {
-        "id": "CBMidEFVX3lxTE5KWjA3VndvVzFVVGRPekwwV1BBd1kyRS1LVzRsSDhBNnkxX1YxZTVtSlJodUpXZ1h4ZW1JbzNSWV81Tm53czRDRmVOalcxTzFuUno4T2VVR0libDJFeG5pOWZIMHZ1bk1sdVlYYjhMeDBqMzQ5",
-        "title": "'How it really feels to see the food I used to hide at school now going viral.'",
+        "id": "CBMic0FVX3lxTE5iZHhUcmJzd2NJczk1QlZiVHQ5ODV2QUFMSUk1djV2T0g4SDE3dVhOdVNFNWU2T1RyclV5bVo1Q3JfaHVMcGpSVWZaV0tweTRJODJhUXVpaGxfLW5wbkNxNWNfTzQ4NF8zdEhxMkVuWVNSVFE",
+        "title": "'How it really feels to see the food I used to hide to eat at school now going viral.'",
         "source": "Mamamia",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KWjA3VndvVzFVVGRPekwwV1BBd1kyRS1LVzRsSDhBNnkxX1YxZTVtSlJodUpXZ1h4ZW1JbzNSWV81Tm53czRDRmVOalcxTzFuUno4T2VVR0libDJFeG5pOWZIMHZ1bk1sdVlYYjhMeDBqMzQ5?oc=5",
-        "timestamp": 1774656234
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iZHhUcmJzd2NJczk1QlZiVHQ5ODV2QUFMSUk1djV2T0g4SDE3dVhOdVNFNWU2T1RyclV5bVo1Q3JfaHVMcGpSVWZaV0tweTRJODJhUXVpaGxfLW5wbkNxNWNfTzQ4NF8zdEhxMkVuWVNSVFE?oc=5",
+        "timestamp": 1774654475
+      },
+      {
+        "id": "CBMigwFBVV95cUxOcnBMSTNlRW91Wjk2RW9zOWUwODhTLUNSM3VHSmtVVUF5T29CS2JxQTVpWlZIbjdvVVVMRnF2ZkdXWFQ1TDlaNDBXVUpwR0sxYVF1QUVFNldpZFF0WFJCaGY0TW5fSGpkMHhvZi1DRXpHT3ZoSl9uTHdjTEQ5YjFTVzFjcw",
+        "title": "Gypsy-Rose Blanchard Recounts Mom’s Murder While Doing ‘We Listen and We Don’t Judge’ TikTok Trend",
+        "source": "AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnBMSTNlRW91Wjk2RW9zOWUwODhTLUNSM3VHSmtVVUF5T29CS2JxQTVpWlZIbjdvVVVMRnF2ZkdXWFQ1TDlaNDBXVUpwR0sxYVF1QUVFNldpZFF0WFJCaGY0TW5fSGpkMHhvZi1DRXpHT3ZoSl9uTHdjTEQ5YjFTVzFjcw?oc=5",
+        "timestamp": 1774648514
       },
       {
         "id": "CBMi7wFBVV95cUxOUTJkb3A2UlMtMjZkNGMyOWptSXVVbXFxU3JzYmt1STg4Vm1BSGRFczNRc3VfQUdVWVExNFp5TS0tZnQyNGliVFp1Z3R6b19vR0pMUkNSS2JkcnJoTjAwUTZYdmpoNk1yMmpfRjJjeTZBRTRVLWxMeTFiWl9Oc3c5cVNLTXNwYWZYYWNSM2pHWGkzQ2JjcFFxNjlvSEZUcVpoa0NWcllHbGZIOUw5c3FfR1VZdkVyN1pZcUNFYVBQNV9HYXFrOWxUTE9UWGcya2tQZml4MXZUTHpWaXh6Q3F6RS1pUVMwald1NWNZUzh3a9IBeEFVX3lxTFA3NzNxRUtVaE5lTmVpakd1YUFkcGd5aDZ4UEJ0RkpBNUw3M09MY3YwTjZFVXdGRTZBZGl1REFKWEM2cmJSMjBkelpJYTRkNHRUam1zdXhpMHVkcUdxNlhNMTJKMzJjMXctcHc1TmRNWUN6enNjTGJxOA",
@@ -359,13 +380,6 @@
         "timestamp": 1774641986
       },
       {
-        "id": "CBMi2gFBVV95cUxQeGdGVENaSjVCeC1fTDZUVHV2eWRES01CVGdLeF9NUC1zOFMzcmlDZm00UDVJLU9CcllRTWFFMm11anVBamlHbVZzdTlnbmNmSWlpTll6TExTNWVnQ3ZYMzYxZmJSQklXanczY1lERmNBYkRmeWJQTjI2NlpFVkc3SEVjbjZsM1NjeEFqeDhzSlhKS3ZNeHVQLTJBbXRsR0xIdXBwWXp2NWl1RElVRERNd1pwVkxDd1NQQzZVUnh4WDEtX3J2UXBVMkhZSy0yWlctVXQ5Tm1kaTY2UQ",
-        "title": "‘Scrunchy moms’ are taking over TikTok in viral parenting trend: ‘Parenting is a balancing act’",
-        "source": "AOL.com",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeGdGVENaSjVCeC1fTDZUVHV2eWRES01CVGdLeF9NUC1zOFMzcmlDZm00UDVJLU9CcllRTWFFMm11anVBamlHbVZzdTlnbmNmSWlpTll6TExTNWVnQ3ZYMzYxZmJSQklXanczY1lERmNBYkRmeWJQTjI2NlpFVkc3SEVjbjZsM1NjeEFqeDhzSlhKS3ZNeHVQLTJBbXRsR0xIdXBwWXp2NWl1RElVRERNd1pwVkxDd1NQQzZVUnh4WDEtX3J2UXBVMkhZSy0yWlctVXQ5Tm1kaTY2UQ?oc=5",
-        "timestamp": 1774639221
-      },
-      {
         "id": "CBMinwFBVV95cUxON3cxZ1RZVE1GYnBUR2t3dGdGNlI2a0oycUxOS2VENk9ERE1MTGFDVVBYM1BkaFVjUjJZcDRJUkQ1Mm5ROVpNcWpqWVo0dmJOQTY2Nk5LLTdjTzc2N3BpQXNaXzZiS0tWcXY1NlVnQUg2ZHhDcHVCQTEtMkxWZW1kZUVlUG1JN2gzZm5QbHg3aWdYZllUbC1TYlJRZnFXMTA",
         "title": "\"Backyard Botox\" Emerges as Latest Harmful Social Media Trend",
         "source": "Dermatology Times",
@@ -373,11 +387,11 @@
         "timestamp": 1774638000
       },
       {
-        "id": "CBMiywFBVV95cUxNVTdNNjJVSUd5SmpsWWxmR3NSelBHcHFKVWpSNTlSUnE4U09JRGstQXV3d2FRXzRCOUpGRnI4eC1fd2Fid3BjbE9QSW1NX1ZPRHFfbVNjeTVHTGJfOFRua3F5TjdQRjVSWnhyLUttcWZFQkhNWmM2SXlFalQ3dTFhbEhOOS14eDEzN0xYWWFRMms2Uzd3OU1VZi1hTTZBUUxOcFVkZ1o3ZDRRVU15VW1ndjFSMk9hcDhaZk5Ya1dpNHpmWGYzOTNNUEhUOA",
-        "title": "Gen Z Ditches TV for TikTok: Pew's Shocking Report on How 18-29s Get News in 2026",
-        "source": "ad-hoc-news.de",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVTdNNjJVSUd5SmpsWWxmR3NSelBHcHFKVWpSNTlSUnE4U09JRGstQXV3d2FRXzRCOUpGRnI4eC1fd2Fid3BjbE9QSW1NX1ZPRHFfbVNjeTVHTGJfOFRua3F5TjdQRjVSWnhyLUttcWZFQkhNWmM2SXlFalQ3dTFhbEhOOS14eDEzN0xYWWFRMms2Uzd3OU1VZi1hTTZBUUxOcFVkZ1o3ZDRRVU15VW1ndjFSMk9hcDhaZk5Ya1dpNHpmWGYzOTNNUEhUOA?oc=5",
-        "timestamp": 1774637699
+        "id": "CBMilAFBVV95cUxONHNnSGVSaGlramR0eXQ5MHZYb3N1OFZjaVY2dHMtamJyVl9GTU14NjRpNWhUU2U5NVZBUkQ0WVZaX01URklRZWxua1pQOEhmYm5oNWpqSUdyWnRlQUVxNUltWEQ0d0RKdFJzcDlXSEdadVJiazk2ZE9acXE1LTFHTFVfV3F0dmprcHJ3QnBqbExzY21E0gGaAUFVX3lxTE5UcUpTeWR3TGVVX2d6QmZQTHA3R3ZFYUw2eXVTb21DRjdtRW5QNkpJME1LMWo1dDRzVHFESHBCbjhJWHUxSmxJN0N4dnhUeEpyTTF0bUNBM1NyZnFuRmlMYzhScWJEQ29PblpPZENtR1RyOVJ1VkQyMi1vTXB3M1JjTExMbmhHY2dOSTRIX19KY0V4anBZWVFfaEE",
+        "title": "What Is The Viral ‘Boy Kibble’ Trend?",
+        "source": "Health and Me",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONHNnSGVSaGlramR0eXQ5MHZYb3N1OFZjaVY2dHMtamJyVl9GTU14NjRpNWhUU2U5NVZBUkQ0WVZaX01URklRZWxua1pQOEhmYm5oNWpqSUdyWnRlQUVxNUltWEQ0d0RKdFJzcDlXSEdadVJiazk2ZE9acXE1LTFHTFVfV3F0dmprcHJ3QnBqbExzY21E0gGaAUFVX3lxTE5UcUpTeWR3TGVVX2d6QmZQTHA3R3ZFYUw2eXVTb21DRjdtRW5QNkpJME1LMWo1dDRzVHFESHBCbjhJWHUxSmxJN0N4dnhUeEpyTTF0bUNBM1NyZnFuRmlMYzhScWJEQ29PblpPZENtR1RyOVJ1VkQyMi1vTXB3M1JjTExMbmhHY2dOSTRIX19KY0V4anBZWVFfaEE?oc=5",
+        "timestamp": 1774636619
       },
       {
         "id": "CBMihwFBVV95cUxQVmotaUNqV3hOdloxZ0dJd193NUYxZWxoRFE0UnNTb0ZpRDFJejZPdmZlY1RsNC1HeVRweTZLLXNyd2o4THpZbS1ndWQ5ZEZNMEUwQUE1X2ltYWZ0RWRtVTRBTTZzU3BNVVBvY0hkODZtTVNzVnFFRUZJQktOTFhYNkxjYVRNOWM",
@@ -389,7 +403,7 @@
       {
         "id": "CBMiqgFBVV95cUxQRFJ5cWtfQ1BYNjNKT3otNVR3VXNmeEY2dmhBcWUzdWFrMEk2a1FDenRnQ3BQcEMwU1MzX0JlY2Y1WVRwUk4xOFlsQUEzMUtvTHo5cF9aY2p4aVU1WWhWbjRiRVItN096VE1ETWk3WjhSX2pOcnVmYUtDUS0yYnB5YXdVNEY5bVA5Rll6aWZseW0xN2Fwaks0VWxkZHoyRXliNzlYQWxNSFlLZw",
         "title": "Forget TikTok Trends—This Interior Style Is Helping Homes Sell This Spring",
-        "source": "realtor.com",
+        "source": "Realtor.com",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRFJ5cWtfQ1BYNjNKT3otNVR3VXNmeEY2dmhBcWUzdWFrMEk2a1FDenRnQ3BQcEMwU1MzX0JlY2Y1WVRwUk4xOFlsQUEzMUtvTHo5cF9aY2p4aVU1WWhWbjRiRVItN096VE1ETWk3WjhSX2pOcnVmYUtDUS0yYnB5YXdVNEY5bVA5Rll6aWZseW0xN2Fwaks0VWxkZHoyRXliNzlYQWxNSFlLZw?oc=5",
         "timestamp": 1774631707
       },
@@ -399,13 +413,6 @@
         "source": "Vulture",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43WVNmUWVLekR3UmpNcEVtN3lWYm5wbURKQkpoYVVINnFkRklFWHpJdDExd2dFWjhCOXJvWmgzNU5Md2dGZl9iamVUWDNRdk5tWDg4OHJXQ01hNlhDM0NYV1JFb2ZvSEg4Q3NILTlXQjFQbTYzVW14NExQMA?oc=5",
         "timestamp": 1774628872
-      },
-      {
-        "id": "CBMicEFVX3lxTE96eFRtR1g5NG15VmJxdk9GX3B1V1FJdWRDdkJPb1pHMWk3d2pwMV81WFBURlJxaHRadVZTWUFKR1VSc21KX1lyVTUxa2NSa05nRmxUU1FRb1hFVWNvc2hDZ25YYUQ0Y09jMzNhLTZuWGk",
-        "title": "The Vogue Business Beauty Trend Tracker",
-        "source": "Vogue",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96eFRtR1g5NG15VmJxdk9GX3B1V1FJdWRDdkJPb1pHMWk3d2pwMV81WFBURlJxaHRadVZTWUFKR1VSc21KX1lyVTUxa2NSa05nRmxUU1FRb1hFVWNvc2hDZ25YYUQ0Y09jMzNhLTZuWGk?oc=5",
-        "timestamp": 1774607400
       },
       {
         "id": "CBMitAFBVV95cUxNX3FVR0V6a3cxdUxJWm1xOUxicE12bUhCenMxMENTNUlJVnJTdzllVlpMbHZra2VTOXpiOE5WU0FHYmlUaWNIRXlEMGxuLUUwLWRNdzJSUVRnWVBWSWc5SkxmRXBwUEVwRlJUdTdYTEplQ0V5cFQtcGM2MFFtT3lITmt6aEZTSkxTQWJ1SEppUlV6cnZJR28tYV9RSXppX3VWYnpOZ3RKaHpfamRXNzZJZDJKb0Q",
@@ -420,13 +427,6 @@
         "source": "MSN",
         "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPZXQxeDNiR2p0QXVnekZ1ZktzamY3UUJXaTVzRUtCYmlZVzUyc2xid0N6QnR5b0JnUDVmc3AtRjRFRE9XOW1CWXItTDVxMW5oSGpUR0xURGhJc1FIY01uMll4bWJseGVhNGc2Ui1QalJNU2lvUjRVTmUtbzJvaWZDMS0zSHd2OGxTM01YLVdfYzZoMnU0TkZNYWFfUzlyWDBnaUpBUWVzMmxmVnZkOWlPVmdBRVY1UTJmVmwteHh5OHNxbTluVmZPckhtUHQyVjlxYTk2OW9BVVYyR3p0bEVmSWhfdUNkc250akxXWVR5US1nWmo2ckFmOHFWUzdJMGF5NlpyRXBveUUxQ0txUF9sVTdDWnlrdlRaRTN5NXM1SkxXNlB5S01HUzlGbnFheXN3OUZoVEtBSWVlaGVqdTVZUlQ0NFpJVlpRQWlBS3JYS1NXYXFtS0FIU3pB?oc=5",
         "timestamp": 1774605393
-      },
-      {
-        "id": "CBMiiwFBVV95cUxORlpBYlVqRGxrVjNZR29LX0VrUDJfZVo5YVYwV0k2cVhvamtoODc4MEkwRG1WcHIzZC1EanNyYktIdlI3WWY3dzBuVkphTWlULVo2dzNRbWxId1Jkelo2SVVRc0h2SHFFQkgyU1JybDlKa1JrdGNBT1JlTnpIUHhxQ2hvNjg0WXFnX2hZ",
-        "title": "What happens to artists when their unreleased music trends on TikTok? - triple j",
-        "source": "Australian Broadcasting Corporation",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlpBYlVqRGxrVjNZR29LX0VrUDJfZVo5YVYwV0k2cVhvamtoODc4MEkwRG1WcHIzZC1EanNyYktIdlI3WWY3dzBuVkphTWlULVo2dzNRbWxId1Jkelo2SVVRc0h2SHFFQkgyU1JybDlKa1JrdGNBT1JlTnpIUHhxQ2hvNjg0WXFnX2hZ?oc=5",
-        "timestamp": 1774599550
       }
     ],
     "twitter_x": [
@@ -438,18 +438,25 @@
         "timestamp": 1774680960
       },
       {
-        "id": "CBMi9gJBVV95cUxNejRYSHNCT2pBSnB1ZC1iTWg2d1FqNjR5SUFJZ1lSd2JKRzRlV1lpUWliUllkX0NVZXBVQ1FkOG9kWmRsX0lFdDNsaFRDd0FkSmg2Y3NBR2kxTk96TWlYMmZvQ1JkUjNsY3Nibzd2N1BEajFpdUd5TW9LWEN3YmJKOTl1QUpKeXcwNGpBWmVxYlZaWGpBNUJ1bnNPeWotcS1FSGcxMy1Ka25YRDFNZWRJdzFvcTNVUWNtSlJaMUdMbDM0S29GZ1NwMGtFeUt3ekp6TkVuZ1Y3bW9uYW5Ib0JRVWxrWmRhRFhXd2NpaUE1eERUS19RZ2o0NS1sajdycDFfdGN5SXM2Zlp3dGh2RjhJbzdhVWZ2TjdjNEd4X012bDN4bkhCcTBRZ0UtTFFwanhpTGdsRDlJNkpoOW1BZjJwNlpVN1VzMjVoci15M0lOVnhnUWZnU1V5Z1pNZnBHRzZXdTdyRm5mWnd4d3A3b1VkWUs3SXJmQQ",
+        "id": "CBMi2wFBVV95cUxPNkx4SmxlLVBUa2tyN05oZ1RzT0lNdnBqWGowXzJibEhvMWo4aE4xV1RhRVlhbXBxaFl2eXNYblpVSzZYREl6ZGF4aC1zRXNOQlpNc1VNVC1fNXVpOExtZmFaUHN0cWZpODdwc21WMTFBSW9oMjl0cWxBVi1EWWp4c1E1UUVFNmxqaldJX25KbWpkUDVCMlMyQlZCRWhfQkV1bEpkN1ZDcnZGMXd2NW83R2FyWTNKWG4yWVFxTWxma0plRGdtVzlYbDAzQ3lYYlFiancwM2l5LUhNYjQ",
+        "title": "Gypsy Rose Blanchard, her controversial TikTok, and the backlash explained",
+        "source": "Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNkx4SmxlLVBUa2tyN05oZ1RzT0lNdnBqWGowXzJibEhvMWo4aE4xV1RhRVlhbXBxaFl2eXNYblpVSzZYREl6ZGF4aC1zRXNOQlpNc1VNVC1fNXVpOExtZmFaUHN0cWZpODdwc21WMTFBSW9oMjl0cWxBVi1EWWp4c1E1UUVFNmxqaldJX25KbWpkUDVCMlMyQlZCRWhfQkV1bEpkN1ZDcnZGMXd2NW83R2FyWTNKWG4yWVFxTWxma0plRGdtVzlYbDAzQ3lYYlFiancwM2l5LUhNYjQ?oc=5",
+        "timestamp": 1774675010
+      },
+      {
+        "id": "CBMi9AJBVV95cUxQX3M4WmFHTnl3clZjR1I0Nko0dkhzM3JpWnRZWnFrV1RmblFUUU9jVUtCdE40Y05DY0RTVTFvVFk1eWJhLVFfVmRBZXljQkVrb3JCa0FlSlpaa05LbW84cWZFTWFPZ2J6NnV2UEFHeVVFZ1NjUkN0STNMRFphZEVnbnhRb2NZQ0VXLUtpMXlwaXlTRngwNnotaEhqUHI1Yk5TMU1mWmtxWmthR0xiek01UnBDT0F1cDAwdnpKQzZfbHoyWmp0azdIYTVxeGhNT1ZCVWFmaTdGM1pmZW5GVFR5R2dmcjdHX2ppTGZ0N3JsRlZLQ1dGMEdwZndYX3o2NjB3UEg5MWFWc2Z1S0RXZXB4TzQzMkFUWVJzQWlXUk9NNGlkbkRaVjBPVXZTZzBfWnZtU1dkZlFFU0tuSkFaQTNPbElfV2FIMm5YckJOeXFWaVFTbWRKLTR3Y3ViaDk2cG81eWt0aVVXcG9nS2U3cG9OTVFlSTM",
         "title": "'Languages define identity': Viral X post dismissing Kannada, Tamil triggers social media storm",
         "source": "MSN",
-        "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNejRYSHNCT2pBSnB1ZC1iTWg2d1FqNjR5SUFJZ1lSd2JKRzRlV1lpUWliUllkX0NVZXBVQ1FkOG9kWmRsX0lFdDNsaFRDd0FkSmg2Y3NBR2kxTk96TWlYMmZvQ1JkUjNsY3Nibzd2N1BEajFpdUd5TW9LWEN3YmJKOTl1QUpKeXcwNGpBWmVxYlZaWGpBNUJ1bnNPeWotcS1FSGcxMy1Ka25YRDFNZWRJdzFvcTNVUWNtSlJaMUdMbDM0S29GZ1NwMGtFeUt3ekp6TkVuZ1Y3bW9uYW5Ib0JRVWxrWmRhRFhXd2NpaUE1eERUS19RZ2o0NS1sajdycDFfdGN5SXM2Zlp3dGh2RjhJbzdhVWZ2TjdjNEd4X012bDN4bkhCcTBRZ0UtTFFwanhpTGdsRDlJNkpoOW1BZjJwNlpVN1VzMjVoci15M0lOVnhnUWZnU1V5Z1pNZnBHRzZXdTdyRm5mWnd4d3A3b1VkWUs3SXJmQQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3M4WmFHTnl3clZjR1I0Nko0dkhzM3JpWnRZWnFrV1RmblFUUU9jVUtCdE40Y05DY0RTVTFvVFk1eWJhLVFfVmRBZXljQkVrb3JCa0FlSlpaa05LbW84cWZFTWFPZ2J6NnV2UEFHeVVFZ1NjUkN0STNMRFphZEVnbnhRb2NZQ0VXLUtpMXlwaXlTRngwNnotaEhqUHI1Yk5TMU1mWmtxWmthR0xiek01UnBDT0F1cDAwdnpKQzZfbHoyWmp0azdIYTVxeGhNT1ZCVWFmaTdGM1pmZW5GVFR5R2dmcjdHX2ppTGZ0N3JsRlZLQ1dGMEdwZndYX3o2NjB3UEg5MWFWc2Z1S0RXZXB4TzQzMkFUWVJzQWlXUk9NNGlkbkRaVjBPVXZTZzBfWnZtU1dkZlFFU0tuSkFaQTNPbElfV2FIMm5YckJOeXFWaVFTbWRKLTR3Y3ViaDk2cG81eWt0aVVXcG9nS2U3cG9OTVFlSTM?oc=5",
         "timestamp": 1774658214
       },
       {
-        "id": "CBMihANBVV95cUxOSHVwTlZEMGpZczVWaGg1ZEZOekJNV0h4ci1JSDd0T3Jyb0JQdDRRN292OGJFMVQyTERlX1NyOE14QmxXRW5TUVBZdWFPTVlqaVhUWlZ2b2U5X2ZpM00wMXN1WnZheElMa0NDSjVyY3NOa0tObVVpTHIzeENWNDI1ckFBb1QzLXROYV8xTGJETEg0SFFtSEZWcURSZGFZMG04ZlBHenNLbXpJN3JyNkZGRDdIVW5yM2dNQVkyUnBfXzk0Y01oWFFjSWNMSVBQOGJuMDZpVWZUTHdOcGt4dXZXRUFzWEZuRkNOSTZETkQ5d1lJdG1EVF9VMlR0NWE4OXF3cWd4NFk5ZmtBQ2ZraGoxZXNIUmd0eUJwSUJaVC02dERaMEJCNHowbnNJaE5ZQUJROF9MSURpVDdFcnJhMEh3ZmJ2MFRLNF9kYmJCemNpVDZxLWx6Wlg1UW9udzFGcHplSzNZb3FXMEZ3djhVQTc2QUxYRUZsYjBySHExU3lSUzM3VE84",
+        "id": "CBMi0gJBVV95cUxNTjR1eHFSWE5ucHNPWDdINl9XdklFVUhqb0owWkZ4NUlCZk1VSkZZZFRyU3JjR2F3UEtZeDdVUHVPN3ZLWGxJX3A4Rzlsc3Y3VVgzQlczVHVpQVdwX0NkUGEzcm02SEFNYjA1ekpWUlpCSlVOR3o4WTgwZE52cmMxcm0zVHgxTmpsTUNObXNkWDBjU0pnVDRFWVhQUzEzbmVGTEFEWmFtcHhpVEZUR1VhUjlhR1A1ZWJ2SVV1eU41TXNMMUFpZkRra24zbmZIVldxWHNNdFJNRTctSklXZWNmS0hjYUxUekhiZW01eGZZX3RvSVlvczBXVHUxeC01Ym8zOV8tVGlCQkhDYkRKVjZsb09TeDR0YXBmSVVRbUlTeW1yalpNRlJfaTNMMXdnaXIwcXlHa0VQeGtBMUZ2OXBtb2EtdjI5VFlhVVpfWVQxMDY0dw",
         "title": "Rob Van Dam speaks out against backlash over Ricochet’s MS comment",
         "source": "MSN",
-        "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOSHVwTlZEMGpZczVWaGg1ZEZOekJNV0h4ci1JSDd0T3Jyb0JQdDRRN292OGJFMVQyTERlX1NyOE14QmxXRW5TUVBZdWFPTVlqaVhUWlZ2b2U5X2ZpM00wMXN1WnZheElMa0NDSjVyY3NOa0tObVVpTHIzeENWNDI1ckFBb1QzLXROYV8xTGJETEg0SFFtSEZWcURSZGFZMG04ZlBHenNLbXpJN3JyNkZGRDdIVW5yM2dNQVkyUnBfXzk0Y01oWFFjSWNMSVBQOGJuMDZpVWZUTHdOcGt4dXZXRUFzWEZuRkNOSTZETkQ5d1lJdG1EVF9VMlR0NWE4OXF3cWd4NFk5ZmtBQ2ZraGoxZXNIUmd0eUJwSUJaVC02dERaMEJCNHowbnNJaE5ZQUJROF9MSURpVDdFcnJhMEh3ZmJ2MFRLNF9kYmJCemNpVDZxLWx6Wlg1UW9udzFGcHplSzNZb3FXMEZ3djhVQTc2QUxYRUZsYjBySHExU3lSUzM3VE84?oc=5",
-        "timestamp": 1774653885
+        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNTjR1eHFSWE5ucHNPWDdINl9XdklFVUhqb0owWkZ4NUlCZk1VSkZZZFRyU3JjR2F3UEtZeDdVUHVPN3ZLWGxJX3A4Rzlsc3Y3VVgzQlczVHVpQVdwX0NkUGEzcm02SEFNYjA1ekpWUlpCSlVOR3o4WTgwZE52cmMxcm0zVHgxTmpsTUNObXNkWDBjU0pnVDRFWVhQUzEzbmVGTEFEWmFtcHhpVEZUR1VhUjlhR1A1ZWJ2SVV1eU41TXNMMUFpZkRra24zbmZIVldxWHNNdFJNRTctSklXZWNmS0hjYUxUekhiZW01eGZZX3RvSVlvczBXVHUxeC01Ym8zOV8tVGlCQkhDYkRKVjZsb09TeDR0YXBmSVVRbUlTeW1yalpNRlJfaTNMMXdnaXIwcXlHa0VQeGtBMUZ2OXBtb2EtdjI5VFlhVVpfWVQxMDY0dw?oc=5",
+        "timestamp": 1774653812
       },
       {
         "id": "CBMilAFBVV95cUxNbkN3SXFiNG42NjFrd0taTDhhT1ducklZSWZFcHNrS3JyVnh0b3ZLZllwX2FybjYycE5XWVZPSE5PUXZGem1QOFlvU19zRFNSVG0xZ08zRWpDM0xWd0w2TWxiWGhENTRkUlBpWDlTOFp0am9sNURHRTAtT2luUzdQZ1hGVEtfanRSanl3YkZXTXMzdUkw",
@@ -466,10 +473,10 @@
         "timestamp": 1774643278
       },
       {
-        "id": "CBMi-AFBVV95cUxORlRVN2Q3d1FmaDZURTZOai1pVmJPem54ZF9acXJrZHFIT3JsQ3pwM3MwNlhvQlRCTlg0MTNrY01rUlFXakUtNXZZT1llZEVQQWZOVmRTUjlicEFwMUJJTmFfZm9Vb2lWeFQtcHNZWGNWUEttTUdhUmFJVWdPRUZvTi1RdnhYLWd6Y2FhZ1BPRFlQMHREbTd5bi1hQkpJVEFtWEJ0MFA1NjMxZGlmVFBrNFV0OTM3Ql9Sb05DazFRZEFpVXhEc3FZY1E0Yk0xcVNBUUpyZlROWFdraEhwZjRhWHVVb3pTSDk3TkxoVnBGU1B2RnZrMy1MUtIB-AFBVV95cUxORlRVN2Q3d1FmaDZURTZOai1pVmJPem54ZF9acXJrZHFIT3JsQ3pwM3MwNlhvQlRCTlg0MTNrY01rUlFXakUtNXZZT1llZEVQQWZOVmRTUjlicEFwMUJJTmFfZm9Vb2lWeFQtcHNZWGNWUEttTUdhUmFJVWdPRUZvTi1RdnhYLWd6Y2FhZ1BPRFlQMHREbTd5bi1hQkpJVEFtWEJ0MFA1NjMxZGlmVFBrNFV0OTM3Ql9Sb05DazFRZEFpVXhEc3FZY1E0Yk0xcVNBUUpyZlROWFdraEhwZjRhWHVVb3pTSDk3TkxoVnBGU1B2RnZrMy1MUg",
+        "id": "CBMi8wFBVV95cUxON0FRMzc0RkhQLWxicEZ4U25HU0g1a3VQY3cyeDI5VWlTZjEtR3Y2blI1U29QOUZfU0QyMUFaV2cxOXhBOWpxa0x2Z0kxNmV4VS1YS0FnLVdUVkVocXY5MjEtbXhfX3RNRkpaQnA0VDg1UEgtSWF1Zy02d0xxT00tZ1VrbHRWTGpPV18yeGZKeVpnaTk5Z1Z5VmhmOXV0YXJSamVNVWhGaWVPRzk3N2M2WXhCUWJVWF84NHFkTFNpQlJiaXp3Rjh4bzh1YW1tNmhMaDdPRlZCem9pNTB5czhheFdha0l2TjJ3X1ZNQnBGbnBkQ2fSAfgBQVVfeXFMTkZUVTdkN3dRZmg2VEU2TmotaVZiT3pueGRfWnFya2RxSE9ybEN6cDNzMDZYb0JUQk5YNDEza2NNa1JRV2pFLTV2WU9ZZWRFUEFmTlZkU1I5YnBBcDFCSU5hX2ZvVW9pVnhULXBzWVhjVlBLbU1HYVJhSVVnT0VGb04tUXZ4WC1nemNhYWdQT0RZUDB0RG03eW4tYUJKSVRBbVhCdDBQNTYzMWRpZlRQazRVdDkzN0JfUm9OQ2sxUWRBaVV4RHNxWWNRNGJNMXFTQVFKcmZUTlhXa2hIcGY0YVh1VW96U0g5N05MaFZwRlNQdkZ2azMtTFI",
         "title": "‘Fire Brandon Beane…’: Why Damar Hamlin's new contract has sparked backlash against Bills | Hindustan Times",
         "source": "Hindustan Times",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORlRVN2Q3d1FmaDZURTZOai1pVmJPem54ZF9acXJrZHFIT3JsQ3pwM3MwNlhvQlRCTlg0MTNrY01rUlFXakUtNXZZT1llZEVQQWZOVmRTUjlicEFwMUJJTmFfZm9Vb2lWeFQtcHNZWGNWUEttTUdhUmFJVWdPRUZvTi1RdnhYLWd6Y2FhZ1BPRFlQMHREbTd5bi1hQkpJVEFtWEJ0MFA1NjMxZGlmVFBrNFV0OTM3Ql9Sb05DazFRZEFpVXhEc3FZY1E0Yk0xcVNBUUpyZlROWFdraEhwZjRhWHVVb3pTSDk3TkxoVnBGU1B2RnZrMy1MUtIB-AFBVV95cUxORlRVN2Q3d1FmaDZURTZOai1pVmJPem54ZF9acXJrZHFIT3JsQ3pwM3MwNlhvQlRCTlg0MTNrY01rUlFXakUtNXZZT1llZEVQQWZOVmRTUjlicEFwMUJJTmFfZm9Vb2lWeFQtcHNZWGNWUEttTUdhUmFJVWdPRUZvTi1RdnhYLWd6Y2FhZ1BPRFlQMHREbTd5bi1hQkpJVEFtWEJ0MFA1NjMxZGlmVFBrNFV0OTM3Ql9Sb05DazFRZEFpVXhEc3FZY1E0Yk0xcVNBUUpyZlROWFdraEhwZjRhWHVVb3pTSDk3TkxoVnBGU1B2RnZrMy1MUg?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON0FRMzc0RkhQLWxicEZ4U25HU0g1a3VQY3cyeDI5VWlTZjEtR3Y2blI1U29QOUZfU0QyMUFaV2cxOXhBOWpxa0x2Z0kxNmV4VS1YS0FnLVdUVkVocXY5MjEtbXhfX3RNRkpaQnA0VDg1UEgtSWF1Zy02d0xxT00tZ1VrbHRWTGpPV18yeGZKeVpnaTk5Z1Z5VmhmOXV0YXJSamVNVWhGaWVPRzk3N2M2WXhCUWJVWF84NHFkTFNpQlJiaXp3Rjh4bzh1YW1tNmhMaDdPRlZCem9pNTB5czhheFdha0l2TjJ3X1ZNQnBGbnBkQ2fSAfgBQVVfeXFMTkZUVTdkN3dRZmg2VEU2TmotaVZiT3pueGRfWnFya2RxSE9ybEN6cDNzMDZYb0JUQk5YNDEza2NNa1JRV2pFLTV2WU9ZZWRFUEFmTlZkU1I5YnBBcDFCSU5hX2ZvVW9pVnhULXBzWVhjVlBLbU1HYVJhSVVnT0VGb04tUXZ4WC1nemNhYWdQT0RZUDB0RG03eW4tYUJKSVRBbVhCdDBQNTYzMWRpZlRQazRVdDkzN0JfUm9OQ2sxUWRBaVV4RHNxWWNRNGJNMXFTQVFKcmZUTlhXa2hIcGY0YVh1VW96U0g5N05MaFZwRlNQdkZ2azMtTFI?oc=5",
         "timestamp": 1774637753
       },
       {
@@ -501,18 +508,18 @@
         "timestamp": 1774631765
       },
       {
+        "id": "CBMiowFBVV95cUxOLTBjNXVPc3JCemd5YnBqcjVPcWFYdFlOOUNLR2hmSVJRZnZXakVLVjRKM0kyMngza2FndzBGOTBuRUU0SjRNaDJWX3Rra29tSFl1aldlaFJnVDdrMFJ0cU0yZE9xQnF6Z213UjJFQ3VwX3hZdkdlNkpqQktJU2RWTzhGX2xXUi1aV0hnWVRFVDJtQ1BHcm1pVlhBM0J3VThrOFEw",
+        "title": "Khloé Kardashian’s ex Tristan Thompson sparks backlash after posing with JD Vance",
+        "source": "tyla.com",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLTBjNXVPc3JCemd5YnBqcjVPcWFYdFlOOUNLR2hmSVJRZnZXakVLVjRKM0kyMngza2FndzBGOTBuRUU0SjRNaDJWX3Rra29tSFl1aldlaFJnVDdrMFJ0cU0yZE9xQnF6Z213UjJFQ3VwX3hZdkdlNkpqQktJU2RWTzhGX2xXUi1aV0hnWVRFVDJtQ1BHcm1pVlhBM0J3VThrOFEw?oc=5",
+        "timestamp": 1774618088
+      },
+      {
         "id": "CBMi4gFBVV95cUxOTTlqcHZ4dlN3a1NjbFlMWkpXa2ZYOGNNZlI1RGVKdHhzeGh5ODdYdy1NUjJJeTUzTWdUakhPZDdKUS13SmN2NzNNZFJadmJfTjhXeDd1WDlkLVlWUUJSQ2tVMC1yTEJJNGJZd2dQSEx6RHRrTndiek01TWJKVXVvUnZxZE1SU0o2dnFkMXd5NUhhLTczbXQzQzVnTV9WX1hPTjdja0s2M29vaFoxY0FiYUx4R1UxbjRqdDk4ZEVZZS1NMEZ5bU45d1c3UW5zaVBkTUtTMTlnWHo0eFNhbW1KU3JB",
         "title": "Ryan Gosling’s ‘Project Hail Mary’ gains more IMAX shows in India on Day 2 after fan backlash",
         "source": "Onmanorama",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTTlqcHZ4dlN3a1NjbFlMWkpXa2ZYOGNNZlI1RGVKdHhzeGh5ODdYdy1NUjJJeTUzTWdUakhPZDdKUS13SmN2NzNNZFJadmJfTjhXeDd1WDlkLVlWUUJSQ2tVMC1yTEJJNGJZd2dQSEx6RHRrTndiek01TWJKVXVvUnZxZE1SU0o2dnFkMXd5NUhhLTczbXQzQzVnTV9WX1hPTjdja0s2M29vaFoxY0FiYUx4R1UxbjRqdDk4ZEVZZS1NMEZ5bU45d1c3UW5zaVBkTUtTMTlnWHo0eFNhbW1KU3JB?oc=5",
         "timestamp": 1774617059
-      },
-      {
-        "id": "CBMigwFBVV95cUxQOTdHYWR0VzRLTDMxZWs0YUlsU3VBMGZMdHA2eXZ6UEU4VGh1T3JjNG1ldnk5SGFUTzdrNEZmaktKMTlNWmhRakJPLWFia2VBOVlvSU5FNDA1SlRaX3B3T3gzWVdYTjJQS1d4YzR3VF9Ja1B0MHRNOG5ob1oxblNTVHR2UQ",
-        "title": "A college Republican group tapped an LDS BYU student for political director. The backlash was swift.",
-        "source": "The Salt Lake Tribune",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOTdHYWR0VzRLTDMxZWs0YUlsU3VBMGZMdHA2eXZ6UEU4VGh1T3JjNG1ldnk5SGFUTzdrNEZmaktKMTlNWmhRakJPLWFia2VBOVlvSU5FNDA1SlRaX3B3T3gzWVdYTjJQS1d4YzR3VF9Ja1B0MHRNOG5ob1oxblNTVHR2UQ?oc=5",
-        "timestamp": 1774612989
       },
       {
         "id": "CBMijwFBVV95cUxOdzNZWkdhcFNWYUdQUTZzeWpzMzFsVzdtem9sQVJtbFVCelBMclJoSk9JU21PdE0yQlRLVUN2eC1TUVA3STBnRUNQYmVUa2NOZl9PQy1UQTY3RVVJRVdhUmFsVUdnRm9uMVdMM3lJOElRb0V2R1UwSGUwU01zQ3VtcjItYjBEek4yaXZKZkFRNA",
@@ -527,13 +534,6 @@
         "source": "heavy.com",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd0ZzVmhFT0lCRHYzWXEyTlo1Tm9PVGxfMl9ZbmpGcmFuOUNkeEM0VElRNjhoWDNINE4wU3otRjBaZm4yT0tRbDYyWGl6ejRXbFJEaVpvTGZXR1MzeVhWSE5Qd1VlWVNfRFJrY1c4ZHJRZjFjVDFoYU9QUnRmbUs4Qk1TaHlwdFZV?oc=5",
         "timestamp": 1774607430
-      },
-      {
-        "id": "CBMiU0FVX3lxTE9wOWdLa0dOazlmWjFnVUNPNlRjalVNVU13ZVBPNHQ4RzFoSElPbkY2NGNqTjBoVmtPNl9hZnB0ZGVjUE1RSE1OQy05LWFUcjl6bWV3",
-        "title": "China Association for Science and Technology Strikes Back Forcefully: NeurIPS Prestige Drops to Zero Overnight - Is the Top AI Conference Dead?",
-        "source": "36氪",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wOWdLa0dOazlmWjFnVUNPNlRjalVNVU13ZVBPNHQ4RzFoSElPbkY2NGNqTjBoVmtPNl9hZnB0ZGVjUE1RSE1OQy05LWFUcjl6bWV3?oc=5",
-        "timestamp": 1774605299
       }
     ],
     "instagram": [
@@ -559,18 +559,11 @@
         "timestamp": 1774677060
       },
       {
-        "id": "CBMihwFBVV95cUxQTzJTVUs4TTdEWklHNU8wMjJuWVViTjd3ZDB3aXRpZlpPYUhiQ0ZMWm1mbEQzUXVVeWJLbV9nV19KbmdiOWZSUGs1a18tUEQzS2VWdjVubEMxZHZBcjRGV3pxbjBzUHpwQ1NOMWl3UDJBZ3R4Y1RaWTVSYl8yMkg3NHRMcTA0UVE",
-        "title": "Instagram Edits Dhurandhar font delivers powerful boost for Reels creators",
-        "source": "Pune Mirror",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTzJTVUs4TTdEWklHNU8wMjJuWVViTjd3ZDB3aXRpZlpPYUhiQ0ZMWm1mbEQzUXVVeWJLbV9nV19KbmdiOWZSUGs1a18tUEQzS2VWdjVubEMxZHZBcjRGV3pxbjBzUHpwQ1NOMWl3UDJBZ3R4Y1RaWTVSYl8yMkg3NHRMcTA0UVE?oc=5",
-        "timestamp": 1774676626
-      },
-      {
         "id": "CBMizwFBVV95cUxNcl9yUHo1S2V6UjVBdmtxX0hMTlU3NDhiWXB4N1g2OVlITG9NNEYwbjZQZ0FXaTU0X3NtTjlHdDhNWVE3aV9nb09VeDR1ZmZFN3ZVYkMxU2dSSjRiUGg1VzEzSFdTSFJTc1dReGFBb0pMTlViRUJuYmpfYVFiTXhlZ0pLR1JBbk9vUGhpVldmWHQ5ZU1QQnZMbllhOG9kMjZzcUVZNUNSUnNub3Zpb0lGYl9jbTl0elRsY3pUVlF6ZDdYRzZUZTN1YTZxMTYtWU0",
         "title": "‘Dhurandhar’ Craze Sweeps Instagram. How to Add the Dhurandhar Look to Your Posts & Reels",
         "source": "indiaherald.com",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcl9yUHo1S2V6UjVBdmtxX0hMTlU3NDhiWXB4N1g2OVlITG9NNEYwbjZQZ0FXaTU0X3NtTjlHdDhNWVE3aV9nb09VeDR1ZmZFN3ZVYkMxU2dSSjRiUGg1VzEzSFdTSFJTc1dReGFBb0pMTlViRUJuYmpfYVFiTXhlZ0pLR1JBbk9vUGhpVldmWHQ5ZU1QQnZMbllhOG9kMjZzcUVZNUNSUnNub3Zpb0lGYl9jbTl0elRsY3pUVlF6ZDdYRzZUZTN1YTZxMTYtWU0?oc=5",
-        "timestamp": 1774671088
+        "timestamp": 1774671126
       },
       {
         "id": "CBMiVkFVX3lxTE5QR2p0OHp5MDRWUFBwVzhJaGlTQ2YtYzA0Y3ZZVVNVYXpEX0RBdDJZTDVTRVE2S3F5T096TzMtbFM4b0l5cGJyeHFMTmc3MlZXeEVraXhR",
@@ -585,6 +578,13 @@
         "source": "thetraveler.org",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa0k0SW1yWUxzTTBQQ0dHYTU3WkFvS3o5VWc4d19iUkR3SFNSRHBLd09JZGdQNDRjSDV6eWJTTExVSTlnTWZCRHp2VVRKRHZ4MjItd01OcVlPbzFQcktCQUtLVlNCZTlzVTYteUZ5ZlFsV1g4MGsxVmFRZUJrNTZYZWlVY3F0VjJMVkpHYXE5WjlSeUwxeERLcGFzNUF1Zw?oc=5",
         "timestamp": 1774662741
+      },
+      {
+        "id": "CBMiYkFVX3lxTE1FaFl3RVdJR1FFemFrX0xnNzM2WUQzS3l3TDg1THdncFRPNnFEYTVrcUlmZjVyR08ySlJlbUdhWFNzY1lENWZTZmppZ2NvdTJpVEFQOUdfMHBvQ09UVXB5ZkVB",
+        "title": "TSR Staff China! @China_lovelace ___________________________ Roommates, TikToker #BrenayKennard has been ordered to pay up while she fights a major lawsuit tied to the breakup of #AkiraMontague, and according to @wral, a judge in Durham, N.",
+        "source": "instagram.com",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FaFl3RVdJR1FFemFrX0xnNzM2WUQzS3l3TDg1THdncFRPNnFEYTVrcUlmZjVyR08ySlJlbUdhWFNzY1lENWZTZmppZ2NvdTJpVEFQOUdfMHBvQ09UVXB5ZkVB?oc=5",
+        "timestamp": 1774658578
       },
       {
         "id": "CBMivAFBVV95cUxPR2RJbHZtZVRZVDRhdWtYWlB0cWtCeGFvclQ5UVRGMVEzQTFVaWFJam1Hbmp4YXJfRnZCWERqU05ENHVkd1BOTWVicFBsczQtazVIY2staU1BR2ZWRHQtS3VURkx5eU1Ja2ZqMi1qVE0wMUxnU1NXdkFvTFF4TjVhclB3TllPYmk1dGZzU0NjQ1Zid3BseDNFTGNsbEE4TnVkeGg0M01uOHhvY1NibWM4OGpiSnp2NHp4ZkZESQ",
@@ -603,14 +603,14 @@
       {
         "id": "CBMiyAFBVV95cUxObU5jNldVX0FVdlFQVDJkM1MyLXhDMVl4VE9jc1lIcHB4X3NTRWdnOFBUVkZ6NVo3dEJnaVVCN1VBNXhEZGU0d0JLM3Fmd1c1Vm94MDVkTmRsVm1TSkNkUlpRc2VESE9sT1ZrbnFXMTJ1Uzl2N1drblhKeXlKYUtVTnRwQlpFWHRjM0xJWTZTSE5vbUpaazBjWG5TN21GXzZwTzRjNkpfWWoxTjFGcl9Ubm9QVlJFTnNZb0wzSWFaNGRIUmI1VzNXag",
         "title": "Taylor Swift's SEO Mastery: Why North American Creators Are Crushing It Like Her in 2026",
-        "source": "ad-hoc-news.de",
+        "source": "AD HOC NEWS",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObU5jNldVX0FVdlFQVDJkM1MyLXhDMVl4VE9jc1lIcHB4X3NTRWdnOFBUVkZ6NVo3dEJnaVVCN1VBNXhEZGU0d0JLM3Fmd1c1Vm94MDVkTmRsVm1TSkNkUlpRc2VESE9sT1ZrbnFXMTJ1Uzl2N1drblhKeXlKYUtVTnRwQlpFWHRjM0xJWTZTSE5vbUpaazBjWG5TN21GXzZwTzRjNkpfWWoxTjFGcl9Ubm9QVlJFTnNZb0wzSWFaNGRIUmI1VzNXag?oc=5",
         "timestamp": 1774637077
       },
       {
         "id": "CBMiygFBVV95cUxPYTIzY3FqWjlzTjRPUFZKdnNsVy1tX1BlTUhsS0NQQlhDX0wwQWIyU0dSSHpleENhZ2pBMWxTNnJmUVozSmRNTTVHQVhVRFFfSUFlVW9sNVI3cU9IWEkxWlhUTnlRdUZxMTA0SHZUS0wtdmcyd3JFdVpFWkNOUmk4NXdkVGpnUVZsNC1yTHdQZXR6RW9uWldKeDVIX1dWWWJVNzZQTXhpZFJIY1M4STRKZ0Jra0ppLVVIbVJnX2ZvcWdrdWxTZ2lpT25n",
         "title": "Big Ears Festival 2026: Knoxville's Experimental Music Hub Happening Now for North American Fans",
-        "source": "ad-hoc-news.de",
+        "source": "AD HOC NEWS",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYTIzY3FqWjlzTjRPUFZKdnNsVy1tX1BlTUhsS0NQQlhDX0wwQWIyU0dSSHpleENhZ2pBMWxTNnJmUVozSmRNTTVHQVhVRFFfSUFlVW9sNVI3cU9IWEkxWlhUTnlRdUZxMTA0SHZUS0wtdmcyd3JFdVpFWkNOUmk4NXdkVGpnUVZsNC1yTHdQZXR6RW9uWldKeDVIX1dWWWJVNzZQTXhpZFJIY1M4STRKZ0Jra0ppLVVIbVJnX2ZvcWdrdWxTZ2lpT25n?oc=5",
         "timestamp": 1774631122
       },
@@ -631,7 +631,7 @@
       {
         "id": "CBMivAJBVV95cUxOTjVSV1BLanRoTm9VR2JaRTQwaFVkUThwMXZBZUVzYk9PZ21rbUc5NXhXQ183MTJ3bk0zOWtaU3hlb0RUeDNCZVJwbTlXRnRFc3NBNGJtT2w0VmtELUFUdlJnOVhZcUtCdThZS2hIZzdESVpnZUlGdVV5N05EMVRlZ1lYVFNDZ05tZjZhVXlLRmR2SDJJYnhIV1ZObTNoR3hBUkFyLTlQbkZBTDJiV25jNUY3NzhYOGphM1MwcF9HZTJQMUpDaC1RSXEwc3U1YmNOT1BwQXpiWTBpOVlYVS00OFdKRngxamZPVHI5bUxjaGtiRE44U3RtSjZCVmQ2U0lFVnpRUC00NVhQS1VaUjYwUGdsN0JheFhaUGV0U3BueGhJdm5pT18wME85NnNld2hFb1hvQlEwdU9lTkR20gG8AkFVX3lxTE5ONVJXUEtqdGhOb1VHYlpFNDBoVWRROHAxdkFlRXNiT09nbWttRzk1eFdDXzcxMnduTTM5a1pTeGVvRFR4M0JlUnBtOVdGdEVzc0E0Ym1PbDRWa0QtQVR2Umc5WFlxS0J1OFlLaEhnN0RJWmdlSUZ1VXk3TkQxVGVnWVhUU0NnTm1mNmFVeUtGZHZIMklieEhXVk5tM2hHeEFSQXItOVBuRkFMMmJXbmM1Rjc3OFg4amEzUzBwX0dlMlAxSkNoLVFJcTBzdTViY05PUHBBemJZMGk5WVhVLTQ4V0pGeDFqZk9UcjltTGNoa2JETjhTdG1KNkJWZDZTSUVWelFQLTQ1WFBLVVpSNjBQZ2w3QmF4WFpQZXRTcG54aEl2bmlPXzAwTzk2c2V3aEVvWG9CUTB1T2VORHY",
         "title": "Instagram launches Dhurandhar font feature for reels editing, making cinematic content creation easier than e",
-        "source": "india.com",
+        "source": "India.Com",
         "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOTjVSV1BLanRoTm9VR2JaRTQwaFVkUThwMXZBZUVzYk9PZ21rbUc5NXhXQ183MTJ3bk0zOWtaU3hlb0RUeDNCZVJwbTlXRnRFc3NBNGJtT2w0VmtELUFUdlJnOVhZcUtCdThZS2hIZzdESVpnZUlGdVV5N05EMVRlZ1lYVFNDZ05tZjZhVXlLRmR2SDJJYnhIV1ZObTNoR3hBUkFyLTlQbkZBTDJiV25jNUY3NzhYOGphM1MwcF9HZTJQMUpDaC1RSXEwc3U1YmNOT1BwQXpiWTBpOVlYVS00OFdKRngxamZPVHI5bUxjaGtiRE44U3RtSjZCVmQ2U0lFVnpRUC00NVhQS1VaUjYwUGdsN0JheFhaUGV0U3BueGhJdm5pT18wME85NnNld2hFb1hvQlEwdU9lTkR20gG8AkFVX3lxTE5ONVJXUEtqdGhOb1VHYlpFNDBoVWRROHAxdkFlRXNiT09nbWttRzk1eFdDXzcxMnduTTM5a1pTeGVvRFR4M0JlUnBtOVdGdEVzc0E0Ym1PbDRWa0QtQVR2Umc5WFlxS0J1OFlLaEhnN0RJWmdlSUZ1VXk3TkQxVGVnWVhUU0NnTm1mNmFVeUtGZHZIMklieEhXVk5tM2hHeEFSQXItOVBuRkFMMmJXbmM1Rjc3OFg4amEzUzBwX0dlMlAxSkNoLVFJcTBzdTViY05PUHBBemJZMGk5WVhVLTQ4V0pGeDFqZk9UcjltTGNoa2JETjhTdG1KNkJWZDZTSUVWelFQLTQ1WFBLVVpSNjBQZ2w3QmF4WFpQZXRTcG54aEl2bmlPXzAwTzk2c2V3aEVvWG9CUTB1T2VORHY?oc=5",
         "timestamp": 1774608339
       },
@@ -652,6 +652,13 @@
         "timestamp": 1774676758
       },
       {
+        "id": "CBMivgFBVV95cUxOSWRibmloTE1rdGhZU0l1dWtWbnVrRXJiSFE0NkNiNk51NTI1al9zVmhraGExMUJkU2ZUMHR1MEtFVTdTdi1IOXRhMncya3F4RnExUGloUm5FTVhJOFNlR3YwaWRNS1VIMnhNeU9JbUdZemtQR0RMQ0pGc05BYzd4a2JRSWFOYzRPQnpRQkhWZnJBWlpwelUzNmppZU5HdWYwd1UtTHNwcTloT0Y1WS1kTXVhTDdQZkRYbGQyQWtn",
+        "title": "Billie Eilish Drops 'Between Us' Music Video – The 2026 Glow-Up We Didn't See Coming",
+        "source": "AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSWRibmloTE1rdGhZU0l1dWtWbnVrRXJiSFE0NkNiNk51NTI1al9zVmhraGExMUJkU2ZUMHR1MEtFVTdTdi1IOXRhMncya3F4RnExUGloUm5FTVhJOFNlR3YwaWRNS1VIMnhNeU9JbUdZemtQR0RMQ0pGc05BYzd4a2JRSWFOYzRPQnpRQkhWZnJBWlpwelUzNmppZU5HdWYwd1UtTHNwcTloT0Y1WS1kTXVhTDdQZkRYbGQyQWtn?oc=5",
+        "timestamp": 1774676197
+      },
+      {
         "id": "CBMiqgJBVV95cUxNOS16Qm9WMGZ5dDlCQXh5QTZUNFUxMzQzMGwzSjZpYmdhZXlSTGpHcHBlbXZBVTE3M0xid2VxTjhCUnYtTGV1bXU0WEcyaDhXeG5UZEVkbHlKemsxamRhclkweWd1VnZlekVNZTFCaUFyNF9SMzh0UlprZnZ3NWF2Z1JoOWY0YU5kZ0JKUHdRbVVndld1amo1YURUcFJOOEdaTlEyS21nczRhdDlLd3pjdy1uZmRoRHNOY3RDVG5vMHVyWkhLZHVuMUtzRXE0TUIxNGhwbHJyS01CdjVfcWkxTThCMzJjbWJZLXpiWFRzenpiM24yRWtHbnRlOVlOSzlseXd2VmNES184blA4cWQwVjlDMDF2bGlFeTcyX0R6UnZJYlBWSU9MNUtB",
         "title": "Who is Shahida Ansari? ‘My life, my rules’ viral Mumbai content creator who cooked with Farah Khan, lives with 10 family members in one-room home",
         "source": "MSN",
@@ -666,9 +673,16 @@
         "timestamp": 1774675800
       },
       {
+        "id": "CBMivwFBVV95cUxPSjI3THdUZHdyRFBhUzlZanRheF92UFRkZGk2MkxUYmNGN1dlUW1MN1pUSjB1eXJ5SXBTTFNoYzV6eDU1bjdFZ0VteXc2ZEpXZUZmbUZyRmJTLWxRc0lYV29wbkh3UDhoUXlPeFZXQUNJSE0yLXdTLWlfWWpwYVJOSTBCX3ZaR3hQaEJBTFFteGxHOW01ZGVwbjJxUUpjYXVDMmMwVktiTVYyV1Q4NnZaNzFNQVJvMThrWTZSQlhCUQ",
+        "title": "Billie Eilish Drops 'Between Us' Video from 2026 Album – The Billie Moment North America Can't Sto",
+        "source": "AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjI3THdUZHdyRFBhUzlZanRheF92UFRkZGk2MkxUYmNGN1dlUW1MN1pUSjB1eXJ5SXBTTFNoYzV6eDU1bjdFZ0VteXc2ZEpXZUZmbUZyRmJTLWxRc0lYV29wbkh3UDhoUXlPeFZXQUNJSE0yLXdTLWlfWWpwYVJOSTBCX3ZaR3hQaEJBTFFteGxHOW01ZGVwbjJxUUpjYXVDMmMwVktiTVYyV1Q4NnZaNzFNQVJvMThrWTZSQlhCUQ?oc=5",
+        "timestamp": 1774673921
+      },
+      {
         "id": "CBMi5wFBVV95cUxPckxkaG5JTW9VbVBLbjc3NkI4VFllczc1aHRNQ2ZTd0RFblY3UVVtV09EeFVCTkZJR3p3ajJfdzFjZ0tQZTBfRFZoOGU2THhCR21yZ1FiM1BOZm5wXy1Rd0NwSVBxUzJvNE9PeDNPd1FKbGFZeEwtUXVvX1V3dlltd1BmaXg0aFBrZUdjOEpNX05IQTVrZE9GNlBnd3lGcGRJUUVhaU9Iejd3YXpDNGhEOWRheUI2aHJtcGtHZ2N3dWJvLUNCLVZaNXRURVpFb1NqQXRtVFNnS2RiMTRaeVh0TUM0VlJtOUU",
         "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns",
-        "source": "scrippsnews.com",
+        "source": "Scripps News",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPckxkaG5JTW9VbVBLbjc3NkI4VFllczc1aHRNQ2ZTd0RFblY3UVVtV09EeFVCTkZJR3p3ajJfdzFjZ0tQZTBfRFZoOGU2THhCR21yZ1FiM1BOZm5wXy1Rd0NwSVBxUzJvNE9PeDNPd1FKbGFZeEwtUXVvX1V3dlltd1BmaXg0aFBrZUdjOEpNX05IQTVrZE9GNlBnd3lGcGRJUUVhaU9Iejd3YXpDNGhEOWRheUI2aHJtcGtHZ2N3dWJvLUNCLVZaNXRURVpFb1NqQXRtVFNnS2RiMTRaeVh0TUM0VlJtOUU?oc=5",
         "timestamp": 1774653557
       },
@@ -694,6 +708,20 @@
         "timestamp": 1774640278
       },
       {
+        "id": "CBMiswFBVV95cUxQWFNkNzVnT0xhZXlVRDZXMmhNcHpJOWNBZUlaUnZyVlhJZ2tHSU5LTXM2R25iQWhXbU91d1Nwc1h1ZkdCa2Z5ZW13STdvMGk3aGdFUFdWNi1IQWhSWVNSY1htNzRnUzMwTVpOeXhkOTVwUnRwS2dubHZ5YXpPZWxtS2UyMW1pbkVKUTRpZ3NmWnJLVWV0YXkwOHJ5d2lWOF9ZY1E1UWRKVDl1MjRKX3dSUlZ5cw",
+        "title": "Man Grows Plant Using Seeds from McDonald’s Cheeseburger Tomato",
+        "source": "People.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWFNkNzVnT0xhZXlVRDZXMmhNcHpJOWNBZUlaUnZyVlhJZ2tHSU5LTXM2R25iQWhXbU91d1Nwc1h1ZkdCa2Z5ZW13STdvMGk3aGdFUFdWNi1IQWhSWVNSY1htNzRnUzMwTVpOeXhkOTVwUnRwS2dubHZ5YXpPZWxtS2UyMW1pbkVKUTRpZ3NmWnJLVWV0YXkwOHJ5d2lWOF9ZY1E1UWRKVDl1MjRKX3dSUlZ5cw?oc=5",
+        "timestamp": 1774640039
+      },
+      {
+        "id": "CBMikgJBVV95cUxQYUo0cXp1Y1pWZjJIWWNvbFJONU4yX1dTMDBvQVN4S2JRMVgxRFpkc3VQSENpbUp5emlvdWRsN0hIRndURHRZbEZwdzNPUmxJTEEtLUt2RnJtVXF5aHFnVmxKV1hEaWFrbG1hOEJjcVVNQm5Qa19GRmgtcVdvbVk2OFlqUUM1ZVVEeHhmS3JUaWViYlV6VWwxQXBjTlJFeHloZFRBX0g3ZE4wZWlhdVY5clN2eEpnTHBCUkFNa2V1YWMybGpvcnFJcnF6cWtFRU10SFdrSmxFWDg3UzR6OHczS3VqZDAwNUJ1am1Tb1RYa2lqNjV6TmMzS25kSmJra1Q0WldpcEx4cE9weGhFbGtNTFVB",
+        "title": "That viral video of 7 dogs ‘escaping' together? The real explanation is way more ordinary than you think",
+        "source": "MSN",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQYUo0cXp1Y1pWZjJIWWNvbFJONU4yX1dTMDBvQVN4S2JRMVgxRFpkc3VQSENpbUp5emlvdWRsN0hIRndURHRZbEZwdzNPUmxJTEEtLUt2RnJtVXF5aHFnVmxKV1hEaWFrbG1hOEJjcVVNQm5Qa19GRmgtcVdvbVk2OFlqUUM1ZVVEeHhmS3JUaWViYlV6VWwxQXBjTlJFeHloZFRBX0g3ZE4wZWlhdVY5clN2eEpnTHBCUkFNa2V1YWMybGpvcnFJcnF6cWtFRU10SFdrSmxFWDg3UzR6OHczS3VqZDAwNUJ1am1Tb1RYa2lqNjV6TmMzS25kSmJra1Q0WldpcEx4cE9weGhFbGtNTFVB?oc=5",
+        "timestamp": 1774639523
+      },
+      {
         "id": "CBMifkFVX3lxTFBGX1IwTmIyU0FTSmhZR2lONGQxSVJOTnROSE9reUdheTl6MVRLYm9UV2lUOFNSQ3NGZ2RHSkQtczdxS0wydXRDV0VhemJZV0tjdTBJRUJqN3g2QktJQWlXM1k3YjF1VEI1T2NrdjB0UlkzcWNCNF9Od01JcTVVQQ",
         "title": "Clavicular, Viral Streamer, Arrested on Battery Charge as FWC Probes Separate Alligator-Shooting Video",
         "source": "GearJunkie",
@@ -708,39 +736,11 @@
         "timestamp": 1774637019
       },
       {
-        "id": "CBMisgFBVV95cUxNemZFalRkUjd0WE9VLU9idHp2Mm4zX1h0c0l6VmpGQjRLd2dCQnNRdE8zR09wOFVsZEdDa0dad3EyUHVtQi1NRUktbU9PWVBZRmdvOXhXRDNpZ1o1VFRuMnFudVhYVU1pTGxOYlRjU3FLeFdxYWdyaVIwaER1VnhrSzRVc1M1X0RIR204VDc3RFd4SFlJdUJOeVRacWJlY2Rvb1NUbW1zTW8tLWNOX2xlenV3",
-        "title": "How Zendaya played us all with ‘The Drama,’ Tom Holland ‘secret wedding’ | Viral Press Tours",
-        "source": "Page Six",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemZFalRkUjd0WE9VLU9idHp2Mm4zX1h0c0l6VmpGQjRLd2dCQnNRdE8zR09wOFVsZEdDa0dad3EyUHVtQi1NRUktbU9PWVBZRmdvOXhXRDNpZ1o1VFRuMnFudVhYVU1pTGxOYlRjU3FLeFdxYWdyaVIwaER1VnhrSzRVc1M1X0RIR204VDc3RFd4SFlJdUJOeVRacWJlY2Rvb1NUbW1zTW8tLWNOX2xlenV3?oc=5",
-        "timestamp": 1774634347
-      },
-      {
-        "id": "CBMijwJBVV95cUxQMVdPNFRpeVBzRDNsYklaaXZuV1JseWtBNzlnaEtTTXRtWWVxSnhKZWIxZG9FT25YWU5Ob2ZNQTdMeUxoVDl3RTdlSkgwSkZZTVRKeHVGLUdnSkNFcm12Mm1jLWczaEJHOWZOOWtzSUllMHpYV0NyWUhZWnE0X0VBSlhhSkdWYWY5UDNiMFA2QlRkbC1zSUhHWlNYM1BUelJuTE1TS3BLaXVhZlpqWExucnVqUjVuQWZ5Wkk2TktkYWJyN2dhcmp2aVNobmZETVJYbUVaNzQtS2hIRTBmTTFjWmhyMlhfemJBelRjT1N5X0wySlQwNWI2dkhhYTQ0dHpGazhnb0NRSEE1RVpyVk5V",
-        "title": "Spring breaker seen twerking on top of Jeep in viral video dies after crash",
-        "source": "WOAI",
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMVdPNFRpeVBzRDNsYklaaXZuV1JseWtBNzlnaEtTTXRtWWVxSnhKZWIxZG9FT25YWU5Ob2ZNQTdMeUxoVDl3RTdlSkgwSkZZTVRKeHVGLUdnSkNFcm12Mm1jLWczaEJHOWZOOWtzSUllMHpYV0NyWUhZWnE0X0VBSlhhSkdWYWY5UDNiMFA2QlRkbC1zSUhHWlNYM1BUelJuTE1TS3BLaXVhZlpqWExucnVqUjVuQWZ5Wkk2TktkYWJyN2dhcmp2aVNobmZETVJYbUVaNzQtS2hIRTBmTTFjWmhyMlhfemJBelRjT1N5X0wySlQwNWI2dkhhYTQ0dHpGazhnb0NRSEE1RVpyVk5V?oc=5",
-        "timestamp": 1774633861
-      },
-      {
-        "id": "CBMixwFBVV95cUxQRWZNZ2pEM2xNdTdQbTF5ak11V2hWVlFRUnFKZXp5YWl0QngzOHFodm4zalIxUXhkUjMzYVlOMnpmYnVXeG1JTHNzWVYwcVNxMXF1LVNzRGlmVDdkdUMta3ZIbXdWTm1JS3JJRGRjMlNDUlpaNGppaG9UeHJjSDhrMVM0R2pxWnlOZHRNc3Nlel9yX2JDNll3OWM2VFBhN0JVZFZIallXNGZjR1RzN25MMzBMMldnc0t0Uno1dnoxX3JpV2h2dmxZ",
-        "title": "The Shocking Reason Gen Z Is Ditching TikTok for YouTube – And Why It's Changing Music Forever",
-        "source": "ad-hoc-news.de",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRWZNZ2pEM2xNdTdQbTF5ak11V2hWVlFRUnFKZXp5YWl0QngzOHFodm4zalIxUXhkUjMzYVlOMnpmYnVXeG1JTHNzWVYwcVNxMXF1LVNzRGlmVDdkdUMta3ZIbXdWTm1JS3JJRGRjMlNDUlpaNGppaG9UeHJjSDhrMVM0R2pxWnlOZHRNc3Nlel9yX2JDNll3OWM2VFBhN0JVZFZIallXNGZjR1RzN25MMzBMMldnc0t0Uno1dnoxX3JpV2h2dmxZ?oc=5",
-        "timestamp": 1774620006
-      },
-      {
         "id": "CBMihgFBVV95cUxOZ1BHRmZ5YlFkSWppWjBvVmtBMlRUQl80UzJ3YXJEZ3dRVjVoa2Q2YmxfZ1J0R1FidzBhcU11OXpERi1XcDdxOUlkUl9vRnpSc2pqTjRFVy1NRXBPVm9YcEh0eS1VN1dMWVZITFJVb2FPRHRFRlA2VlJDVHhGZ18zemgwUzNqUQ",
         "title": "How Clipping Viral Social Videos Has Become Big Business",
-        "source": "thewrap.com",
+        "source": "TheWrap",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ1BHRmZ5YlFkSWppWjBvVmtBMlRUQl80UzJ3YXJEZ3dRVjVoa2Q2YmxfZ1J0R1FidzBhcU11OXpERi1XcDdxOUlkUl9vRnpSc2pqTjRFVy1NRXBPVm9YcEh0eS1VN1dMWVZITFJVb2FPRHRFRlA2VlJDVHhGZ18zemgwUzNqUQ?oc=5",
         "timestamp": 1774616400
-      },
-      {
-        "id": "CBMipAJBVV95cUxNNHZ0VkRubFBEWklWTFFYVzR5ZU51VFFXVVc3ZTdWbE5oOHFYMWh3bGJVcXFsMnVkMS1lMXI5OTgyME9tdVlWdnBuTklyV1hTSC1Wbm0yaHVtdHphZ1BBTjVYeE9RZzNFTkxFY1JQRWpCcHlhSzUxYkZkX0RHZ1lZcjlreDZyb0NILVhGME1HWFREVGZEZEtQblJ6TC1PeTVNY2dKZXBtWVBrX0hEWXpHb3pIb1YyNlk0S2FrZFlvTVdXem5LOWtfX0xYWlpMQjM0Z2dnYnktTWdsOFhvaGFqRzJjcjBYcVZtZU9kZTRkQkR3UjMxb1ZIRklYRFJUbVFnWW9oQ210RkxCSzh0NTBUOGlJcmFVSEltVmRqWEJMQWkwRkF2",
-        "title": "‘Dad, how do I?’ Man creates instructional YouTube channel for anyone who needs some meaningful father advice",
-        "source": "News4JAX",
-        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNHZ0VkRubFBEWklWTFFYVzR5ZU51VFFXVVc3ZTdWbE5oOHFYMWh3bGJVcXFsMnVkMS1lMXI5OTgyME9tdVlWdnBuTklyV1hTSC1Wbm0yaHVtdHphZ1BBTjVYeE9RZzNFTkxFY1JQRWpCcHlhSzUxYkZkX0RHZ1lZcjlreDZyb0NILVhGME1HWFREVGZEZEtQblJ6TC1PeTVNY2dKZXBtWVBrX0hEWXpHb3pIb1YyNlk0S2FrZFlvTVdXem5LOWtfX0xYWlpMQjM0Z2dnYnktTWdsOFhvaGFqRzJjcjBYcVZtZU9kZTRkQkR3UjMxb1ZIRklYRFJUbVFnWW9oQ210RkxCSzh0NTBUOGlJcmFVSEltVmRqWEJMQWkwRkF2?oc=5",
-        "timestamp": 1774612837
       },
       {
         "id": "CBMigAFBVV95cUxQc1ZYM2RVSTNha3BGTnBOLWxNLXJ2NDRyZGV5SHlqX2NnbEZsOUNrcU1Sb2pvaFF5aXZJekh4aVUzWXpkWXRTenhrQkNiTUEyOUZWb2tXYU1VNm4tdFZGNklvbzVPcFpCN3VsWEJMSTk4LXM5OHdJRUxuZm9kejNrQg",
@@ -751,13 +751,6 @@
       }
     ],
     "celebrity": [
-      {
-        "id": "CBMi4wFBVV95cUxQLWtKVVJVVE9ER3F5SjZMX0I5S3c4YWJFbFllX1ZyM0trYzZSdHphb1R4am05Z25RT25jaW1UMFBHclZYdWFJYTFlMnN1UE9CcVBGWkQ0Y0RsRldCUHJMM1Z2b3J1Z1lzU3BiUmZMalBCaXBCUEpDQnlHMnFISDZEcFo5allwamJEWkRwb1ZkeUVnTUd0MEVLMTMwbjlmSVpFOGlrdmJKOW5sV0RxMU1EeG4tOUpIYXlGQzNyNks2UU54TkZUMFVrbmt6bVg1U0lGU3ZhMlJ1MFNVNjZQbE5tSzA0bw",
-        "title": "From ‘Real Housewives of Pretoria’ to headlines: Mel Viljoen’s TV journey amid US arrest drama",
-        "source": "IOL",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLWtKVVJVVE9ER3F5SjZMX0I5S3c4YWJFbFllX1ZyM0trYzZSdHphb1R4am05Z25RT25jaW1UMFBHclZYdWFJYTFlMnN1UE9CcVBGWkQ0Y0RsRldCUHJMM1Z2b3J1Z1lzU3BiUmZMalBCaXBCUEpDQnlHMnFISDZEcFo5allwamJEWkRwb1ZkeUVnTUd0MEVLMTMwbjlmSVpFOGlrdmJKOW5sV0RxMU1EeG4tOUpIYXlGQzNyNks2UU54TkZUMFVrbmt6bVg1U0lGU3ZhMlJ1MFNVNjZQbE5tSzA0bw?oc=5",
-        "timestamp": 1774677123
-      },
       {
         "id": "CBMi2gFBVV95cUxPN3dZR3MzSXU5a2FrM3FLSXB4RGFMSjlFYmdVblozQkVwNXZwM1poYmtMZTVnQ0todVJ3aGI3RFlZNlV4U2JfVGFOUlVqdmlIZ2ZrallhYXV4b2VFMTExQ2ZUc3kyLUNJMXY1TWpTLXhUNFZUQUpVekZncXFBaVN3LTdNSmFGbEVWOWRCallFRWR3Q0IwUGhkUWxfUTNFdXo1aVBmZTdLY2hCclljSUNNd1VQeHc4dEFBNXRUQVotSjNvZ0hIdjlIWVkxSmM4cXBOWW5MQ0w2YXVsd9IB2gFBVV95cUxPN3dZR3MzSXU5a2FrM3FLSXB4RGFMSjlFYmdVblozQkVwNXZwM1poYmtMZTVnQ0todVJ3aGI3RFlZNlV4U2JfVGFOUlVqdmlIZ2ZrallhYXV4b2VFMTExQ2ZUc3kyLUNJMXY1TWpTLXhUNFZUQUpVekZncXFBaVN3LTdNSmFGbEVWOWRCallFRWR3Q0IwUGhkUWxfUTNFdXo1aVBmZTdLY2hCclljSUNNd1VQeHc4dEFBNXRUQVotSjNvZ0hIdjlIWVkxSmM4cXBOWW5MQ0w2YXVsdw",
         "title": "Zendaya and Robert Pattinson nail monochrome at 'The Drama' premiere -",
@@ -782,7 +775,7 @@
       {
         "id": "CBMiuwFBVV95cUxPRU1QWVJtNXRWNWY2cjZCbnpqVFdEYl8wSWdJUzRkZVNHdkxmZlg5aFZBRENVbDlEbTFwUmhHdHdWZTRCbGZSNkkxX0poaGNYQUwzNnhMM1N6ZWYtU0tLcVdnb2ZBNk85aFVIZmdxNHFEcU9iZHBLeVIwZnZSZWxGTEZWMlFydzdYLUxnWVJyTkxnUFhoR09JNFhkZlFadVl0VjA3MW5hQzdyZlZfTTIyU2djdWxpNHoyN3RR",
         "title": "‘The Drama’ director justified dating teen in resurfaced essay: ‘Can’t choose what the heart wants’",
-        "source": "Page Six",
+        "source": "pagesix.com",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRU1QWVJtNXRWNWY2cjZCbnpqVFdEYl8wSWdJUzRkZVNHdkxmZlg5aFZBRENVbDlEbTFwUmhHdHdWZTRCbGZSNkkxX0poaGNYQUwzNnhMM1N6ZWYtU0tLcVdnb2ZBNk85aFVIZmdxNHFEcU9iZHBLeVIwZnZSZWxGTEZWMlFydzdYLUxnWVJyTkxnUFhoR09JNFhkZlFadVl0VjA3MW5hQzdyZlZfTTIyU2djdWxpNHoyN3RR?oc=5",
         "timestamp": 1774641780
       },
@@ -796,7 +789,7 @@
       {
         "id": "CBMiywFBVV95cUxNVTdNNjJVSUd5SmpsWWxmR3NSelBHcHFKVWpSNTlSUnE4U09JRGstQXV3d2FRXzRCOUpGRnI4eC1fd2Fid3BjbE9QSW1NX1ZPRHFfbVNjeTVHTGJfOFRua3F5TjdQRjVSWnhyLUttcWZFQkhNWmM2SXlFalQ3dTFhbEhOOS14eDEzN0xYWWFRMms2Uzd3OU1VZi1hTTZBUUxOcFVkZ1o3ZDRRVU15VW1ndjFSMk9hcDhaZk5Ya1dpNHpmWGYzOTNNUEhUOA",
         "title": "Gen Z Ditches TV for TikTok: Pew's Shocking Report on How 18-29s Get News in 2026",
-        "source": "ad-hoc-news.de",
+        "source": "AD HOC NEWS",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVTdNNjJVSUd5SmpsWWxmR3NSelBHcHFKVWpSNTlSUnE4U09JRGstQXV3d2FRXzRCOUpGRnI4eC1fd2Fid3BjbE9QSW1NX1ZPRHFfbVNjeTVHTGJfOFRua3F5TjdQRjVSWnhyLUttcWZFQkhNWmM2SXlFalQ3dTFhbEhOOS14eDEzN0xYWWFRMms2Uzd3OU1VZi1hTTZBUUxOcFVkZ1o3ZDRRVU15VW1ndjFSMk9hcDhaZk5Ya1dpNHpmWGYzOTNNUEhUOA?oc=5",
         "timestamp": 1774637699
       },
@@ -810,9 +803,16 @@
       {
         "id": "CBMiywFBVV95cUxPQlJGSHZhRFBWbnpUM2QyVGFTUlNiZnJRNmVjLTlLZDVLM2FhYi1EVGVwNjVBWWxiRVU4VTlvcmJCOC12ZzliVWMxWDZMNEppbmxMN3ZBWTMtdDI3VXlfcHZtUWVjTGZiYzlEM0N1WFdtdjd1X0VZSi1lYkU4TlBoaFpScUNxYjJJS0FucDZxRm05d1Z6bm1PVXZxQmRDYkZ3UkR1ckI2cFVmbVpoNnVpalVtUzZ4bVczN3BXUktxc2Y2WDZqMFV0OXNYWQ",
         "title": "Joy-Anna Duggar breaks silence on brother Joseph’s arrest — as Jeremiah ignores scandal to celebrate anniversary",
-        "source": "Page Six",
+        "source": "pagesix.com",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQlJGSHZhRFBWbnpUM2QyVGFTUlNiZnJRNmVjLTlLZDVLM2FhYi1EVGVwNjVBWWxiRVU4VTlvcmJCOC12ZzliVWMxWDZMNEppbmxMN3ZBWTMtdDI3VXlfcHZtUWVjTGZiYzlEM0N1WFdtdjd1X0VZSi1lYkU4TlBoaFpScUNxYjJJS0FucDZxRm05d1Z6bm1PVXZxQmRDYkZ3UkR1ckI2cFVmbVpoNnVpalVtUzZ4bVczN3BXUktxc2Y2WDZqMFV0OXNYWQ?oc=5",
         "timestamp": 1774632540
+      },
+      {
+        "id": "CBMiwgFBVV95cUxPdndtNHpPTkFveXptZmhMVEptYjVhbUVZV1dkSXVJdlJaSUx1SWxRbjJvRkNnU2lXVHBlV1RkZ0Ntamxmcl9OT013UHZWRzZzWk9MaG16eUMwN3RrLUxmR1BmaWVSMk91UjlkRjF2TXd5QnZROTZrN2xfdERhdkhpSVVCeXhoSkZXdGJzaXdnVXBpeVJyd2xYd3dmSzdfcFMySWgxTWpYQWRLVEkzb3NobDdKTnRiSm5DVGpQUWVuTjc3UQ",
+        "title": "Pawn Stars’ Rick Harrison Says He Plans to Work Things Out With Son Corey Amid Medical Bills Drama",
+        "source": "globemagazine.com",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdndtNHpPTkFveXptZmhMVEptYjVhbUVZV1dkSXVJdlJaSUx1SWxRbjJvRkNnU2lXVHBlV1RkZ0Ntamxmcl9OT013UHZWRzZzWk9MaG16eUMwN3RrLUxmR1BmaWVSMk91UjlkRjF2TXd5QnZROTZrN2xfdERhdkhpSVVCeXhoSkZXdGJzaXdnVXBpeVJyd2xYd3dmSzdfcFMySWgxTWpYQWRLVEkzb3NobDdKTnRiSm5DVGpQUWVuTjc3UQ?oc=5",
+        "timestamp": 1774631077
       },
       {
         "id": "CBMijwFBVV95cUxPbTk2S0V4c1d4c2NrV1ZvUTBWVnNPa1ltU3BZbkNEN2tZdmMzR05DZE9YS2t6OGF3ajdpVEh4LTJJbVNWWDBjbFhmaEQyWU1Fb2pEdFRMVkV0VGJDcXUyRWc4VndLLVRfbktNdkJIMkZJQkhvTzlsQlVFX0VuejRqV1BPdlNsS3IxOTZ6YWZPOA",
@@ -829,18 +829,18 @@
         "timestamp": 1774623168
       },
       {
-        "id": "CBMipAFBVV95cUxObGVlb3dSVGVsOFFyQktucjhrTmlnc09nQlA2WFA5Qy1tdE1Iay0yYnExOXFBOHZfbjBNU1ppd1kzbm1kUldIMzZZV1oxd1gwMWNsZFVfaUhZaEFBZ0IzUEEwa25KY2FkNWhIb1F0UmxLM29IU0JTTWRDcG9nc0syT1ViM0FEYnJycTF3UFA5LWF4RVI4M0ZZeTUtWnAxN2t3ZVZxRA",
-        "title": "The latest Chappell Roan scandal may have been fueled by bot-driven attacks",
-        "source": "Yahoo",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObGVlb3dSVGVsOFFyQktucjhrTmlnc09nQlA2WFA5Qy1tdE1Iay0yYnExOXFBOHZfbjBNU1ppd1kzbm1kUldIMzZZV1oxd1gwMWNsZFVfaUhZaEFBZ0IzUEEwa25KY2FkNWhIb1F0UmxLM29IU0JTTWRDcG9nc0syT1ViM0FEYnJycTF3UFA5LWF4RVI4M0ZZeTUtWnAxN2t3ZVZxRA?oc=5",
-        "timestamp": 1774622868
-      },
-      {
         "id": "CBMickFVX3lxTE1PYy15SVdKYWY3N05PV2R5QzZtdHVXbkxZUzMzbFZJcGk4VDlob2hUVjRtWVJkQkFkVm12aHJ6UFd1NmhmczkyUGxLLVBXdjRHWm9DWmtuLXl2YjNsc0FMOXJlQnZ1UzIxV3BlbzBvVUZkUQ",
         "title": "15 Celebrities Who Built Off-Grid Homes To Avoid the Drama",
         "source": "AOL.com",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PYy15SVdKYWY3N05PV2R5QzZtdHVXbkxZUzMzbFZJcGk4VDlob2hUVjRtWVJkQkFkVm12aHJ6UFd1NmhmczkyUGxLLVBXdjRHWm9DWmtuLXl2YjNsc0FMOXJlQnZ1UzIxV3BlbzBvVUZkUQ?oc=5",
         "timestamp": 1774620739
+      },
+      {
+        "id": "CBMiqAFBVV95cUxOMGxsR1ZyVUtJRUpKS2VKVUVRTDg5eXdoakNFVHlwSmo1OXdkd0tTcmU3OXVKOE1LbXdodWhIYUVPcUV3dVVKT2o4bXp3TWJScHNmRGxqOHljLVhlcDNRRkZ3RjVqaV9TVWhMY29uUGpWTEJCQmRLaFpZSnE3QVFVNVVQUWFrSzI1Q3BhTEtOQ2o1TkNmWGtwRW92TEdjRVJQbTVvWDF3blg",
+        "title": "Mormon Wives Scandal Explodes: Jessi Draper Kissed Miranda McWhorter’s Ex Chase",
+        "source": "Yahoo",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMGxsR1ZyVUtJRUpKS2VKVUVRTDg5eXdoakNFVHlwSmo1OXdkd0tTcmU3OXVKOE1LbXdodWhIYUVPcUV3dVVKT2o4bXp3TWJScHNmRGxqOHljLVhlcDNRRkZ3RjVqaV9TVWhMY29uUGpWTEJCQmRLaFpZSnE3QVFVNVVQUWFrSzI1Q3BhTEtOQ2o1TkNmWGtwRW92TEdjRVJQbTVvWDF3blg?oc=5",
+        "timestamp": 1774619100
       },
       {
         "id": "CBMid0FVX3lxTE5nTEltWGtQbVVMS0ZWT0JQTnE2YVhXUHhBSkF1c1l4Y0ZMMzVBR05vNklCTGFRendqb1NWeHhxaThWT0loc0V0OFpXbmpaM0t3M1RueGFNbUtqM2UyU3h0YUdIYmd4aGxIbno1b0dlLXhvTnFnY2xj",
@@ -859,13 +859,6 @@
     ],
     "memes": [
       {
-        "id": "CBMiWEFVX3lxTE5ZOTg5aWF4aFFnQVNqYmstNFhNSkt4cE1Xc2J3OFAzNnFTenY5VGNlWkNoZkxhSFJfMDgyejVGbEtZbWF2X0MxY1JwWVM3YVpZUWdscWUyV2_SAV5BVV95cUxPMmtZMzBNX1lJbnhSdE54YmFBWVpZdm5lZUVCUm9zOU1NUHpwcFdCSjIwSVNqN3BtYXNiMkF0V0lpM0ZpVVBZaFlKcF9MWE5uUWlZNWswU205aVQ4UXdB",
-        "title": "Brett Meme Coin Guide 2026: Trade, Fees & Top UK Exchanges",
-        "source": "Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZOTg5aWF4aFFnQVNqYmstNFhNSkt4cE1Xc2J3OFAzNnFTenY5VGNlWkNoZkxhSFJfMDgyejVGbEtZbWF2X0MxY1JwWVM3YVpZUWdscWUyV2_SAV5BVV95cUxPMmtZMzBNX1lJbnhSdE54YmFBWVpZdm5lZUVCUm9zOU1NUHpwcFdCSjIwSVNqN3BtYXNiMkF0V0lpM0ZpVVBZaFlKcF9MWE5uUWlZNWswU205aVQ4UXdB?oc=5",
-        "timestamp": 1774675401
-      },
-      {
         "id": "CBMihgFBVV95cUxQU0ZPU2lfVmo5UDY0NGdXa0kwV1pGY2l6UGdSa2ZOT0llSmFaR1BpbXNpOHoyY1NVYm40S3BiTFMxTEEzNzZRR1N0QWVFRExvNmRIRXMxb29MNEtxeVQ5SHdBRDlTbHlSRHR5SnBSZ1JSR29JcG1SNVFHT1lVby1JTXBVazZBUQ",
         "title": "3 Meme Coins to Watch as April Comes",
         "source": "Pintu",
@@ -873,11 +866,18 @@
         "timestamp": 1774669667
       },
       {
-        "id": "CBMiWEFVX3lxTFBNWC1OM05PWWY1NUZVSHRTOE9aRFlYcWFHYUhyVi1ZSVd6c291ay1yU29LYXdwNS1uSG9Gd3k4UTNQTlNDWGRnZm9OV2VHemNHaUhLNDQ0dS3SAV5BVV95cUxQalpEblg3Tkswd0tmWE9wOTd5UjM1ZlhzbXNJMkw3Ty1XSXplSElqeGRzVmJRRnk2QTgxaDNTM0JCOHpMbndpa2Fwc1l5Z2dRY1QxQnR5UWdUMTJEOE5B",
-        "title": "How to Buy Neiro (NEIRO) in UK: Best Exchanges 2026",
-        "source": "Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNWC1OM05PWWY1NUZVSHRTOE9aRFlYcWFHYUhyVi1ZSVd6c291ay1yU29LYXdwNS1uSG9Gd3k4UTNQTlNDWGRnZm9OV2VHemNHaUhLNDQ0dS3SAV5BVV95cUxQalpEblg3Tkswd0tmWE9wOTd5UjM1ZlhzbXNJMkw3Ty1XSXplSElqeGRzVmJRRnk2QTgxaDNTM0JCOHpMbndpa2Fwc1l5Z2dRY1QxQnR5UWdUMTJEOE5B?oc=5",
-        "timestamp": 1774652202
+        "id": "CBMimwFBVV95cUxNYWd1ckFua3RIMkEzb3NHclFXeG1RV3o4OEp1NzJfMVE3Nzh3NzhBdHdRQ1lBN3BkcUhrcGY2UlhmS2puQnV0SUhKeTN1dnFpZEV6U3BNcENYRnYzWTJGbFRSV3ZEUkp2dk9HdXV0QVQ3SmRZTFBKQXdoNzJZcks4a2lpMHF4U3JBX0NjM01zenFrOFQwU2RPWTk0Z9IBoAFBVV95cUxOZE81RGw1QXJ4VEhjbjlBcnNoYXhScDYxeEdGTlB3V05MbDhWTUhUMU9IeU1fc0wtdVU3bUJyOTc4amZlaVEzanFjTEVWRnhQMVA0YWVxcTlrN0NCQ1FiWGJvQ19SWTZFa3E4SWNVd21ZZVd2TG0xVlpoeWgxcXA4R1V0dk9QX09xcEZCSUdwaFZ3WWhpQU94a3U4VERadEdx",
+        "title": "Oscars 2026: The best memes and reactions to this year’s ceremony",
+        "source": "Lifestyle Asia Hong Kong",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYWd1ckFua3RIMkEzb3NHclFXeG1RV3o4OEp1NzJfMVE3Nzh3NzhBdHdRQ1lBN3BkcUhrcGY2UlhmS2puQnV0SUhKeTN1dnFpZEV6U3BNcENYRnYzWTJGbFRSV3ZEUkp2dk9HdXV0QVQ3SmRZTFBKQXdoNzJZcks4a2lpMHF4U3JBX0NjM01zenFrOFQwU2RPWTk0Z9IBoAFBVV95cUxOZE81RGw1QXJ4VEhjbjlBcnNoYXhScDYxeEdGTlB3V05MbDhWTUhUMU9IeU1fc0wtdVU3bUJyOTc4amZlaVEzanFjTEVWRnhQMVA0YWVxcTlrN0NCQ1FiWGJvQ19SWTZFa3E4SWNVd21ZZVd2TG0xVlpoeWgxcXA4R1V0dk9QX09xcEZCSUdwaFZ3WWhpQU94a3U4VERadEdx?oc=5",
+        "timestamp": 1774669110
+      },
+      {
+        "id": "CBMiswFBVV95cUxOZkUxOVZtTzZEb24wMExKZ3J5NV93UC1OQ1FaYkY5bjV1ZU04WkhVemFoOHB2WUtmQTJmRC1PWm94WEFheWtFeDVrVmNaUHZqYXdaRUdIOFlQQXF0OXB5Wmo4TEdXTTNSNGkySll0YmpWYkJkeFpyeVVSRE4wZFpqeG1GVm5oZDBrSjZxYkpjMTgwSVpxek4tcVREZTM2SldEVHhPQnNhNGVBZEZ6QmVzTl9kWQ",
+        "title": "Ask The Old Guy: Is this normal?",
+        "source": "Panthers.com",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZkUxOVZtTzZEb24wMExKZ3J5NV93UC1OQ1FaYkY5bjV1ZU04WkhVemFoOHB2WUtmQTJmRC1PWm94WEFheWtFeDVrVmNaUHZqYXdaRUdIOFlQQXF0OXB5Wmo4TEdXTTNSNGkySll0YmpWYkJkeFpyeVVSRE4wZFpqeG1GVm5oZDBrSjZxYkpjMTgwSVpxek4tcVREZTM2SldEVHhPQnNhNGVBZEZ6QmVzTl9kWQ?oc=5",
+        "timestamp": 1774641934
       },
       {
         "id": "CBMinAFBVV95cUxQWHcwRWl3VHZRa28xRHFBZVJ6aDVNVWg3Q2lYZUhmQm1Tb003WE9kNXRBc25LLWpXdkxjRVVpQnV1ZEJCNnB2bUZBVTRBbmE5YXBSemlMQUJqY0xDN1N1cm9rZlRXRUszUnlhOWE5bm5vNjZLcGpjVi1sZzhETEtjMmdod0xHWERGazN3ZzVLWUZzWV9JWDdKZlNlV2w",
@@ -894,11 +894,11 @@
         "timestamp": 1774639274
       },
       {
-        "id": "CBMiTkFVX3lxTE9FaEMwTlJ5RVBtNFVsY1JqcXVQZ0x5RmwtZjBzTURzN3ZYWTRoeG55T3JvQUN5ejdTdzZVYTkzQ3JlZWY2VXg4MHd4WlZ2Zw",
+        "id": "CBMiY0FVX3lxTE11bXdBU2E5cHJoNTRIVjhlekstMVRLS09qSEhzSTd0R3RLbXJ6TU00ZUphZ0FVWXNYYWlUU25fMzhvV29xZ29DNVAweElyYWpwWVJkMXl5bmRWYnVLazZhQkduTdIBY0FVX3lxTE11bXdBU2E5cHJoNTRIVjhlekstMVRLS09qSEhzSTd0R3RLbXJ6TU00ZUphZ0FVWXNYYWlUU25fMzhvV29xZ29DNVAweElyYWpwWVJkMXl5bmRWYnVLazZhQkduTQ",
         "title": "Top 10 Meme Coins 2026 Investors Can’t Ignore: How Early Crypto Presales Are Driving the Next Bull Run",
-        "source": "mexc.co",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FaEMwTlJ5RVBtNFVsY1JqcXVQZ0x5RmwtZjBzTURzN3ZYWTRoeG55T3JvQUN5ejdTdzZVYTkzQ3JlZWY2VXg4MHd4WlZ2Zw?oc=5",
-        "timestamp": 1774638933
+        "source": "Bitget",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11bXdBU2E5cHJoNTRIVjhlekstMVRLS09qSEhzSTd0R3RLbXJ6TU00ZUphZ0FVWXNYYWlUU25fMzhvV29xZ29DNVAweElyYWpwWVJkMXl5bmRWYnVLazZhQkduTdIBY0FVX3lxTE11bXdBU2E5cHJoNTRIVjhlekstMVRLS09qSEhzSTd0R3RLbXJ6TU00ZUphZ0FVWXNYYWlUU25fMzhvV29xZ29DNVAweElyYWpwWVJkMXl5bmRWYnVLazZhQkduTQ?oc=5",
+        "timestamp": 1774632034
       },
       {
         "id": "CBMimAFBVV95cUxNaVF3VGhmZEMyMkpzWHhyaWxnc29iLXI4aXI1OU1YY3VIUmN2VDhsNlVrSXcwSFZuRUNvVkhadjVzX3Y0cUdKU1dGd0JCMjNla1NadEx3T0VGRVZwZkxObWU1aUEydEtQTjV1UnRvSkNheEZxUUg2MjdVR0xIVFh2TTBPMXVlSEgtLXZBUHRuV0JnbGVnQ0tFWQ",
@@ -906,6 +906,13 @@
         "source": "TheGrio",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaVF3VGhmZEMyMkpzWHhyaWxnc29iLXI4aXI1OU1YY3VIUmN2VDhsNlVrSXcwSFZuRUNvVkhadjVzX3Y0cUdKU1dGd0JCMjNla1NadEx3T0VGRVZwZkxObWU1aUEydEtQTjV1UnRvSkNheEZxUUg2MjdVR0xIVFh2TTBPMXVlSEgtLXZBUHRuV0JnbGVnQ0tFWQ?oc=5",
         "timestamp": 1774629073
+      },
+      {
+        "id": "CBMi8AFBVV95cUxPQjJuVVByMjA4NDBFTjJwVkJhMktPdDU1T2o5WENKcUw2SlFmYTh0UEZEMzBHWklKbzNZNThVZTlSRmYyNnN4YllZSmFRRllkNHllRTVLTnRueDlqSmpFa3FSa0lHY1d1N0dHSW1tc19tVHEzaTV3QXVGQlB1Q0NsRU96eTh2Q1BPbXlfMHQ1dzl0eWFrUFAzcHpQTElMSGR4clJ2ODF1eERkcjZYOVFCY2tZaUhRRmYyUFRPdm8yTEVrQy16TWpTMTB4cjVRelg4ZnB1bGIzTGN2bzFFRE5pMUtTMkFZTldXQzZnZkVZN2o",
+        "title": "DXYZ is the new VCX? As investors pile into new SpaceX proxy trade, here are Destiny Tech100’s top holdings",
+        "source": "MSN",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQjJuVVByMjA4NDBFTjJwVkJhMktPdDU1T2o5WENKcUw2SlFmYTh0UEZEMzBHWklKbzNZNThVZTlSRmYyNnN4YllZSmFRRllkNHllRTVLTnRueDlqSmpFa3FSa0lHY1d1N0dHSW1tc19tVHEzaTV3QXVGQlB1Q0NsRU96eTh2Q1BPbXlfMHQ1dzl0eWFrUFAzcHpQTElMSGR4clJ2ODF1eERkcjZYOVFCY2tZaUhRRmYyUFRPdm8yTEVrQy16TWpTMTB4cjVRelg4ZnB1bGIzTGN2bzFFRE5pMUtTMkFZTldXQzZnZkVZN2o?oc=5",
+        "timestamp": 1774624429
       },
       {
         "id": "CBMisgFBVV95cUxQSjQxME1ldjRpa1hMZUN6RVVwY2wtSnVFRkZqcXRJU2pSTVREa2o2a0RSQnBYWm1Tb3V0VHdiczgweXp5OHl1WXlTRGpTMVZhdkdCZm9oNFlGM3JSYlJ5RkJhUl9mclRNYjRKU0owZ2pGVkxWaXM2eGM5elFNOWVEUUcyc285TEFyOS1oTkg4S3N6bk9VMHhuUHN1amFMZFlDZWhCc2FlN05ZVkZJRlYwNFln",
@@ -917,7 +924,7 @@
       {
         "id": "CBMipgFBVV95cUxOSmRkdXZrUHZ4dndMMFNpa0NIektmNzNMcE82TEFIQUZhZnExME45d054SmFvNUpKa093dW1MS25TZGMzb3JEWUNLZkNoS242WGhqdktfRXp0NldFWmVoQ0NqZGN3MFdCZWVxMDlVdFRBNjRSUmJMVnYzSDBJbDlRblBxRUFzT3N6cEVmN21vR1paV2J2Z3AtZ2swRHV2UVQ0MlBVUGtR",
         "title": "Trump ‘LOSER’ video goes viral: Iran AI mockery taking over TikTok and X",
-        "source": "jang.com.pk",
+        "source": "Jang",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmRkdXZrUHZ4dndMMFNpa0NIektmNzNMcE82TEFIQUZhZnExME45d054SmFvNUpKa093dW1MS25TZGMzb3JEWUNLZkNoS242WGhqdktfRXp0NldFWmVoQ0NqZGN3MFdCZWVxMDlVdFRBNjRSUmJMVnYzSDBJbDlRblBxRUFzT3N6cEVmN21vR1paV2J2Z3AtZ2swRHV2UVQ0MlBVUGtR?oc=5",
         "timestamp": 1774619378
       },
@@ -934,13 +941,6 @@
         "source": "FXStreet",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTlNmdWlIR05fdWlpOGVzT0xsZ2NITF9lRjM4aW9hRk1GOEtfZl91OXNMNTRmeEtob24wOEVOYzlNQm9LUGxJUVRwTEJ1YjlYSmZSMnBINmpZd2EzaFBQSUdxOVFmQWFQWFhUM2puTUNVUlFUalJBbUtaYzJtSEFVd2V2aTFLY2dFeldWUVExUEcyZmp5TGJCeFNyV3l6TXVLTHdkRG9SMC1NM2llWDlYSlJtMmpzT25rU3RiSEwzUlBWdTh1c2daNEFtYkt6bzdCeVpYZ9IB2gFBVV95cUxQakhJb0h4QmZRWi00ZkFoUmVfdzRRc1N0NDIyelV6NVA2VzloMFlZYkJkdDZ1ZVpSYnd6TkVwNUdpXzA1Z2J4a05YYVZCVHJVMThJSWlKMjFNOFJTdGlneWtyMmFpdHd5cDJOekpNaWl0TTRaN3h3alhIZlBuNmE2ZXBtbUtkRG5xOVNEMFpBN2NUWWtoZWtqNzZvODB1UnNaSzVzNXZBN0s3LXpsbHZVWHluWDRTZlF2TjNyMG82RjJhRFFxZ3BoX3dlaEtpX3BtaXhzTlJLeExydw?oc=5",
         "timestamp": 1774610279
-      },
-      {
-        "id": "CBMiuwFBVV95cUxONjZHbjc4RU5xc0RULWtTcXo5d2FiVkpYSkx4eHJacDctaVhTMGFmQVNQOHZYZ2xfZjJHQndxS3BCNkwzbmsyTW9TUl9xUTdaWW5CRm5NcnFIR0pZNHZ2MFFJVWRzZ1BqR1M4STFSay1CY241S1phcmtacFhmZW5JMndPMl9lREhNajZmLXhlUlR0UlppaW5ZSXpqUXZIYVBuNXhBb2lqTFk3d2xBOW41Qmp5WUdXY2Rmb0c0",
-        "title": "eToro adds six new crypto assets to lineup of investment instruments",
-        "source": "FX News Group",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONjZHbjc4RU5xc0RULWtTcXo5d2FiVkpYSkx4eHJacDctaVhTMGFmQVNQOHZYZ2xfZjJHQndxS3BCNkwzbmsyTW9TUl9xUTdaWW5CRm5NcnFIR0pZNHZ2MFFJVWRzZ1BqR1M4STFSay1CY241S1phcmtacFhmZW5JMndPMl9lREhNajZmLXhlUlR0UlppaW5ZSXpqUXZIYVBuNXhBb2lqTFk3d2xBOW41Qmp5WUdXY2Rmb0c0?oc=5",
-        "timestamp": 1774609929
       },
       {
         "id": "CBMilwFBVV95cUxQMVN5SUYxcTR3cmJjYnBJa1A1OXJqQkNBcVZDMldyUjY3RW5yZnJIc1MtQ1V3REdtNnB3S2pEcXRRZGRmdGNaVV90eHk1MmtUMF9LaUtIU0ZzQTZWQjViRkJsY2U2ZU5Lak5LODViMEtZTzBBUmxLbDdmdm5LMFMxOTlZNWJ2VENOeFNDYXktUm1xcHBWNFhN",
@@ -966,6 +966,20 @@
     ],
     "music": [
       {
+        "id": "CBMi4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGY9IB4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGYw",
+        "title": "Gypsy Rose Blanchard, her controversial TikTok, and the backlash explained | Hindustan Times",
+        "source": "Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGY9IB4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGYw?oc=5",
+        "timestamp": 1774675010
+      },
+      {
+        "id": "CBMihwFBVV95cUxQUUU4dl9MN0EyWHpPbDQ1STlpbVFIeU1TMWdlYVpTNUxISnRQOG9kZjVPSndOczdwd3ZrY1NoaUx0cDVaenh5WGxiWTd3b1doY2RDazBKV05Xc1AwWWRrc2tCdzk5Z0ZIbmhhd0dTekoxNW4wdWZmRVZHZzlEeXZKaFB4YVI2MEE",
+        "title": "Quick Reference: EDM-Influenced Pop Artists Taking Over 2026",
+        "source": "EDM Sauce",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUU4dl9MN0EyWHpPbDQ1STlpbVFIeU1TMWdlYVpTNUxISnRQOG9kZjVPSndOczdwd3ZrY1NoaUx0cDVaenh5WGxiWTd3b1doY2RDazBKV05Xc1AwWWRrc2tCdzk5Z0ZIbmhhd0dTekoxNW4wdWZmRVZHZzlEeXZKaFB4YVI2MEE?oc=5",
+        "timestamp": 1774669868
+      },
+      {
         "id": "CBMilgFBVV95cUxQWGlrdkxXeEtpeHpOQXVGT1JPbUVfWGE4WExMUXd1WlRrYUgyZ2dHa21LVDRUOXJsWE5PaFZaN1JweGpMVnhFVWIxNXg0Z3FNMzJPT3ZFeS1RRzVpSWRqNlN2bzkwNmhMdFV5ckZMLWRUTWV0Tm96elI2Tk1ZN2hYb3JsV3RvYU1TNi02cE9kTTZMTVVRWWc",
         "title": "Most Viral TikTok EDM & Electronic Tracks of 2026 So Far",
         "source": "EDM Sauce",
@@ -980,18 +994,18 @@
         "timestamp": 1774662060
       },
       {
-        "id": "CBMimwFBVV95cUxQV3V5VVFQRFhuM3R1RFJMQ3VST2xvc25TczZ3MW4tTVR5MFBQRmNobHVieXpsdXR3Uks0Q3o4dTJFY0UtRkZseVR3cEQ3bWlvemlQUi1PaVFsQjg4TEZlZ18zdzdqYXV4eFNfcFprQUMwc29kVy1hTGw1MXUxenFuak5lS1FwREwwYU9ZeUhkb1dpX2pDeXU3cFdGcw",
-        "title": "‘Laguna Beach’ Stars Reunite & Take On Viral JENNIE TikTok Trend: Watch",
-        "source": "Yahoo",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3V5VVFQRFhuM3R1RFJMQ3VST2xvc25TczZ3MW4tTVR5MFBQRmNobHVieXpsdXR3Uks0Q3o4dTJFY0UtRkZseVR3cEQ3bWlvemlQUi1PaVFsQjg4TEZlZ18zdzdqYXV4eFNfcFprQUMwc29kVy1hTGw1MXUxenFuak5lS1FwREwwYU9ZeUhkb1dpX2pDeXU3cFdGcw?oc=5",
-        "timestamp": 1774659300
-      },
-      {
         "id": "CBMiqwFBVV95cUxQYWRyYUZPaEZmS0k2TjJpanhHQm53c2k1NEtJVnRlN0lPSzI4WkNrRW9Uam9iaHUtZ0hBQmJ6QkJab3NwUHpQdVlZTlZpZWs1dVpfTEJ1MjB3SFdNNHpnbDVLOGhMbDZvTGFvR01WNWZnWU9Ed0xiVndKM2s4X2d5V0JFd3BKczRzam4wMElOSDFoYldrbTdfVWhQTFMyLUFoYjBITG15SGVlR0HSAb8BQVVfeXFMTlJad25wMUVrcVg1N1lqNW5TbW11a2JoSkpTTVlGSGNlRGJTR3BqNVROb1k4czBWaE5PNzFhVXFuVUhpdTYtMnZialFFbGN3Q1VFRXVGVjdqaGhMX1BNelZWRW5ZSU1samQtMHBieDZyZ1hRSDBXbWtHMGtmZVk3SW9aZlRPVlFvSHcwQWdtX244LTF1V2VIVFowNk02TlRHS2hzTlV2M2U4WVZWWW45VGNPUjNsUEZrbTh5ZWJlVDA",
         "title": "Sioux Falls’ Lūm sells out in minutes with viral fruit-shaped desserts",
         "source": "Dakota News Now",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYWRyYUZPaEZmS0k2TjJpanhHQm53c2k1NEtJVnRlN0lPSzI4WkNrRW9Uam9iaHUtZ0hBQmJ6QkJab3NwUHpQdVlZTlZpZWs1dVpfTEJ1MjB3SFdNNHpnbDVLOGhMbDZvTGFvR01WNWZnWU9Ed0xiVndKM2s4X2d5V0JFd3BKczRzam4wMElOSDFoYldrbTdfVWhQTFMyLUFoYjBITG15SGVlR0HSAb8BQVVfeXFMTlJad25wMUVrcVg1N1lqNW5TbW11a2JoSkpTTVlGSGNlRGJTR3BqNVROb1k4czBWaE5PNzFhVXFuVUhpdTYtMnZialFFbGN3Q1VFRXVGVjdqaGhMX1BNelZWRW5ZSU1samQtMHBieDZyZ1hRSDBXbWtHMGtmZVk3SW9aZlRPVlFvSHcwQWdtX244LTF1V2VIVFowNk02TlRHS2hzTlV2M2U4WVZWWW45VGNPUjNsUEZrbTh5ZWJlVDA?oc=5",
         "timestamp": 1774656900
+      },
+      {
+        "id": "CBMizAFBVV95cUxQU2pPVWRKbGdpeU5PQ1NLd3hzMGZTZDlJUVVkN3VUdXhuSFNGZzQ1d1JrZExkbE1YZV9Bd3RjUVJBN29OOTlpNERWUUZvTVNOZHFocWE1eHpTU0RobFVqOGxhbGVuU3FXMlhIRVBSSk1pc0lrQ2RqMlFtSzJwdjFsU2NXWEZWZi1LRXJMNGJhU2ZheDZaQzZWS1ZSVmpMb1FGNEgxX1RTdVNTbEgwZ2cyVGc5MER6VEtlTmg0TkJtclhIZDhfX0dkTGlxa3A",
+        "title": "Gen Z Ditches TV for TikTok News: Pew's Shocking Report on 18-29s in North America",
+        "source": "AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU2pPVWRKbGdpeU5PQ1NLd3hzMGZTZDlJUVVkN3VUdXhuSFNGZzQ1d1JrZExkbE1YZV9Bd3RjUVJBN29OOTlpNERWUUZvTVNOZHFocWE1eHpTU0RobFVqOGxhbGVuU3FXMlhIRVBSSk1pc0lrQ2RqMlFtSzJwdjFsU2NXWEZWZi1LRXJMNGJhU2ZheDZaQzZWS1ZSVmpMb1FGNEgxX1RTdVNTbEgwZ2cyVGc5MER6VEtlTmg0TkJtclhIZDhfX0dkTGlxa3A?oc=5",
+        "timestamp": 1774643538
       },
       {
         "id": "CBMinAFBVV95cUxQVnBFZEFrS2pIZHMtR3l0YXpTMFhXTGRUMWxSVjNQRmRUQ1FfY19tRGxUX0ZLRnFWVzVfZ2VtZ040MmdNam9jRWdlM1lJNFdVYURPMHJQQXg4ZV8tX25mck93a2FmOTJCbUNkXy1jazIxNms2dHIxVFJrbV9kSzN5dDhIQ1UwTDNuODNCRTBFbDQ5RXdtYkFQOF9lYzQ",
@@ -1017,21 +1031,14 @@
       {
         "id": "CBMixwFBVV95cUxOQ09BLW5MWWFsamw1N0V2dm1uazFJMHRXT1hSVmlZeWFpb2l4ZFo4cUNsTUgtNlRTMGNydzRMdk9jbkNNYl9zLXRIaVdIVFBtXzRnZXEzTk9ONkpkdE5adTJYNFVRc3JqUnMtNlFRZ1pnbGo1MFAxVmtEQUdrWDB1QWVTX3JSaDVwbGJrNGVfclRweXVqd2pBbkc2Tmh3RkxSSzRENmQ4MWE4YzBQbFI3VGUwdEc4QWF1TXVKVHR2VXcyT2FOb3NR",
         "title": "Gen Z Ditches TV for TikTok and Search: Pew's Shocking News Shift Hits North America Hard",
-        "source": "ad-hoc-news.de",
+        "source": "AD HOC NEWS",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ09BLW5MWWFsamw1N0V2dm1uazFJMHRXT1hSVmlZeWFpb2l4ZFo4cUNsTUgtNlRTMGNydzRMdk9jbkNNYl9zLXRIaVdIVFBtXzRnZXEzTk9ONkpkdE5adTJYNFVRc3JqUnMtNlFRZ1pnbGo1MFAxVmtEQUdrWDB1QWVTX3JSaDVwbGJrNGVfclRweXVqd2pBbkc2Tmh3RkxSSzRENmQ4MWE4YzBQbFI3VGUwdEc4QWF1TXVKVHR2VXcyT2FOb3NR?oc=5",
         "timestamp": 1774634811
       },
       {
-        "id": "CBMie0FVX3lxTE43WVNmUWVLekR3UmpNcEVtN3lWYm5wbURKQkpoYVVINnFkRklFWHpJdDExd2dFWjhCOXJvWmgzNU5Md2dGZl9iamVUWDNRdk5tWDg4OHJXQ01hNlhDM0NYV1JFb2ZvSEg4Q3NILTlXQjFQbTYzVW14NExQMA",
-        "title": "Why Everyone’s Getting on the ‘Double Dutch Bus’",
-        "source": "Vulture",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43WVNmUWVLekR3UmpNcEVtN3lWYm5wbURKQkpoYVVINnFkRklFWHpJdDExd2dFWjhCOXJvWmgzNU5Md2dGZl9iamVUWDNRdk5tWDg4OHJXQ01hNlhDM0NYV1JFb2ZvSEg4Q3NILTlXQjFQbTYzVW14NExQMA?oc=5",
-        "timestamp": 1774628872
-      },
-      {
         "id": "CBMiZEFVX3lxTE43ZThTemF3eU16NmlOMnlSTV9ScV8wN0dEUUttdDlRWHBRTnFTUTB0RFRrQnI4MzJ0WEw3NWhNTHJhNVBERGp6SFhlMkFPZV9GVmFVRF8tTlk4MlpQYVM3RW8wWVjSAVxBVV95cUxNNy1obGdBVzdXa1JIZTBkQTZ2Y2ZsZEhyRlhYbzZtcDF0TWpSNzMtMnJjb2lobmktZHExYUxvUWdhczBLTE9GcTJfMFZHSHZKdEJhSGR2WExzU3NWSw",
         "title": "“Mahama wo de yɛ ka” — President Mahama Reacts to Viral Cocoa Farmers’ TikTok Video",
-        "source": "modernghana.com",
+        "source": "Modern Ghana",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43ZThTemF3eU16NmlOMnlSTV9ScV8wN0dEUUttdDlRWHBRTnFTUTB0RFRrQnI4MzJ0WEw3NWhNTHJhNVBERGp6SFhlMkFPZV9GVmFVRF8tTlk4MlpQYVM3RW8wWVjSAVxBVV95cUxNNy1obGdBVzdXa1JIZTBkQTZ2Y2ZsZEhyRlhYbzZtcDF0TWpSNzMtMnJjb2lobmktZHExYUxvUWdhczBLTE9GcTJfMFZHSHZKdEJhSGR2WExzU3NWSw?oc=5",
         "timestamp": 1774626087
       },
@@ -1045,7 +1052,7 @@
       {
         "id": "CBMixAFBVV95cUxQaVFhRFF2Q0RkMDVEZjh3QXNqSE1xOEFmV3h3SWhsRmhOZmtNelU0WDVIb190UzBHMGZzTmllbnl0R1FhOGFMZ2piZTUya2NMT19hWmdUWXZsc25nZlVYZURsS3M1b0wtdTZId3lNTTdOT0RTVXdqeFlrRWdEVGFpZWQwcEd6ZnVZU3lpSlBVZ3NYVE9hWElrMGdCNkNpQUVwc1RaNXRaRlEyeVNjdlNFb1M2ZUN6WnkwbmRPUm9ReFFRX29W",
         "title": "Why {ARTIST_NAME} Still Defines Music for North America's 18-29 Crowd",
-        "source": "ad-hoc-news.de",
+        "source": "AD HOC NEWS",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVFhRFF2Q0RkMDVEZjh3QXNqSE1xOEFmV3h3SWhsRmhOZmtNelU0WDVIb190UzBHMGZzTmllbnl0R1FhOGFMZ2piZTUya2NMT19hWmdUWXZsc25nZlVYZURsS3M1b0wtdTZId3lNTTdOT0RTVXdqeFlrRWdEVGFpZWQwcEd6ZnVZU3lpSlBVZ3NYVE9hWElrMGdCNkNpQUVwc1RaNXRaRlEyeVNjdlNFb1M2ZUN6WnkwbmRPUm9ReFFRX29W?oc=5",
         "timestamp": 1774615840
       },
@@ -1062,13 +1069,6 @@
         "source": "Australian Broadcasting Corporation",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlpBYlVqRGxrVjNZR29LX0VrUDJfZVo5YVYwV0k2cVhvamtoODc4MEkwRG1WcHIzZC1EanNyYktIdlI3WWY3dzBuVkphTWlULVo2dzNRbWxId1Jkelo2SVVRc0h2SHFFQkgyU1JybDlKa1JrdGNBT1JlTnpIUHhxQ2hvNjg0WXFnX2hZ?oc=5",
         "timestamp": 1774599550
-      },
-      {
-        "id": "CBMimgFBVV95cUxPUDBmMHkwaEN4U21idGx2Q2pic2xFRmEtSzY0d1RUODV3VG92dUptXy1jOUkwV2RHWGpWMi11bTJzYVdxWUx4U0Zpd3BlY1gzaXpXV0ZBRnluTkRhR2liRC1QLUlhWUg5YkotTnhxczRMaVdRSkN0M09FRXJVSTdVcGVUTE1WTGRRY0I1SEI3VDZPc09IOHVTQlZB",
-        "title": "Korn’s ‘Freak On A Leash’ Is Going Viral Thanks To New TikTok Dance",
-        "source": "Yahoo",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDBmMHkwaEN4U21idGx2Q2pic2xFRmEtSzY0d1RUODV3VG92dUptXy1jOUkwV2RHWGpWMi11bTJzYVdxWUx4U0Zpd3BlY1gzaXpXV0ZBRnluTkRhR2liRC1QLUlhWUg5YkotTnhxczRMaVdRSkN0M09FRXJVSTdVcGVUTE1WTGRRY0I1SEI3VDZPc09IOHVTQlZB?oc=5",
-        "timestamp": 1774596070
       }
     ],
     "tech_culture": [
@@ -1089,7 +1089,7 @@
       {
         "id": "CBMisgFBVV95cUxNLXkwckVmUENzSFNLX2xfZUIxRHY2cHlmeHdJbHRvaEw4RnZ1ZDJUM0JvYWRmcGJyNENEX3VNZXZXTG9Xb3d3TXRFSXVoY1RjOWlJeDBHTlpBeTJJOG5rUDB5OW5hUUFZTXBFRjg1QUhVVjkzU3ZqRnNQOFBUcFFaUkRWQzhkTXlnTndZUzByZ0N0bUV4OUhqQ0h6ZkpzYmFrLTJOdV9kZ2ljdjZaS3oxVGRR",
         "title": "Should Luxury Stop Worrying and Learn to Love AI Imagery?",
-        "source": "businessoffashion.com",
+        "source": "The Business of Fashion",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXkwckVmUENzSFNLX2xfZUIxRHY2cHlmeHdJbHRvaEw4RnZ1ZDJUM0JvYWRmcGJyNENEX3VNZXZXTG9Xb3d3TXRFSXVoY1RjOWlJeDBHTlpBeTJJOG5rUDB5OW5hUUFZTXBFRjg1QUhVVjkzU3ZqRnNQOFBUcFFaUkRWQzhkTXlnTndZUzByZ0N0bUV4OUhqQ0h6ZkpzYmFrLTJOdV9kZ2ljdjZaS3oxVGRR?oc=5",
         "timestamp": 1774640478
       },
@@ -1101,10 +1101,10 @@
         "timestamp": 1774638644
       },
       {
-        "id": "CBMinANBVV95cUxPMngxRjlZWUkyejJhLXMzd1hWTnBERXYxZUowbFVHcGt6NG1OcEdiSHI5MTJSRnYzV3BKbFVLTXhndFJ1eXExR0YxZDVvRHJpOVpqSkllOTJjUkdYTDJoV3VYX09vd0Z3R0Q0aG12R3FqVXhiRjVyd2FYaGpVb1U2dElZVFpsZ3hqT0xSeWE0WERsdVgtdTVod1IzTDRhV3RmaTc4dmlRdXFhOXJzV2lEd1lyZWZ5cGxnNHRRRk9Xc0ZVQkJfTFZ3ekJWekczQWRnblctY3o0NmxWNTFscHdjQmhKWl8yYk1Td2ZqbURTRXhqZG1LNUJrTFA4YmIzMWstV0F3Z1k1cEN1V2k1dVgxVkUyWTdleWl5Y0ZYaWdQYkwzNVh3QWUzdlROOUc0UERFUFBkaXZaUTZpdy1lYWpaZENqWGFBYVVGSHBxQl82UFRfUDVjUGtiZlpwYjE3UkxaYjRRTG5taVlnQ1B6dVJZZHdzV000anlkN2ctLXl1RXVpdHl0a1phbTIzWGJvcTJYUkZQdFhjZmNOakFl",
+        "id": "CBMinANBVV95cUxOOVFqMjNJbnVuSlVqSE01VmZCX2UyOHktU1k0VTdvZ1huZURYRWJROUFlcjhEU0ZXcUp5ZFJQdWNOdUNZc3lUYU1kMEhIMUo5WldSSHdHOWpOTjVVMzFOT0txUm15c2Nvc29wc25RMWxZX0szY0FEdFdWRkZoMk9CU1JsYXFQVGhIYnVtLUZVNDB5Ul8tTERNTUx0dTFRX0x1elQyMzh2MHlGSjU5WDU5QS1EbG5oTklDZEs5RmZhdEtSQV9TLUthTEtQUUcwOU8zMC1ObG9ZZnNDekxJLVN6QV94TlBVYTRkMDFIOE1zdWRCQno4ZEdqUlFLSGs2eTd1bHZJTHNrVEJDM2lmT0xKUnBSLTloNEVvSDFUYTlJMU5rUS1pRlFWUG5wdnVKVHJfY09sNzkwQkduUEJVUlR2LTNTOGFyczA2bnN5SzFLN3dTeVVSY3FKdXRXb2JDcElCdVRlelpEN0ZfUFMtdUJtdU1ZbUl2SEM2MWktV0Z2N3BzSV94WElhQU54cVN6SGRQUVF3WVQ1VnBTVW9K",
         "title": "Millions Are Hooked On This Show Where Sexy Fruits Cheat",
         "source": "WSJ",
-        "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxPMngxRjlZWUkyejJhLXMzd1hWTnBERXYxZUowbFVHcGt6NG1OcEdiSHI5MTJSRnYzV3BKbFVLTXhndFJ1eXExR0YxZDVvRHJpOVpqSkllOTJjUkdYTDJoV3VYX09vd0Z3R0Q0aG12R3FqVXhiRjVyd2FYaGpVb1U2dElZVFpsZ3hqT0xSeWE0WERsdVgtdTVod1IzTDRhV3RmaTc4dmlRdXFhOXJzV2lEd1lyZWZ5cGxnNHRRRk9Xc0ZVQkJfTFZ3ekJWekczQWRnblctY3o0NmxWNTFscHdjQmhKWl8yYk1Td2ZqbURTRXhqZG1LNUJrTFA4YmIzMWstV0F3Z1k1cEN1V2k1dVgxVkUyWTdleWl5Y0ZYaWdQYkwzNVh3QWUzdlROOUc0UERFUFBkaXZaUTZpdy1lYWpaZENqWGFBYVVGSHBxQl82UFRfUDVjUGtiZlpwYjE3UkxaYjRRTG5taVlnQ1B6dVJZZHdzV000anlkN2ctLXl1RXVpdHl0a1phbTIzWGJvcTJYUkZQdFhjZmNOakFl?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOOVFqMjNJbnVuSlVqSE01VmZCX2UyOHktU1k0VTdvZ1huZURYRWJROUFlcjhEU0ZXcUp5ZFJQdWNOdUNZc3lUYU1kMEhIMUo5WldSSHdHOWpOTjVVMzFOT0txUm15c2Nvc29wc25RMWxZX0szY0FEdFdWRkZoMk9CU1JsYXFQVGhIYnVtLUZVNDB5Ul8tTERNTUx0dTFRX0x1elQyMzh2MHlGSjU5WDU5QS1EbG5oTklDZEs5RmZhdEtSQV9TLUthTEtQUUcwOU8zMC1ObG9ZZnNDekxJLVN6QV94TlBVYTRkMDFIOE1zdWRCQno4ZEdqUlFLSGs2eTd1bHZJTHNrVEJDM2lmT0xKUnBSLTloNEVvSDFUYTlJMU5rUS1pRlFWUG5wdnVKVHJfY09sNzkwQkduUEJVUlR2LTNTOGFyczA2bnN5SzFLN3dTeVVSY3FKdXRXb2JDcElCdVRlelpEN0ZfUFMtdUJtdU1ZbUl2SEM2MWktV0Z2N3BzSV94WElhQU54cVN6SGRQUVF3WVQ1VnBTVW9K?oc=5",
         "timestamp": 1774627200
       },
       {
@@ -1164,21 +1164,35 @@
         "timestamp": 1774605666
       },
       {
+        "id": "CBMi3AFBVV95cUxQNEFSNXNFYlltRk15QzB3Uzc1aV9qbGdlZ2pWaEFFRmlXLWZPa1o1WmxoRlpWcjRfRjViUFVPYzN0VEtxbXhIeGI2clhJXzZ5YkQ5Z0ZJdVBRXy14UzMxWGhrdG5xa09kNE96dWNwbjhsMWZIejFDa1d2VExDNkgzRFVOMlN1SmFxOUVKQmI3YVY1MkpIM29MVExMd1ZoWmJYbDNJSXlJanRnOVUwQkFWUF9EdlI5V3pBSWhzUjFHT3gxcHJnT3N1RUF3VWYzOXEySk5wVTIyRUZEUjFz0gHiAUFVX3lxTFBpakg5S1B2dk9iV0VVWV9McDFpdFVPMnN5aExURWZULUZqMGpqOEhmUWJ6QVZRRTFFVERvVW9OMXZ4SDU2a2g2WV9qY0kxc2VxZzRnckpPMmNGa3BhV19xdHhJUjdFcE96ZmxzT09YUFE2UzJreFVqWkZNSGlneWVyT2FwVEdObHd3MHV2cDRMMFBLVE9WSEM3b2JsdXJkQlVlVjZ5WUtzeUtpTzdUMDBhQlZ1TWtnZTdlUlhtM0ZURWVtbGpoOTJXRUFsRTRabHMxR3pwOE5hTzQ5a3lOcFg3ZWc",
+        "title": "‘Time To Stop Working’: European Boss’ Mid-Night Text To Indian Man Goes Viral; ‘India Mein Aisa Kab Hoga?’",
+        "source": "timesnownews.com",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNEFSNXNFYlltRk15QzB3Uzc1aV9qbGdlZ2pWaEFFRmlXLWZPa1o1WmxoRlpWcjRfRjViUFVPYzN0VEtxbXhIeGI2clhJXzZ5YkQ5Z0ZJdVBRXy14UzMxWGhrdG5xa09kNE96dWNwbjhsMWZIejFDa1d2VExDNkgzRFVOMlN1SmFxOUVKQmI3YVY1MkpIM29MVExMd1ZoWmJYbDNJSXlJanRnOVUwQkFWUF9EdlI5V3pBSWhzUjFHT3gxcHJnT3N1RUF3VWYzOXEySk5wVTIyRUZEUjFz0gHiAUFVX3lxTFBpakg5S1B2dk9iV0VVWV9McDFpdFVPMnN5aExURWZULUZqMGpqOEhmUWJ6QVZRRTFFVERvVW9OMXZ4SDU2a2g2WV9qY0kxc2VxZzRnckpPMmNGa3BhV19xdHhJUjdFcE96ZmxzT09YUFE2UzJreFVqWkZNSGlneWVyT2FwVEdObHd3MHV2cDRMMFBLVE9WSEM3b2JsdXJkQlVlVjZ5WUtzeUtpTzdUMDBhQlZ1TWtnZTdlUlhtM0ZURWVtbGpoOTJXRUFsRTRabHMxR3pwOE5hTzQ5a3lOcFg3ZWc?oc=5",
+        "timestamp": 1774603968
+      },
+      {
         "id": "CBMiswFBVV95cUxOQ3ZpZFUzVnBLOXBOSVZyRzI3b3pBZUhnb21UOGNIMF9yR2xYS1EwakNUUk1oRVd3VGVGXzdNOEpDYkdIVW8wY2NjQWhSR2w3cFR2VjVTc0dVLUxrYjM2TUxwV3NvSGxXWnR5Sl9sZGRlM0dRRlF2cXRHMmFTcjI4SUl3T3VtaG02WjU4MzZtZ2VMY3BBdms4bTF1Zl90TEtfY2wwQTZsWUdxQU5uTXJIRm9aNA",
         "title": "Comedian Druski Goes Viral After Controversial Erika Kirk Sketch",
         "source": "Military.com",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ3ZpZFUzVnBLOXBOSVZyRzI3b3pBZUhnb21UOGNIMF9yR2xYS1EwakNUUk1oRVd3VGVGXzdNOEpDYkdIVW8wY2NjQWhSR2w3cFR2VjVTc0dVLUxrYjM2TUxwV3NvSGxXWnR5Sl9sZGRlM0dRRlF2cXRHMmFTcjI4SUl3T3VtaG02WjU4MzZtZ2VMY3BBdms4bTF1Zl90TEtfY2wwQTZsWUdxQU5uTXJIRm9aNA?oc=5",
         "timestamp": 1774602000
-      },
-      {
-        "id": "CBMi8AFBVV95cUxORm5EMGtRMFdkWEtHUGRjWTM2eVRvS2tUNVhlUTBScS1uVmF3M3J0R1Y0RXptcTNwd0tYTzFCSEdiSDF2RVllU3lPWXh4N2NfaEZCT28zQ0RQUUZPTndnS1U5QUwxUkF1d2I4S0dETDhfTWRKaDU0VzNwRzZ3THVIbFdYX0E4RmJYNFlBZ1dXZ3pxQ1k4bW9BT0pDSVVxbHp4VU9yYVNMZDRrVXc2T29EWWFNRzYtYWFyckVOdExYM3N1WDdTY0pCWEJISVlUZy1PamRvWWpmeEJfZmFJVkhrQTlGRWdwZXM0bUVYNm9YMVXSAfYBQVVfeXFMT2ZLdEZxaVo2S0ZfR0FDbVNhVndJU2VLSl9iVFRLdlRiRVA1YXByT2w0RzhWYi1oMHlOMkltM0Y3a2tGV2xwaDBiTGVJc0FLemlRZUJpX1dINExLaTF3Z1BuQUxFU25rV3RIa1U0V2E0dXBoR3c5NnRJTFJNUmxSVkI2QjZtTFFoNkkyU1QzTjlVRmJaQ0JtNkVYQTlJdW9mb1UwalI4WDFxQXZ0eXdMX2hZWmlIdUgyOUY1SWlQQy04SEJIaDlRUks3eHlJajZrQ3BYU0Z1Y3NHTlo1T0dsWVFyT1RoUkxhcGp5aWxobzloa18zSWNB",
-        "title": "Dhurandhar 2: Hamza Ali Mazari and Rehman Dacait's questions in Accounts exam paper shocks fans",
-        "source": "Moneycontrol.com",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORm5EMGtRMFdkWEtHUGRjWTM2eVRvS2tUNVhlUTBScS1uVmF3M3J0R1Y0RXptcTNwd0tYTzFCSEdiSDF2RVllU3lPWXh4N2NfaEZCT28zQ0RQUUZPTndnS1U5QUwxUkF1d2I4S0dETDhfTWRKaDU0VzNwRzZ3THVIbFdYX0E4RmJYNFlBZ1dXZ3pxQ1k4bW9BT0pDSVVxbHp4VU9yYVNMZDRrVXc2T29EWWFNRzYtYWFyckVOdExYM3N1WDdTY0pCWEJISVlUZy1PamRvWWpmeEJfZmFJVkhrQTlGRWdwZXM0bUVYNm9YMVXSAfYBQVVfeXFMT2ZLdEZxaVo2S0ZfR0FDbVNhVndJU2VLSl9iVFRLdlRiRVA1YXByT2w0RzhWYi1oMHlOMkltM0Y3a2tGV2xwaDBiTGVJc0FLemlRZUJpX1dINExLaTF3Z1BuQUxFU25rV3RIa1U0V2E0dXBoR3c5NnRJTFJNUmxSVkI2QjZtTFFoNkkyU1QzTjlVRmJaQ0JtNkVYQTlJdW9mb1UwalI4WDFxQXZ0eXdMX2hZWmlIdUgyOUY1SWlQQy04SEJIaDlRUks3eHlJajZrQ3BYU0Z1Y3NHTlo1T0dsWVFyT1RoUkxhcGp5aWxobzloa18zSWNB?oc=5",
-        "timestamp": 1774597935
       }
     ],
     "all": [
+      {
+        "id": "CBMixwFBVV95cUxQbXp2MThoa3R5OU1Kc0IwQTRLRDIweWQ3eE9KRWNidWlkVXZ0eHVyc2dlMldGTThDcDNiQXE2WENyQkZMRFIyQS1iUXpydTBkVTZvVU1fbjViMVBkMlpMV0tDeThOMFF1UUU3OEM0dGNfb3VIYjZLaXh2cEJtTElfVkZRRUZFSEY0T2pKeW0yWWV1VGgwX3dhOERwZFRVbDB1ZkF5TUpkaW1WTFhxQjA4QVFWYmtOZ3ZfVHlaSTVxZHNna084SEZR",
+        "title": "The Shocking Shift: How Gen Z Ditches TV for TikTok and Search – Why IVE Fans in North America Are",
+        "source": "AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbXp2MThoa3R5OU1Kc0IwQTRLRDIweWQ3eE9KRWNidWlkVXZ0eHVyc2dlMldGTThDcDNiQXE2WENyQkZMRFIyQS1iUXpydTBkVTZvVU1fbjViMVBkMlpMV0tDeThOMFF1UUU3OEM0dGNfb3VIYjZLaXh2cEJtTElfVkZRRUZFSEY0T2pKeW0yWWV1VGgwX3dhOERwZFRVbDB1ZkF5TUpkaW1WTFhxQjA4QVFWYmtOZ3ZfVHlaSTVxZHNna084SEZR?oc=5",
+        "timestamp": 1774681820
+      },
+      {
+        "id": "CBMixwFBVV95cUxOM19pWlpvNmdoOFZ5dGIwUjV5M2E1dWlSNi1OQjR5d0pwS0liVWhuUUxFaXl3WE10YWE1elBOYVR5VHZMSmJsU1NINzQ5aFpHZlZZaWlDYTdyS0J5eUdZVXoyLThXVU9TbkRlbW5qVzA1OHRfMk4xa1FSUWxWSklQV3lHS2tqaThhblUzOFRGcmJHZ3ZOZHJQcGNkV3RBSDFfSkJkUjZ4TmcwRjg3c25kVElad3VtU1RtdXRRazhLcHBCWHZHTzhj",
+        "title": "Gen Z Ditches TV for TikTok & Search: Pew's Shocking News Shift Hits North America Hard",
+        "source": "AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM19pWlpvNmdoOFZ5dGIwUjV5M2E1dWlSNi1OQjR5d0pwS0liVWhuUUxFaXl3WE10YWE1elBOYVR5VHZMSmJsU1NINzQ5aFpHZlZZaWlDYTdyS0J5eUdZVXoyLThXVU9TbkRlbW5qVzA1OHRfMk4xa1FSUWxWSklQV3lHS2tqaThhblUzOFRGcmJHZ3ZOZHJQcGNkV3RBSDFfSkJkUjZ4TmcwRjg3c25kVElad3VtU1RtdXRRazhLcHBCWHZHTzhj?oc=5",
+        "timestamp": 1774681173
+      },
       {
         "id": "CBMimgJBVV95cUxQNEhWc19DektFYTZsMEJuN3RneGJBcmFGLUdwbUxYVE1YUmdDTGNxRHRNQTQ0dWxoVWVmS3FaZmQ4dnV1Z2lWOExoa1JUYmJaYXY0NEJ5ZnBUQzFfQmJHRG5MTm45bVFpelpGTjhLYUtSblNTenVQLXZYTzFzZzd2SnVRVDVGNnBzRm9CNlB6Q3ZSN0ZfXzdPb3hJVlJDUFJrM2pzcERiLU9fSEJBUGIyYTYxTEdnUlNJdDlLb2hhUjNPXzRBbTZQUXFHY3d1UDNFLWltZHlzT1ktOGdOaFVXWF9SNFNwNko5bnEwN0RyZWpJeDNsdDlMSEp4QlMwMENZUlRSQ2RQaTJELXd3b2d3VXY2ZDNOWVNRYlE",
         "title": "Aneet Padda's sister Reet Padda goes private on Instagram after 'Dhurandhar Propaganda' backlash",
@@ -1201,13 +1215,6 @@
         "timestamp": 1774679645
       },
       {
-        "id": "CBMi4wFBVV95cUxQLWtKVVJVVE9ER3F5SjZMX0I5S3c4YWJFbFllX1ZyM0trYzZSdHphb1R4am05Z25RT25jaW1UMFBHclZYdWFJYTFlMnN1UE9CcVBGWkQ0Y0RsRldCUHJMM1Z2b3J1Z1lzU3BiUmZMalBCaXBCUEpDQnlHMnFISDZEcFo5allwamJEWkRwb1ZkeUVnTUd0MEVLMTMwbjlmSVpFOGlrdmJKOW5sV0RxMU1EeG4tOUpIYXlGQzNyNks2UU54TkZUMFVrbmt6bVg1U0lGU3ZhMlJ1MFNVNjZQbE5tSzA0bw",
-        "title": "From ‘Real Housewives of Pretoria’ to headlines: Mel Viljoen’s TV journey amid US arrest drama",
-        "source": "IOL",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLWtKVVJVVE9ER3F5SjZMX0I5S3c4YWJFbFllX1ZyM0trYzZSdHphb1R4am05Z25RT25jaW1UMFBHclZYdWFJYTFlMnN1UE9CcVBGWkQ0Y0RsRldCUHJMM1Z2b3J1Z1lzU3BiUmZMalBCaXBCUEpDQnlHMnFISDZEcFo5allwamJEWkRwb1ZkeUVnTUd0MEVLMTMwbjlmSVpFOGlrdmJKOW5sV0RxMU1EeG4tOUpIYXlGQzNyNks2UU54TkZUMFVrbmt6bVg1U0lGU3ZhMlJ1MFNVNjZQbE5tSzA0bw?oc=5",
-        "timestamp": 1774677123
-      },
-      {
         "id": "CBMiVkFVX3lxTE02WEljU3E4SkJJR2dOZzdmaFRnR29pakl6LWk5MTV6cE1nSGR1anBvZnBxNXhlb3VYSldNM0NXMUtDcUgzZ3lDSjB2RjNNQ0dVVlpxcDdR",
         "title": "#FlippaT recently stepped into #TSRLive and addressed the beef she has with music executive #RayDaniels after he suggested that content creator #JosephFog, who went viral dancing to her song “Affirmations” and helped it gain popularity, deserved partial",
         "source": "instagram.com",
@@ -1224,16 +1231,9 @@
       {
         "id": "CBMiwwFBVV95cUxPdDRKRm02YW96M3JHVW5BcGFkMUdlMEJTS3lCUnVwcHFvRmZqcHg0YWJOZXpHLWFUZHJaekJUbFhTd0c5cXZESHpWdkZiMmdOdy0xWnJVa0tWazdaYXdVMDRPbTZtT2xnNUplSkxyOHRCTlBlZFZOamdJQzl6VVB4RjJBYzhaNm43Z3hPeXp0WjlObG84WkMycjJWYUozaTlfNFJNZWI3RDNkc2xOUzlEUnhiblBESHVaVEdCRzJWWGQ0MTQ",
         "title": "Gen Z's Wild News Flip: 18-29s in North America Ditch TV for TikTok – Pew's Fresh Bombshell",
-        "source": "ad-hoc-news.de",
+        "source": "AD HOC NEWS",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDRKRm02YW96M3JHVW5BcGFkMUdlMEJTS3lCUnVwcHFvRmZqcHg0YWJOZXpHLWFUZHJaekJUbFhTd0c5cXZESHpWdkZiMmdOdy0xWnJVa0tWazdaYXdVMDRPbTZtT2xnNUplSkxyOHRCTlBlZFZOamdJQzl6VVB4RjJBYzhaNm43Z3hPeXp0WjlObG84WkMycjJWYUozaTlfNFJNZWI3RDNkc2xOUzlEUnhiblBESHVaVEdCRzJWWGQ0MTQ?oc=5",
         "timestamp": 1774676735
-      },
-      {
-        "id": "CBMihwFBVV95cUxQTzJTVUs4TTdEWklHNU8wMjJuWVViTjd3ZDB3aXRpZlpPYUhiQ0ZMWm1mbEQzUXVVeWJLbV9nV19KbmdiOWZSUGs1a18tUEQzS2VWdjVubEMxZHZBcjRGV3pxbjBzUHpwQ1NOMWl3UDJBZ3R4Y1RaWTVSYl8yMkg3NHRMcTA0UVE",
-        "title": "Instagram Edits Dhurandhar font delivers powerful boost for Reels creators",
-        "source": "Pune Mirror",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTzJTVUs4TTdEWklHNU8wMjJuWVViTjd3ZDB3aXRpZlpPYUhiQ0ZMWm1mbEQzUXVVeWJLbV9nV19KbmdiOWZSUGs1a18tUEQzS2VWdjVubEMxZHZBcjRGV3pxbjBzUHpwQ1NOMWl3UDJBZ3R4Y1RaWTVSYl8yMkg3NHRMcTA0UVE?oc=5",
-        "timestamp": 1774676626
       },
       {
         "id": "CBMi2gFBVV95cUxPN3dZR3MzSXU5a2FrM3FLSXB4RGFMSjlFYmdVblozQkVwNXZwM1poYmtMZTVnQ0todVJ3aGI3RFlZNlV4U2JfVGFOUlVqdmlIZ2ZrallhYXV4b2VFMTExQ2ZUc3kyLUNJMXY1TWpTLXhUNFZUQUpVekZncXFBaVN3LTdNSmFGbEVWOWRCallFRWR3Q0IwUGhkUWxfUTNFdXo1aVBmZTdLY2hCclljSUNNd1VQeHc4dEFBNXRUQVotSjNvZ0hIdjlIWVkxSmM4cXBOWW5MQ0w2YXVsd9IB2gFBVV95cUxPN3dZR3MzSXU5a2FrM3FLSXB4RGFMSjlFYmdVblozQkVwNXZwM1poYmtMZTVnQ0todVJ3aGI3RFlZNlV4U2JfVGFOUlVqdmlIZ2ZrallhYXV4b2VFMTExQ2ZUc3kyLUNJMXY1TWpTLXhUNFZUQUpVekZncXFBaVN3LTdNSmFGbEVWOWRCallFRWR3Q0IwUGhkUWxfUTNFdXo1aVBmZTdLY2hCclljSUNNd1VQeHc4dEFBNXRUQVotSjNvZ0hIdjlIWVkxSmM4cXBOWW5MQ0w2YXVsdw",
@@ -1241,6 +1241,13 @@
         "source": "Cosmopolitan India",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPN3dZR3MzSXU5a2FrM3FLSXB4RGFMSjlFYmdVblozQkVwNXZwM1poYmtMZTVnQ0todVJ3aGI3RFlZNlV4U2JfVGFOUlVqdmlIZ2ZrallhYXV4b2VFMTExQ2ZUc3kyLUNJMXY1TWpTLXhUNFZUQUpVekZncXFBaVN3LTdNSmFGbEVWOWRCallFRWR3Q0IwUGhkUWxfUTNFdXo1aVBmZTdLY2hCclljSUNNd1VQeHc4dEFBNXRUQVotSjNvZ0hIdjlIWVkxSmM4cXBOWW5MQ0w2YXVsd9IB2gFBVV95cUxPN3dZR3MzSXU5a2FrM3FLSXB4RGFMSjlFYmdVblozQkVwNXZwM1poYmtMZTVnQ0todVJ3aGI3RFlZNlV4U2JfVGFOUlVqdmlIZ2ZrallhYXV4b2VFMTExQ2ZUc3kyLUNJMXY1TWpTLXhUNFZUQUpVekZncXFBaVN3LTdNSmFGbEVWOWRCallFRWR3Q0IwUGhkUWxfUTNFdXo1aVBmZTdLY2hCclljSUNNd1VQeHc4dEFBNXRUQVotSjNvZ0hIdjlIWVkxSmM4cXBOWW5MQ0w2YXVsdw?oc=5",
         "timestamp": 1774676504
+      },
+      {
+        "id": "CBMivgFBVV95cUxOSWRibmloTE1rdGhZU0l1dWtWbnVrRXJiSFE0NkNiNk51NTI1al9zVmhraGExMUJkU2ZUMHR1MEtFVTdTdi1IOXRhMncya3F4RnExUGloUm5FTVhJOFNlR3YwaWRNS1VIMnhNeU9JbUdZemtQR0RMQ0pGc05BYzd4a2JRSWFOYzRPQnpRQkhWZnJBWlpwelUzNmppZU5HdWYwd1UtTHNwcTloT0Y1WS1kTXVhTDdQZkRYbGQyQWtn",
+        "title": "Billie Eilish Drops 'Between Us' Music Video – The 2026 Glow-Up We Didn't See Coming",
+        "source": "AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSWRibmloTE1rdGhZU0l1dWtWbnVrRXJiSFE0NkNiNk51NTI1al9zVmhraGExMUJkU2ZUMHR1MEtFVTdTdi1IOXRhMncya3F4RnExUGloUm5FTVhJOFNlR3YwaWRNS1VIMnhNeU9JbUdZemtQR0RMQ0pGc05BYzd4a2JRSWFOYzRPQnpRQkhWZnJBWlpwelUzNmppZU5HdWYwd1UtTHNwcTloT0Y1WS1kTXVhTDdQZkRYbGQyQWtn?oc=5",
+        "timestamp": 1774676197
       },
       {
         "id": "CBMiqgJBVV95cUxNOS16Qm9WMGZ5dDlCQXh5QTZUNFUxMzQzMGwzSjZpYmdhZXlSTGpHcHBlbXZBVTE3M0xid2VxTjhCUnYtTGV1bXU0WEcyaDhXeG5UZEVkbHlKemsxamRhclkweWd1VnZlekVNZTFCaUFyNF9SMzh0UlprZnZ3NWF2Z1JoOWY0YU5kZ0JKUHdRbVVndld1amo1YURUcFJOOEdaTlEyS21nczRhdDlLd3pjdy1uZmRoRHNOY3RDVG5vMHVyWkhLZHVuMUtzRXE0TUIxNGhwbHJyS01CdjVfcWkxTThCMzJjbWJZLXpiWFRzenpiM24yRWtHbnRlOVlOSzlseXd2VmNES184blA4cWQwVjlDMDF2bGlFeTcyX0R6UnZJYlBWSU9MNUtB",
@@ -1257,13 +1264,6 @@
         "timestamp": 1774675800
       },
       {
-        "id": "CBMiWEFVX3lxTE5ZOTg5aWF4aFFnQVNqYmstNFhNSkt4cE1Xc2J3OFAzNnFTenY5VGNlWkNoZkxhSFJfMDgyejVGbEtZbWF2X0MxY1JwWVM3YVpZUWdscWUyV2_SAV5BVV95cUxPMmtZMzBNX1lJbnhSdE54YmFBWVpZdm5lZUVCUm9zOU1NUHpwcFdCSjIwSVNqN3BtYXNiMkF0V0lpM0ZpVVBZaFlKcF9MWE5uUWlZNWswU205aVQ4UXdB",
-        "title": "Brett Meme Coin Guide 2026: Trade, Fees & Top UK Exchanges",
-        "source": "Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ZOTg5aWF4aFFnQVNqYmstNFhNSkt4cE1Xc2J3OFAzNnFTenY5VGNlWkNoZkxhSFJfMDgyejVGbEtZbWF2X0MxY1JwWVM3YVpZUWdscWUyV2_SAV5BVV95cUxPMmtZMzBNX1lJbnhSdE54YmFBWVpZdm5lZUVCUm9zOU1NUHpwcFdCSjIwSVNqN3BtYXNiMkF0V0lpM0ZpVVBZaFlKcF9MWE5uUWlZNWswU205aVQ4UXdB?oc=5",
-        "timestamp": 1774675401
-      },
-      {
         "id": "CBMi4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGY9IB4AFBVV95cUxPR2pWZ3lLWHIzRGtteENnbmdJWkZmVk1tVWtvNW9RVFJ0TWpiT1N6Zy1GZmNmR0hNdmRKb3dGcmN5bFRfMS1wUjlhNHM1Skh0MFc2S1Zad2tsdGFQa2E5SDllVmx3UWxYdkdnUnA5dElSRDdFcGRnN3QtRXdhUnZHQy1aYnJsZ05MUUFDWXotaVhmQlVIZ2xqNUxIMHNrOTk1bHZRVEloUFBlVFRpdWVnbTcyMDhoQndrVHFVcFhpaFNFMUsybHVxel9KTXRrcWhhYVBqVWFKc3VUZ1dNbDdGYw",
         "title": "Gypsy Rose Blanchard, her controversial TikTok, and the backlash explained | Hindustan Times",
         "source": "Hindustan Times",
@@ -1271,25 +1271,46 @@
         "timestamp": 1774675010
       },
       {
-        "id": "CBMiwwFBVV95cUxQMDlvcUNDUVU4dnV4ZnBPM2hwOUdEV2RaYjNUWUJjZUltd0ZLZkl1UkF1SFhjY1BsSFVBQjhONDlTTVF6TXM1dkp0OElRM0dOZzNiVC1UV0VIU1hOR3l3T1pnYzhUYkdpRExFVkdfOG4zQ25qaFIxZUlNZDhscFBPWHdvSEktblV0WEtpZXRvdFNKMUY4aEdpZ251TkFTZjZHYjVVNGp4bFZTQzJhcjlaT1RheEI1dFh3TzRLc1V5RzZmNTA",
-        "title": "Gen Z's Wild News Flip: 18-29s in North America Ditch TV for TikTok – Here's Why It Hits Pop Cultu",
-        "source": "ad-hoc-news.de",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDlvcUNDUVU4dnV4ZnBPM2hwOUdEV2RaYjNUWUJjZUltd0ZLZkl1UkF1SFhjY1BsSFVBQjhONDlTTVF6TXM1dkp0OElRM0dOZzNiVC1UV0VIU1hOR3l3T1pnYzhUYkdpRExFVkdfOG4zQ25qaFIxZUlNZDhscFBPWHdvSEktblV0WEtpZXRvdFNKMUY4aEdpZ251TkFTZjZHYjVVNGp4bFZTQzJhcjlaT1RheEI1dFh3TzRLc1V5RzZmNTA?oc=5",
-        "timestamp": 1774673891
+        "id": "CBMi2wFBVV95cUxPNkx4SmxlLVBUa2tyN05oZ1RzT0lNdnBqWGowXzJibEhvMWo4aE4xV1RhRVlhbXBxaFl2eXNYblpVSzZYREl6ZGF4aC1zRXNOQlpNc1VNVC1fNXVpOExtZmFaUHN0cWZpODdwc21WMTFBSW9oMjl0cWxBVi1EWWp4c1E1UUVFNmxqaldJX25KbWpkUDVCMlMyQlZCRWhfQkV1bEpkN1ZDcnZGMXd2NW83R2FyWTNKWG4yWVFxTWxma0plRGdtVzlYbDAzQ3lYYlFiancwM2l5LUhNYjQ",
+        "title": "Gypsy Rose Blanchard, her controversial TikTok, and the backlash explained",
+        "source": "Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNkx4SmxlLVBUa2tyN05oZ1RzT0lNdnBqWGowXzJibEhvMWo4aE4xV1RhRVlhbXBxaFl2eXNYblpVSzZYREl6ZGF4aC1zRXNOQlpNc1VNVC1fNXVpOExtZmFaUHN0cWZpODdwc21WMTFBSW9oMjl0cWxBVi1EWWp4c1E1UUVFNmxqaldJX25KbWpkUDVCMlMyQlZCRWhfQkV1bEpkN1ZDcnZGMXd2NW83R2FyWTNKWG4yWVFxTWxma0plRGdtVzlYbDAzQ3lYYlFiancwM2l5LUhNYjQ?oc=5",
+        "timestamp": 1774675010
       },
       {
-        "id": "CBMiygFBVV95cUxQeG5MZ1dWaEdiTXdxdTFRTHVlVFhhNVR1bnJ1Nl9DSFFhSlRrZEZaTjJBWVVqNUdmejNrcFBWbEJSbWR2N1ljeUhtbHE1SmVEOHVUUXAzLUZiR1dHdDF4dFItTHhPb19kMWRDUFNJa2l6R01PSk5QT0pmRm4tWkVJMGk1elByNHhGdjR0SE1lblphU3dzV1FIb0xqbW51OWpZZ0dMQUpGQmotVDF6UmpyOFlGLU81VXp3NVljOGRqY08ydkZtUm1OdHZB",
-        "title": "Why IVE Still Captivates North American Fans in 2026: The Ultimate Guide to Their Enduring Appeal",
-        "source": "ad-hoc-news.de",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeG5MZ1dWaEdiTXdxdTFRTHVlVFhhNVR1bnJ1Nl9DSFFhSlRrZEZaTjJBWVVqNUdmejNrcFBWbEJSbWR2N1ljeUhtbHE1SmVEOHVUUXAzLUZiR1dHdDF4dFItTHhPb19kMWRDUFNJa2l6R01PSk5QT0pmRm4tWkVJMGk1elByNHhGdjR0SE1lblphU3dzV1FIb0xqbW51OWpZZ0dMQUpGQmotVDF6UmpyOFlGLU81VXp3NVljOGRqY08ydkZtUm1OdHZB?oc=5",
-        "timestamp": 1774673633
+        "id": "CBMitwFBVV95cUxORXJRMFAzbDFSOWljUnZuMWJNS3dueUIxeHFKWlBqazZCNF9rOVpjVmM2NG5HNmVPNUwzNkJXbjdoWGV2ZlRiNzNxX0hrcHdXa21NTzdpdmJNekxjbFBtbnh5eVdjRnBNOF81cDhYLTFtY1F0WjQ1SFdGWDVPT3AySGdSWWdkQVByMlZxM2R4eXFpNGlXZnNleDZwcF9QWjZoLWtkbXp5UUVRejlwX1luZG1tRXF5bjQ",
+        "title": "Laguna Beach' Cast Do Viral JENNIE 'Dracula' TikTok Trend",
+        "source": "National Today",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORXJRMFAzbDFSOWljUnZuMWJNS3dueUIxeHFKWlBqazZCNF9rOVpjVmM2NG5HNmVPNUwzNkJXbjdoWGV2ZlRiNzNxX0hrcHdXa21NTzdpdmJNekxjbFBtbnh5eVdjRnBNOF81cDhYLTFtY1F0WjQ1SFdGWDVPT3AySGdSWWdkQVByMlZxM2R4eXFpNGlXZnNleDZwcF9QWjZoLWtkbXp5UUVRejlwX1luZG1tRXF5bjQ?oc=5",
+        "timestamp": 1774674934
+      },
+      {
+        "id": "CBMivwFBVV95cUxPSjI3THdUZHdyRFBhUzlZanRheF92UFRkZGk2MkxUYmNGN1dlUW1MN1pUSjB1eXJ5SXBTTFNoYzV6eDU1bjdFZ0VteXc2ZEpXZUZmbUZyRmJTLWxRc0lYV29wbkh3UDhoUXlPeFZXQUNJSE0yLXdTLWlfWWpwYVJOSTBCX3ZaR3hQaEJBTFFteGxHOW01ZGVwbjJxUUpjYXVDMmMwVktiTVYyV1Q4NnZaNzFNQVJvMThrWTZSQlhCUQ",
+        "title": "Billie Eilish Drops 'Between Us' Video from 2026 Album – The Billie Moment North America Can't Sto",
+        "source": "AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjI3THdUZHdyRFBhUzlZanRheF92UFRkZGk2MkxUYmNGN1dlUW1MN1pUSjB1eXJ5SXBTTFNoYzV6eDU1bjdFZ0VteXc2ZEpXZUZmbUZyRmJTLWxRc0lYV29wbkh3UDhoUXlPeFZXQUNJSE0yLXdTLWlfWWpwYVJOSTBCX3ZaR3hQaEJBTFFteGxHOW01ZGVwbjJxUUpjYXVDMmMwVktiTVYyV1Q4NnZaNzFNQVJvMThrWTZSQlhCUQ?oc=5",
+        "timestamp": 1774673921
+      },
+      {
+        "id": "CBMiwwFBVV95cUxQMDlvcUNDUVU4dnV4ZnBPM2hwOUdEV2RaYjNUWUJjZUltd0ZLZkl1UkF1SFhjY1BsSFVBQjhONDlTTVF6TXM1dkp0OElRM0dOZzNiVC1UV0VIU1hOR3l3T1pnYzhUYkdpRExFVkdfOG4zQ25qaFIxZUlNZDhscFBPWHdvSEktblV0WEtpZXRvdFNKMUY4aEdpZ251TkFTZjZHYjVVNGp4bFZTQzJhcjlaT1RheEI1dFh3TzRLc1V5RzZmNTA",
+        "title": "Gen Z's Wild News Flip: 18-29s in North America Ditch TV for TikTok – Here's Why It Hits Pop Cultu",
+        "source": "AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMDlvcUNDUVU4dnV4ZnBPM2hwOUdEV2RaYjNUWUJjZUltd0ZLZkl1UkF1SFhjY1BsSFVBQjhONDlTTVF6TXM1dkp0OElRM0dOZzNiVC1UV0VIU1hOR3l3T1pnYzhUYkdpRExFVkdfOG4zQ25qaFIxZUlNZDhscFBPWHdvSEktblV0WEtpZXRvdFNKMUY4aEdpZ251TkFTZjZHYjVVNGp4bFZTQzJhcjlaT1RheEI1dFh3TzRLc1V5RzZmNTA?oc=5",
+        "timestamp": 1774673891
       },
       {
         "id": "CBMizwFBVV95cUxNcl9yUHo1S2V6UjVBdmtxX0hMTlU3NDhiWXB4N1g2OVlITG9NNEYwbjZQZ0FXaTU0X3NtTjlHdDhNWVE3aV9nb09VeDR1ZmZFN3ZVYkMxU2dSSjRiUGg1VzEzSFdTSFJTc1dReGFBb0pMTlViRUJuYmpfYVFiTXhlZ0pLR1JBbk9vUGhpVldmWHQ5ZU1QQnZMbllhOG9kMjZzcUVZNUNSUnNub3Zpb0lGYl9jbTl0elRsY3pUVlF6ZDdYRzZUZTN1YTZxMTYtWU0",
         "title": "‘Dhurandhar’ Craze Sweeps Instagram. How to Add the Dhurandhar Look to Your Posts & Reels",
         "source": "indiaherald.com",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcl9yUHo1S2V6UjVBdmtxX0hMTlU3NDhiWXB4N1g2OVlITG9NNEYwbjZQZ0FXaTU0X3NtTjlHdDhNWVE3aV9nb09VeDR1ZmZFN3ZVYkMxU2dSSjRiUGg1VzEzSFdTSFJTc1dReGFBb0pMTlViRUJuYmpfYVFiTXhlZ0pLR1JBbk9vUGhpVldmWHQ5ZU1QQnZMbllhOG9kMjZzcUVZNUNSUnNub3Zpb0lGYl9jbTl0elRsY3pUVlF6ZDdYRzZUZTN1YTZxMTYtWU0?oc=5",
-        "timestamp": 1774671088
+        "timestamp": 1774671126
+      },
+      {
+        "id": "CBMihwFBVV95cUxQUUU4dl9MN0EyWHpPbDQ1STlpbVFIeU1TMWdlYVpTNUxISnRQOG9kZjVPSndOczdwd3ZrY1NoaUx0cDVaenh5WGxiWTd3b1doY2RDazBKV05Xc1AwWWRrc2tCdzk5Z0ZIbmhhd0dTekoxNW4wdWZmRVZHZzlEeXZKaFB4YVI2MEE",
+        "title": "Quick Reference: EDM-Influenced Pop Artists Taking Over 2026",
+        "source": "EDM Sauce",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUU4dl9MN0EyWHpPbDQ1STlpbVFIeU1TMWdlYVpTNUxISnRQOG9kZjVPSndOczdwd3ZrY1NoaUx0cDVaenh5WGxiWTd3b1doY2RDazBKV05Xc1AwWWRrc2tCdzk5Z0ZIbmhhd0dTekoxNW4wdWZmRVZHZzlEeXZKaFB4YVI2MEE?oc=5",
+        "timestamp": 1774669868
       },
       {
         "id": "CBMihgFBVV95cUxQU0ZPU2lfVmo5UDY0NGdXa0kwV1pGY2l6UGdSa2ZOT0llSmFaR1BpbXNpOHoyY1NVYm40S3BiTFMxTEEzNzZRR1N0QWVFRExvNmRIRXMxb29MNEtxeVQ5SHdBRDlTbHlSRHR5SnBSZ1JSR29JcG1SNVFHT1lVby1JTXBVazZBUQ",
@@ -1304,6 +1325,13 @@
         "source": "EDM Sauce",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWGlrdkxXeEtpeHpOQXVGT1JPbUVfWGE4WExMUXd1WlRrYUgyZ2dHa21LVDRUOXJsWE5PaFZaN1JweGpMVnhFVWIxNXg0Z3FNMzJPT3ZFeS1RRzVpSWRqNlN2bzkwNmhMdFV5ckZMLWRUTWV0Tm96elI2Tk1ZN2hYb3JsV3RvYU1TNi02cE9kTTZMTVVRWWc?oc=5",
         "timestamp": 1774669268
+      },
+      {
+        "id": "CBMimwFBVV95cUxNYWd1ckFua3RIMkEzb3NHclFXeG1RV3o4OEp1NzJfMVE3Nzh3NzhBdHdRQ1lBN3BkcUhrcGY2UlhmS2puQnV0SUhKeTN1dnFpZEV6U3BNcENYRnYzWTJGbFRSV3ZEUkp2dk9HdXV0QVQ3SmRZTFBKQXdoNzJZcks4a2lpMHF4U3JBX0NjM01zenFrOFQwU2RPWTk0Z9IBoAFBVV95cUxOZE81RGw1QXJ4VEhjbjlBcnNoYXhScDYxeEdGTlB3V05MbDhWTUhUMU9IeU1fc0wtdVU3bUJyOTc4amZlaVEzanFjTEVWRnhQMVA0YWVxcTlrN0NCQ1FiWGJvQ19SWTZFa3E4SWNVd21ZZVd2TG0xVlpoeWgxcXA4R1V0dk9QX09xcEZCSUdwaFZ3WWhpQU94a3U4VERadEdx",
+        "title": "Oscars 2026: The best memes and reactions to this year’s ceremony",
+        "source": "Lifestyle Asia Hong Kong",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYWd1ckFua3RIMkEzb3NHclFXeG1RV3o4OEp1NzJfMVE3Nzh3NzhBdHdRQ1lBN3BkcUhrcGY2UlhmS2puQnV0SUhKeTN1dnFpZEV6U3BNcENYRnYzWTJGbFRSV3ZEUkp2dk9HdXV0QVQ3SmRZTFBKQXdoNzJZcks4a2lpMHF4U3JBX0NjM01zenFrOFQwU2RPWTk0Z9IBoAFBVV95cUxOZE81RGw1QXJ4VEhjbjlBcnNoYXhScDYxeEdGTlB3V05MbDhWTUhUMU9IeU1fc0wtdVU3bUJyOTc4amZlaVEzanFjTEVWRnhQMVA0YWVxcTlrN0NCQ1FiWGJvQ19SWTZFa3E4SWNVd21ZZVd2TG0xVlpoeWgxcXA4R1V0dk9QX09xcEZCSUdwaFZ3WWhpQU94a3U4VERadEdx?oc=5",
+        "timestamp": 1774669110
       },
       {
         "id": "CBMiVkFVX3lxTE5QR2p0OHp5MDRWUFBwVzhJaGlTQ2YtYzA0Y3ZZVVNVYXpEX0RBdDJZTDVTRVE2S3F5T096TzMtbFM4b0l5cGJyeHFMTmc3MlZXeEVraXhR",
@@ -1348,17 +1376,17 @@
         "timestamp": 1774659376
       },
       {
-        "id": "CBMimwFBVV95cUxQV3V5VVFQRFhuM3R1RFJMQ3VST2xvc25TczZ3MW4tTVR5MFBQRmNobHVieXpsdXR3Uks0Q3o4dTJFY0UtRkZseVR3cEQ3bWlvemlQUi1PaVFsQjg4TEZlZ18zdzdqYXV4eFNfcFprQUMwc29kVy1hTGw1MXUxenFuak5lS1FwREwwYU9ZeUhkb1dpX2pDeXU3cFdGcw",
-        "title": "‘Laguna Beach’ Stars Reunite & Take On Viral JENNIE TikTok Trend: Watch",
-        "source": "Yahoo",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV3V5VVFQRFhuM3R1RFJMQ3VST2xvc25TczZ3MW4tTVR5MFBQRmNobHVieXpsdXR3Uks0Q3o4dTJFY0UtRkZseVR3cEQ3bWlvemlQUi1PaVFsQjg4TEZlZ18zdzdqYXV4eFNfcFprQUMwc29kVy1hTGw1MXUxenFuak5lS1FwREwwYU9ZeUhkb1dpX2pDeXU3cFdGcw?oc=5",
-        "timestamp": 1774659300
+        "id": "CBMiYkFVX3lxTE1FaFl3RVdJR1FFemFrX0xnNzM2WUQzS3l3TDg1THdncFRPNnFEYTVrcUlmZjVyR08ySlJlbUdhWFNzY1lENWZTZmppZ2NvdTJpVEFQOUdfMHBvQ09UVXB5ZkVB",
+        "title": "TSR Staff China! @China_lovelace ___________________________ Roommates, TikToker #BrenayKennard has been ordered to pay up while she fights a major lawsuit tied to the breakup of #AkiraMontague, and according to @wral, a judge in Durham, N.",
+        "source": "instagram.com",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FaFl3RVdJR1FFemFrX0xnNzM2WUQzS3l3TDg1THdncFRPNnFEYTVrcUlmZjVyR08ySlJlbUdhWFNzY1lENWZTZmppZ2NvdTJpVEFQOUdfMHBvQ09UVXB5ZkVB?oc=5",
+        "timestamp": 1774658578
       },
       {
-        "id": "CBMi9gJBVV95cUxNejRYSHNCT2pBSnB1ZC1iTWg2d1FqNjR5SUFJZ1lSd2JKRzRlV1lpUWliUllkX0NVZXBVQ1FkOG9kWmRsX0lFdDNsaFRDd0FkSmg2Y3NBR2kxTk96TWlYMmZvQ1JkUjNsY3Nibzd2N1BEajFpdUd5TW9LWEN3YmJKOTl1QUpKeXcwNGpBWmVxYlZaWGpBNUJ1bnNPeWotcS1FSGcxMy1Ka25YRDFNZWRJdzFvcTNVUWNtSlJaMUdMbDM0S29GZ1NwMGtFeUt3ekp6TkVuZ1Y3bW9uYW5Ib0JRVWxrWmRhRFhXd2NpaUE1eERUS19RZ2o0NS1sajdycDFfdGN5SXM2Zlp3dGh2RjhJbzdhVWZ2TjdjNEd4X012bDN4bkhCcTBRZ0UtTFFwanhpTGdsRDlJNkpoOW1BZjJwNlpVN1VzMjVoci15M0lOVnhnUWZnU1V5Z1pNZnBHRzZXdTdyRm5mWnd4d3A3b1VkWUs3SXJmQQ",
+        "id": "CBMi9AJBVV95cUxQX3M4WmFHTnl3clZjR1I0Nko0dkhzM3JpWnRZWnFrV1RmblFUUU9jVUtCdE40Y05DY0RTVTFvVFk1eWJhLVFfVmRBZXljQkVrb3JCa0FlSlpaa05LbW84cWZFTWFPZ2J6NnV2UEFHeVVFZ1NjUkN0STNMRFphZEVnbnhRb2NZQ0VXLUtpMXlwaXlTRngwNnotaEhqUHI1Yk5TMU1mWmtxWmthR0xiek01UnBDT0F1cDAwdnpKQzZfbHoyWmp0azdIYTVxeGhNT1ZCVWFmaTdGM1pmZW5GVFR5R2dmcjdHX2ppTGZ0N3JsRlZLQ1dGMEdwZndYX3o2NjB3UEg5MWFWc2Z1S0RXZXB4TzQzMkFUWVJzQWlXUk9NNGlkbkRaVjBPVXZTZzBfWnZtU1dkZlFFU0tuSkFaQTNPbElfV2FIMm5YckJOeXFWaVFTbWRKLTR3Y3ViaDk2cG81eWt0aVVXcG9nS2U3cG9OTVFlSTM",
         "title": "'Languages define identity': Viral X post dismissing Kannada, Tamil triggers social media storm",
         "source": "MSN",
-        "link": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNejRYSHNCT2pBSnB1ZC1iTWg2d1FqNjR5SUFJZ1lSd2JKRzRlV1lpUWliUllkX0NVZXBVQ1FkOG9kWmRsX0lFdDNsaFRDd0FkSmg2Y3NBR2kxTk96TWlYMmZvQ1JkUjNsY3Nibzd2N1BEajFpdUd5TW9LWEN3YmJKOTl1QUpKeXcwNGpBWmVxYlZaWGpBNUJ1bnNPeWotcS1FSGcxMy1Ka25YRDFNZWRJdzFvcTNVUWNtSlJaMUdMbDM0S29GZ1NwMGtFeUt3ekp6TkVuZ1Y3bW9uYW5Ib0JRVWxrWmRhRFhXd2NpaUE1eERUS19RZ2o0NS1sajdycDFfdGN5SXM2Zlp3dGh2RjhJbzdhVWZ2TjdjNEd4X012bDN4bkhCcTBRZ0UtTFFwanhpTGdsRDlJNkpoOW1BZjJwNlpVN1VzMjVoci15M0lOVnhnUWZnU1V5Z1pNZnBHRzZXdTdyRm5mWnd4d3A3b1VkWUs3SXJmQQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQX3M4WmFHTnl3clZjR1I0Nko0dkhzM3JpWnRZWnFrV1RmblFUUU9jVUtCdE40Y05DY0RTVTFvVFk1eWJhLVFfVmRBZXljQkVrb3JCa0FlSlpaa05LbW84cWZFTWFPZ2J6NnV2UEFHeVVFZ1NjUkN0STNMRFphZEVnbnhRb2NZQ0VXLUtpMXlwaXlTRngwNnotaEhqUHI1Yk5TMU1mWmtxWmthR0xiek01UnBDT0F1cDAwdnpKQzZfbHoyWmp0azdIYTVxeGhNT1ZCVWFmaTdGM1pmZW5GVFR5R2dmcjdHX2ppTGZ0N3JsRlZLQ1dGMEdwZndYX3o2NjB3UEg5MWFWc2Z1S0RXZXB4TzQzMkFUWVJzQWlXUk9NNGlkbkRaVjBPVXZTZzBfWnZtU1dkZlFFU0tuSkFaQTNPbElfV2FIMm5YckJOeXFWaVFTbWRKLTR3Y3ViaDk2cG81eWt0aVVXcG9nS2U3cG9OTVFlSTM?oc=5",
         "timestamp": 1774658214
       },
       {
@@ -1369,18 +1397,18 @@
         "timestamp": 1774656900
       },
       {
-        "id": "CBMidEFVX3lxTE5KWjA3VndvVzFVVGRPekwwV1BBd1kyRS1LVzRsSDhBNnkxX1YxZTVtSlJodUpXZ1h4ZW1JbzNSWV81Tm53czRDRmVOalcxTzFuUno4T2VVR0libDJFeG5pOWZIMHZ1bk1sdVlYYjhMeDBqMzQ5",
-        "title": "'How it really feels to see the food I used to hide at school now going viral.'",
+        "id": "CBMic0FVX3lxTE5iZHhUcmJzd2NJczk1QlZiVHQ5ODV2QUFMSUk1djV2T0g4SDE3dVhOdVNFNWU2T1RyclV5bVo1Q3JfaHVMcGpSVWZaV0tweTRJODJhUXVpaGxfLW5wbkNxNWNfTzQ4NF8zdEhxMkVuWVNSVFE",
+        "title": "'How it really feels to see the food I used to hide to eat at school now going viral.'",
         "source": "Mamamia",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KWjA3VndvVzFVVGRPekwwV1BBd1kyRS1LVzRsSDhBNnkxX1YxZTVtSlJodUpXZ1h4ZW1JbzNSWV81Tm53czRDRmVOalcxTzFuUno4T2VVR0libDJFeG5pOWZIMHZ1bk1sdVlYYjhMeDBqMzQ5?oc=5",
-        "timestamp": 1774656234
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iZHhUcmJzd2NJczk1QlZiVHQ5ODV2QUFMSUk1djV2T0g4SDE3dVhOdVNFNWU2T1RyclV5bVo1Q3JfaHVMcGpSVWZaV0tweTRJODJhUXVpaGxfLW5wbkNxNWNfTzQ4NF8zdEhxMkVuWVNSVFE?oc=5",
+        "timestamp": 1774654475
       },
       {
-        "id": "CBMihANBVV95cUxOSHVwTlZEMGpZczVWaGg1ZEZOekJNV0h4ci1JSDd0T3Jyb0JQdDRRN292OGJFMVQyTERlX1NyOE14QmxXRW5TUVBZdWFPTVlqaVhUWlZ2b2U5X2ZpM00wMXN1WnZheElMa0NDSjVyY3NOa0tObVVpTHIzeENWNDI1ckFBb1QzLXROYV8xTGJETEg0SFFtSEZWcURSZGFZMG04ZlBHenNLbXpJN3JyNkZGRDdIVW5yM2dNQVkyUnBfXzk0Y01oWFFjSWNMSVBQOGJuMDZpVWZUTHdOcGt4dXZXRUFzWEZuRkNOSTZETkQ5d1lJdG1EVF9VMlR0NWE4OXF3cWd4NFk5ZmtBQ2ZraGoxZXNIUmd0eUJwSUJaVC02dERaMEJCNHowbnNJaE5ZQUJROF9MSURpVDdFcnJhMEh3ZmJ2MFRLNF9kYmJCemNpVDZxLWx6Wlg1UW9udzFGcHplSzNZb3FXMEZ3djhVQTc2QUxYRUZsYjBySHExU3lSUzM3VE84",
+        "id": "CBMi0gJBVV95cUxNTjR1eHFSWE5ucHNPWDdINl9XdklFVUhqb0owWkZ4NUlCZk1VSkZZZFRyU3JjR2F3UEtZeDdVUHVPN3ZLWGxJX3A4Rzlsc3Y3VVgzQlczVHVpQVdwX0NkUGEzcm02SEFNYjA1ekpWUlpCSlVOR3o4WTgwZE52cmMxcm0zVHgxTmpsTUNObXNkWDBjU0pnVDRFWVhQUzEzbmVGTEFEWmFtcHhpVEZUR1VhUjlhR1A1ZWJ2SVV1eU41TXNMMUFpZkRra24zbmZIVldxWHNNdFJNRTctSklXZWNmS0hjYUxUekhiZW01eGZZX3RvSVlvczBXVHUxeC01Ym8zOV8tVGlCQkhDYkRKVjZsb09TeDR0YXBmSVVRbUlTeW1yalpNRlJfaTNMMXdnaXIwcXlHa0VQeGtBMUZ2OXBtb2EtdjI5VFlhVVpfWVQxMDY0dw",
         "title": "Rob Van Dam speaks out against backlash over Ricochet’s MS comment",
         "source": "MSN",
-        "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxOSHVwTlZEMGpZczVWaGg1ZEZOekJNV0h4ci1JSDd0T3Jyb0JQdDRRN292OGJFMVQyTERlX1NyOE14QmxXRW5TUVBZdWFPTVlqaVhUWlZ2b2U5X2ZpM00wMXN1WnZheElMa0NDSjVyY3NOa0tObVVpTHIzeENWNDI1ckFBb1QzLXROYV8xTGJETEg0SFFtSEZWcURSZGFZMG04ZlBHenNLbXpJN3JyNkZGRDdIVW5yM2dNQVkyUnBfXzk0Y01oWFFjSWNMSVBQOGJuMDZpVWZUTHdOcGt4dXZXRUFzWEZuRkNOSTZETkQ5d1lJdG1EVF9VMlR0NWE4OXF3cWd4NFk5ZmtBQ2ZraGoxZXNIUmd0eUJwSUJaVC02dERaMEJCNHowbnNJaE5ZQUJROF9MSURpVDdFcnJhMEh3ZmJ2MFRLNF9kYmJCemNpVDZxLWx6Wlg1UW9udzFGcHplSzNZb3FXMEZ3djhVQTc2QUxYRUZsYjBySHExU3lSUzM3VE84?oc=5",
-        "timestamp": 1774653885
+        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNTjR1eHFSWE5ucHNPWDdINl9XdklFVUhqb0owWkZ4NUlCZk1VSkZZZFRyU3JjR2F3UEtZeDdVUHVPN3ZLWGxJX3A4Rzlsc3Y3VVgzQlczVHVpQVdwX0NkUGEzcm02SEFNYjA1ekpWUlpCSlVOR3o4WTgwZE52cmMxcm0zVHgxTmpsTUNObXNkWDBjU0pnVDRFWVhQUzEzbmVGTEFEWmFtcHhpVEZUR1VhUjlhR1A1ZWJ2SVV1eU41TXNMMUFpZkRra24zbmZIVldxWHNNdFJNRTctSklXZWNmS0hjYUxUekhiZW01eGZZX3RvSVlvczBXVHUxeC01Ym8zOV8tVGlCQkhDYkRKVjZsb09TeDR0YXBmSVVRbUlTeW1yalpNRlJfaTNMMXdnaXIwcXlHa0VQeGtBMUZ2OXBtb2EtdjI5VFlhVVpfWVQxMDY0dw?oc=5",
+        "timestamp": 1774653812
       },
       {
         "id": "CBMivAFBVV95cUxPR2RJbHZtZVRZVDRhdWtYWlB0cWtCeGFvclQ5UVRGMVEzQTFVaWFJam1Hbmp4YXJfRnZCWERqU05ENHVkd1BOTWVicFBsczQtazVIY2staU1BR2ZWRHQtS3VURkx5eU1Ja2ZqMi1qVE0wMUxnU1NXdkFvTFF4TjVhclB3TllPYmk1dGZzU0NjQ1Zid3BseDNFTGNsbEE4TnVkeGg0M01uOHhvY1NibWM4OGpiSnp2NHp4ZkZESQ",
@@ -1392,7 +1420,7 @@
       {
         "id": "CBMi5wFBVV95cUxPckxkaG5JTW9VbVBLbjc3NkI4VFllczc1aHRNQ2ZTd0RFblY3UVVtV09EeFVCTkZJR3p3ajJfdzFjZ0tQZTBfRFZoOGU2THhCR21yZ1FiM1BOZm5wXy1Rd0NwSVBxUzJvNE9PeDNPd1FKbGFZeEwtUXVvX1V3dlltd1BmaXg0aFBrZUdjOEpNX05IQTVrZE9GNlBnd3lGcGRJUUVhaU9Iejd3YXpDNGhEOWRheUI2aHJtcGtHZ2N3dWJvLUNCLVZaNXRURVpFb1NqQXRtVFNnS2RiMTRaeVh0TUM0VlJtOUU",
         "title": "OpenAI pulls the plug on Sora, the viral AI video app that sparked deepfake concerns",
-        "source": "scrippsnews.com",
+        "source": "Scripps News",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPckxkaG5JTW9VbVBLbjc3NkI4VFllczc1aHRNQ2ZTd0RFblY3UVVtV09EeFVCTkZJR3p3ajJfdzFjZ0tQZTBfRFZoOGU2THhCR21yZ1FiM1BOZm5wXy1Rd0NwSVBxUzJvNE9PeDNPd1FKbGFZeEwtUXVvX1V3dlltd1BmaXg0aFBrZUdjOEpNX05IQTVrZE9GNlBnd3lGcGRJUUVhaU9Iejd3YXpDNGhEOWRheUI2aHJtcGtHZ2N3dWJvLUNCLVZaNXRURVpFb1NqQXRtVFNnS2RiMTRaeVh0TUM0VlJtOUU?oc=5",
         "timestamp": 1774653557
       },
@@ -1404,18 +1432,18 @@
         "timestamp": 1774652340
       },
       {
-        "id": "CBMiWEFVX3lxTFBNWC1OM05PWWY1NUZVSHRTOE9aRFlYcWFHYUhyVi1ZSVd6c291ay1yU29LYXdwNS1uSG9Gd3k4UTNQTlNDWGRnZm9OV2VHemNHaUhLNDQ0dS3SAV5BVV95cUxQalpEblg3Tkswd0tmWE9wOTd5UjM1ZlhzbXNJMkw3Ty1XSXplSElqeGRzVmJRRnk2QTgxaDNTM0JCOHpMbndpa2Fwc1l5Z2dRY1QxQnR5UWdUMTJEOE5B",
-        "title": "How to Buy Neiro (NEIRO) in UK: Best Exchanges 2026",
-        "source": "Bitget",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNWC1OM05PWWY1NUZVSHRTOE9aRFlYcWFHYUhyVi1ZSVd6c291ay1yU29LYXdwNS1uSG9Gd3k4UTNQTlNDWGRnZm9OV2VHemNHaUhLNDQ0dS3SAV5BVV95cUxQalpEblg3Tkswd0tmWE9wOTd5UjM1ZlhzbXNJMkw3Ty1XSXplSElqeGRzVmJRRnk2QTgxaDNTM0JCOHpMbndpa2Fwc1l5Z2dRY1QxQnR5UWdUMTJEOE5B?oc=5",
-        "timestamp": 1774652202
-      },
-      {
         "id": "CBMimgFBVV95cUxOUTVGQzFBRUdEbFBmcHhUam9xeTM0bm1WSzZ4OFEyaUJZZ0xmSHJXLUp2cGk3WFllVjJzVk5UdjBPdm9PQmhONHZUMWtiVWIxMVNjS2JoWXFSNHlJWHJrTGM0RWJCMzMxTW1mNThKWW9kbmJHT184dmYxLTBocjl3anRVQy1UeHR4UHhkOFRZeVdUdE85bHpVU3Bn",
         "title": "‘YouTube vs TikTok’ battle breaks the internet! Video goes viral",
         "source": "The News Mill",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUTVGQzFBRUdEbFBmcHhUam9xeTM0bm1WSzZ4OFEyaUJZZ0xmSHJXLUp2cGk3WFllVjJzVk5UdjBPdm9PQmhONHZUMWtiVWIxMVNjS2JoWXFSNHlJWHJrTGM0RWJCMzMxTW1mNThKWW9kbmJHT184dmYxLTBocjl3anRVQy1UeHR4UHhkOFRZeVdUdE85bHpVU3Bn?oc=5",
         "timestamp": 1774648932
+      },
+      {
+        "id": "CBMid0FVX3lxTE0wQjZRMzRJWTVWWVh3WVdjSjBqYnJLaTBoOU5wZmtxMTkxWmk0ZzVwOFpZN01SVy1MU25LUGdscE9yV0JVTkpHX2thbXNjeVJIYzJ6R29sMzh3TVpmM3JzekRTQXhBY2lJRURPbER2ZnVwbUJNYzBR",
+        "title": "Everyone with good taste is already wearing these trousers – they'll 100% sell out by April",
+        "source": "graziadaily.co.uk",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wQjZRMzRJWTVWWVh3WVdjSjBqYnJLaTBoOU5wZmtxMTkxWmk0ZzVwOFpZN01SVy1MU25LUGdscE9yV0JVTkpHX2thbXNjeVJIYzJ6R29sMzh3TVpmM3JzekRTQXhBY2lJRURPbER2ZnVwbUJNYzBR?oc=5",
+        "timestamp": 1774648863
       },
       {
         "id": "CBMiYkFVX3lxTE1CVFItcl9HbU5YOVVoSFFJU01heTJ6MnhtOHdkU29DekhhVDljMUgwMWdYMjVUNl9JWWVBZFd5TC14Tkd1bWUtbUR5RDNWZ0wwZTZJZG9jNDFuOXU1VWRHQWlB",
@@ -1432,11 +1460,11 @@
         "timestamp": 1774648757
       },
       {
-        "id": "CBMiOkFVX3lxTE15a0pnSlVXbUxWSnZ1Ul9mT1RkekpRYms2djM0QVlJTm5HaUQxLTlyZ1NXZkg2Vk10N0E",
-        "title": "Share Prices, Stock Quotes, Charts, Trade History, Share Chat, Financial News - London South East",
-        "source": "London South East",
-        "link": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE15a0pnSlVXbUxWSnZ1Ul9mT1RkekpRYms2djM0QVlJTm5HaUQxLTlyZ1NXZkg2Vk10N0E?oc=5",
-        "timestamp": 1774646974
+        "id": "CBMigwFBVV95cUxOcnBMSTNlRW91Wjk2RW9zOWUwODhTLUNSM3VHSmtVVUF5T29CS2JxQTVpWlZIbjdvVVVMRnF2ZkdXWFQ1TDlaNDBXVUpwR0sxYVF1QUVFNldpZFF0WFJCaGY0TW5fSGpkMHhvZi1DRXpHT3ZoSl9uTHdjTEQ5YjFTVzFjcw",
+        "title": "Gypsy-Rose Blanchard Recounts Mom’s Murder While Doing ‘We Listen and We Don’t Judge’ TikTok Trend",
+        "source": "AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnBMSTNlRW91Wjk2RW9zOWUwODhTLUNSM3VHSmtVVUF5T29CS2JxQTVpWlZIbjdvVVVMRnF2ZkdXWFQ1TDlaNDBXVUpwR0sxYVF1QUVFNldpZFF0WFJCaGY0TW5fSGpkMHhvZi1DRXpHT3ZoSl9uTHdjTEQ5YjFTVzFjcw?oc=5",
+        "timestamp": 1774648514
       },
       {
         "id": "CBMipwFBVV95cUxPRGs0SS12SFNKR2dQZlM1Y0dCNlQ2MVRQNUQ1SEducDZGOEdBa292aHlCb1N6QkQyejVXeV80dGJUNlptYTN0SE9yNGVCYW1PLW03am91U2NGMTRsT2xGY0Vvbkd0MzJNLXJROGY5SlIySGhHSkdlS3MzZlUwMzBtZE9wekV2dnYzdmt4WXVMZTVOT3NvY3d6RzV3S251YXpwU0lUS2Rjdw",
@@ -1448,14 +1476,14 @@
       {
         "id": "CBMioAFBVV95cUxPb1NUSkFhejlpTURxMk1HelR6V3kxS1VOWnAtTDJudUxwa1c1VmpDcU10QjMyXzJZRUdQMFZFZVRjS3IwazlPaWlzVk95dmdPU2c5Nl9xeTRmZE9PS2hrQk8zUFVyXzM4VEwtWFdlTnpieTRzeURER1Bzb19NUkJoOVA1a0V1c0VtS3VQRF9PWFhFLWthYjljbkhuVHk3X3dq",
         "title": "Revealed: Top 10 U.S. Counties Where Home Prices Plummeted up to $525,000 in One Year",
-        "source": "realtor.com",
+        "source": "Realtor.com",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1NUSkFhejlpTURxMk1HelR6V3kxS1VOWnAtTDJudUxwa1c1VmpDcU10QjMyXzJZRUdQMFZFZVRjS3IwazlPaWlzVk95dmdPU2c5Nl9xeTRmZE9PS2hrQk8zUFVyXzM4VEwtWFdlTnpieTRzeURER1Bzb19NUkJoOVA1a0V1c0VtS3VQRF9PWFhFLWthYjljbkhuVHk3X3dq?oc=5",
         "timestamp": 1774645797
       },
       {
         "id": "CBMixwFBVV95cUxPYkRkWFpaQWctMXpXclhqVWFsbmVyV2ZMTjdpRjdtdmw5SWViczNLelA2WHN0YTdkZTBsNTRHY3F4Z2VZclZqQnpHV2ZCZlpINUMtODBVOFBHanIxbW5vbkt5ZExjTEYwQ1E1cnBjT3h1R0h3S2hBZHZmZ3hTaEZUeFhKODZrV3NqdTRJZUxpZUVKR29nOXJhTkJIb2h6SEVlaTJUZjRRSFhtcV8xY3hrUExXNzNIcjJlVVVmNDdGZXFzZ0FlR08w",
         "title": "Gen Z Ditches TV for TikTok: How 18-29s in North America Are Rewriting News – And Why Artists Like",
-        "source": "ad-hoc-news.de",
+        "source": "AD HOC NEWS",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYkRkWFpaQWctMXpXclhqVWFsbmVyV2ZMTjdpRjdtdmw5SWViczNLelA2WHN0YTdkZTBsNTRHY3F4Z2VZclZqQnpHV2ZCZlpINUMtODBVOFBHanIxbW5vbkt5ZExjTEYwQ1E1cnBjT3h1R0h3S2hBZHZmZ3hTaEZUeFhKODZrV3NqdTRJZUxpZUVKR29nOXJhTkJIb2h6SEVlaTJUZjRRSFhtcV8xY3hrUExXNzNIcjJlVVVmNDdGZXFzZ0FlR08w?oc=5",
         "timestamp": 1774645778
       },
@@ -1467,18 +1495,18 @@
         "timestamp": 1774645500
       },
       {
-        "id": "CBMiTkFVX3lxTE5HZlhDdTkybWF5STh1NlNqRFlkNDZLdVd2T0ZhRXNpY2dDWEdiY3Z2cVBQVVNMVFA5Vzk4Q0lMSnpFUkF6WkRSNFo0TXhUZw",
-        "title": "News",
+        "id": "CBMiUkFVX3lxTFB4ZjBialBSTkFxdmZkWUdIaXBpWGRST3dJMlVBT2YxR2FOQ0x5Q3JKOW9yODdyaXF1eUlBN1JjR0Ria1RHNVNFdXVtZG00R2FxSEE",
+        "title": "Culture",
         "source": "The Independent",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HZlhDdTkybWF5STh1NlNqRFlkNDZLdVd2T0ZhRXNpY2dDWEdiY3Z2cVBQVVNMVFA5Vzk4Q0lMSnpFUkF6WkRSNFo0TXhUZw?oc=5",
-        "timestamp": 1774644180
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4ZjBialBSTkFxdmZkWUdIaXBpWGRST3dJMlVBT2YxR2FOQ0x5Q3JKOW9yODdyaXF1eUlBN1JjR0Ria1RHNVNFdXVtZG00R2FxSEE?oc=5",
+        "timestamp": 1774645380
       },
       {
-        "id": "CBMiUkFVX3lxTE5xc1ZETzNSQnR0UnducUtIRUtmTWRocmN3a0hNeUJFZC02VDJIa3NaTmVhZmVyTHB5LVNyWWJoU1g5dzRGQmFncjBUeU1KRUNfc2c",
-        "title": "Tech Weekly: Contradictory Peace Signals Whipsaw Markets",
-        "source": "Investing News Network",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xc1ZETzNSQnR0UnducUtIRUtmTWRocmN3a0hNeUJFZC02VDJIa3NaTmVhZmVyTHB5LVNyWWJoU1g5dzRGQmFncjBUeU1KRUNfc2c?oc=5",
-        "timestamp": 1774644123
+        "id": "CBMizAFBVV95cUxQU2pPVWRKbGdpeU5PQ1NLd3hzMGZTZDlJUVVkN3VUdXhuSFNGZzQ1d1JrZExkbE1YZV9Bd3RjUVJBN29OOTlpNERWUUZvTVNOZHFocWE1eHpTU0RobFVqOGxhbGVuU3FXMlhIRVBSSk1pc0lrQ2RqMlFtSzJwdjFsU2NXWEZWZi1LRXJMNGJhU2ZheDZaQzZWS1ZSVmpMb1FGNEgxX1RTdVNTbEgwZ2cyVGc5MER6VEtlTmg0TkJtclhIZDhfX0dkTGlxa3A",
+        "title": "Gen Z Ditches TV for TikTok News: Pew's Shocking Report on 18-29s in North America",
+        "source": "AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU2pPVWRKbGdpeU5PQ1NLd3hzMGZTZDlJUVVkN3VUdXhuSFNGZzQ1d1JrZExkbE1YZV9Bd3RjUVJBN29OOTlpNERWUUZvTVNOZHFocWE1eHpTU0RobFVqOGxhbGVuU3FXMlhIRVBSSk1pc0lrQ2RqMlFtSzJwdjFsU2NXWEZWZi1LRXJMNGJhU2ZheDZaQzZWS1ZSVmpMb1FGNEgxX1RTdVNTbEgwZ2cyVGc5MER6VEtlTmg0TkJtclhIZDhfX0dkTGlxa3A?oc=5",
+        "timestamp": 1774643538
       },
       {
         "id": "CBMilAFBVV95cUxNbkN3SXFiNG42NjFrd0taTDhhT1ducklZSWZFcHNrS3JyVnh0b3ZLZllwX2FybjYycE5XWVZPSE5PUXZGem1QOFlvU19zRFNSVG0xZ08zRWpDM0xWd0w2TWxiWGhENTRkUlBpWDlTOFp0am9sNURHRTAtT2luUzdQZ1hGVEtfanRSanl3YkZXTXMzdUkw",
@@ -1497,37 +1525,9 @@
       {
         "id": "CBMimwFBVV95cUxOUUFGSWsxV2Fka0VaY1hsUlkzR0VlaXFpSjJ4OS0xQjFBWXJvM2Qtc1RSRk1ydjB2bllTc3l3Vkc3VFdZeWVpUnpKaXE2VHJWeWZhNlRYc29GM3cwTlE2QUtVWEV4enUteU9uVzBHa3R3V1dqV3llQmgtVXVwZFY0RU9mSTFpTkY4ZkljSHk5VVJ0cXlXOW5YamM1MNIBoAFBVV95cUxNRXdTVUxWb0YzbFR6b2M3TVZsRjJqSEh6cnhEWlFrMzhRa255OU9JMlhhWVh3V19NajViUVJ5QWU2YlQ2MFhlMUlUbHlrVWQ5cWtVYnd2WU13Y3ZJZzVLd3ZRRnhLcXMtY3FPb0N6RWZkNXhXT2pfNHBUUy1QZFFCNUljQkVQSjNrcTFjaERtT3Y5TDk2TFZYSGc3ZHBYWGow",
         "title": "UK Finance 2026: J.P. Morgan, Bitget, Digital Assets Trends",
-        "source": "bitget.com",
+        "source": "Bitget",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUFGSWsxV2Fka0VaY1hsUlkzR0VlaXFpSjJ4OS0xQjFBWXJvM2Qtc1RSRk1ydjB2bllTc3l3Vkc3VFdZeWVpUnpKaXE2VHJWeWZhNlRYc29GM3cwTlE2QUtVWEV4enUteU9uVzBHa3R3V1dqV3llQmgtVXVwZFY0RU9mSTFpTkY4ZkljSHk5VVJ0cXlXOW5YamM1MNIBoAFBVV95cUxNRXdTVUxWb0YzbFR6b2M3TVZsRjJqSEh6cnhEWlFrMzhRa255OU9JMlhhWVh3V19NajViUVJ5QWU2YlQ2MFhlMUlUbHlrVWQ5cWtVYnd2WU13Y3ZJZzVLd3ZRRnhLcXMtY3FPb0N6RWZkNXhXT2pfNHBUUy1QZFFCNUljQkVQSjNrcTFjaERtT3Y5TDk2TFZYSGc3ZHBYWGow?oc=5",
         "timestamp": 1774642364
-      },
-      {
-        "id": "CBMipwFBVV95cUxQbHVMWVBQcE1hejlZaHZzNmVGVkEtU0x2WUJzNGl4T2VOd0V0MElPajJoQjZYdXppNC1ma3E2allTZDNPZmFsZ09IZFFZUGRwdGRHRnFfNEtVNnFMRDdXT0NBcVA2RTVmOFdZTG9nZ1dLb1o2eWhtUnZRNno3TEhhU2pNNXR3eXNSbVBVOVVWNTdKcW1zWFU0RWpwTTBsbzlrVUsxd1IzWQ",
-        "title": "Trending Industry Today: 3D Systems Leads Losses In 3D Printing Stocks",
-        "source": "Moomoo",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbHVMWVBQcE1hejlZaHZzNmVGVkEtU0x2WUJzNGl4T2VOd0V0MElPajJoQjZYdXppNC1ma3E2allTZDNPZmFsZ09IZFFZUGRwdGRHRnFfNEtVNnFMRDdXT0NBcVA2RTVmOFdZTG9nZ1dLb1o2eWhtUnZRNno3TEhhU2pNNXR3eXNSbVBVOVVWNTdKcW1zWFU0RWpwTTBsbzlrVUsxd1IzWQ?oc=5",
-        "timestamp": 1774642075
-      },
-      {
-        "id": "CBMi7wFBVV95cUxOUTJkb3A2UlMtMjZkNGMyOWptSXVVbXFxU3JzYmt1STg4Vm1BSGRFczNRc3VfQUdVWVExNFp5TS0tZnQyNGliVFp1Z3R6b19vR0pMUkNSS2JkcnJoTjAwUTZYdmpoNk1yMmpfRjJjeTZBRTRVLWxMeTFiWl9Oc3c5cVNLTXNwYWZYYWNSM2pHWGkzQ2JjcFFxNjlvSEZUcVpoa0NWcllHbGZIOUw5c3FfR1VZdkVyN1pZcUNFYVBQNV9HYXFrOWxUTE9UWGcya2tQZml4MXZUTHpWaXh6Q3F6RS1pUVMwald1NWNZUzh3a9IBeEFVX3lxTFA3NzNxRUtVaE5lTmVpakd1YUFkcGd5aDZ4UEJ0RkpBNUw3M09MY3YwTjZFVXdGRTZBZGl1REFKWEM2cmJSMjBkelpJYTRkNHRUam1zdXhpMHVkcUdxNlhNMTJKMzJjMXctcHc1TmRNWUN6enNjTGJxOA",
-        "title": "The rise of Looksmaxxing: 'Creating shame and secrecy among young men'",
-        "source": "9News",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUTJkb3A2UlMtMjZkNGMyOWptSXVVbXFxU3JzYmt1STg4Vm1BSGRFczNRc3VfQUdVWVExNFp5TS0tZnQyNGliVFp1Z3R6b19vR0pMUkNSS2JkcnJoTjAwUTZYdmpoNk1yMmpfRjJjeTZBRTRVLWxMeTFiWl9Oc3c5cVNLTXNwYWZYYWNSM2pHWGkzQ2JjcFFxNjlvSEZUcVpoa0NWcllHbGZIOUw5c3FfR1VZdkVyN1pZcUNFYVBQNV9HYXFrOWxUTE9UWGcya2tQZml4MXZUTHpWaXh6Q3F6RS1pUVMwald1NWNZUzh3a9IBeEFVX3lxTFA3NzNxRUtVaE5lTmVpakd1YUFkcGd5aDZ4UEJ0RkpBNUw3M09MY3YwTjZFVXdGRTZBZGl1REFKWEM2cmJSMjBkelpJYTRkNHRUam1zdXhpMHVkcUdxNlhNMTJKMzJjMXctcHc1TmRNWUN6enNjTGJxOA?oc=5",
-        "timestamp": 1774642040
-      },
-      {
-        "id": "CBMijAFBVV95cUxON0t3bU1tQS14TUV6cWVvVk9tM1lLczVmbTdhdkNWTE9fTm0tbWJfNkFQRXRQZDE3cTVZTGN4QV9CZzBuQXhmTGo3ZS1Dakk2OTZVbGJyOUVOYlFHR0NkZVRXNWkxenJGSEFtb21nbmJtLWtBM3VGRl9pcTNQM1Z3d0gwMkV5enRTbTcySQ",
-        "title": "Nonprofit Uses Viral 'Accomplishment Cake' TikTok Trend to Celebrate Employees with Disabilities (Exclusive)",
-        "source": "AOL.com",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON0t3bU1tQS14TUV6cWVvVk9tM1lLczVmbTdhdkNWTE9fTm0tbWJfNkFQRXRQZDE3cTVZTGN4QV9CZzBuQXhmTGo3ZS1Dakk2OTZVbGJyOUVOYlFHR0NkZVRXNWkxenJGSEFtb21nbmJtLWtBM3VGRl9pcTNQM1Z3d0gwMkV5enRTbTcySQ?oc=5",
-        "timestamp": 1774641986
-      },
-      {
-        "id": "CBMiuwFBVV95cUxPRU1QWVJtNXRWNWY2cjZCbnpqVFdEYl8wSWdJUzRkZVNHdkxmZlg5aFZBRENVbDlEbTFwUmhHdHdWZTRCbGZSNkkxX0poaGNYQUwzNnhMM1N6ZWYtU0tLcVdnb2ZBNk85aFVIZmdxNHFEcU9iZHBLeVIwZnZSZWxGTEZWMlFydzdYLUxnWVJyTkxnUFhoR09JNFhkZlFadVl0VjA3MW5hQzdyZlZfTTIyU2djdWxpNHoyN3RR",
-        "title": "‘The Drama’ director justified dating teen in resurfaced essay: ‘Can’t choose what the heart wants’",
-        "source": "Page Six",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRU1QWVJtNXRWNWY2cjZCbnpqVFdEYl8wSWdJUzRkZVNHdkxmZlg5aFZBRENVbDlEbTFwUmhHdHdWZTRCbGZSNkkxX0poaGNYQUwzNnhMM1N6ZWYtU0tLcVdnb2ZBNk85aFVIZmdxNHFEcU9iZHBLeVIwZnZSZWxGTEZWMlFydzdYLUxnWVJyTkxnUFhoR09JNFhkZlFadVl0VjA3MW5hQzdyZlZfTTIyU2djdWxpNHoyN3RR?oc=5",
-        "timestamp": 1774641780
       }
     ]
   }
